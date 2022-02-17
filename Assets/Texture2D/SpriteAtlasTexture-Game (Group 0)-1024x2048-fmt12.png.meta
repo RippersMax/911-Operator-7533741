@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: b26a4964933759745892750fbcd8a9a5
+timeCreated: 1645110870
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BigShadowHex
+    21300002: TileBadge
+    21300004: ShadowFlatCornerSquare
+    21300006: ThinOutlineRect
+    21300008: ShineBadge
+    21300010: StrokeHex
+    21300012: GradientFillRect
+    21300014: ReportCircle
+    21300016: ThinOutlineHex
+    21300018: EmptyBadge
+    21300020: ShadowArrowPin
+    21300022: Speaker
+    21300024: ArrowPin
+    21300026: BigShadowRect
+    21300028: GradientFillHex
+    21300030: StrokeRect
+    21300032: LoadingIcon
+    21300034: TimeFast
+    21300036: TimePause
+    21300038: GreenNewReportButton_Circle
+    21300040: TimePlay
+    21300042: RedReportPin
+    21300044: IconCall
+    21300046: CallPin
+    21300048: Clock_Back
+    21300050: TimeFastTwoThreeTimes
+    21300052: ExclamationReportPin
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BigShadowHex
+      rect:
+        serializedVersion: 2
+        x: 0.0761205
+        y: 580.0761
+        width: 327.8478
+        height: 318.8478
+      alignment: 9
+      pivot: {x: 0.5274517, y: 0.4858866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -162, y: -108.5}
+        - {x: -164, y: -106.5}
+        - {x: -164, y: 107.5}
+        - {x: -160, y: 111.5}
+        - {x: -150, y: 71.49998}
+        - {x: -126, y: 110.5}
+        - {x: -103, y: 139.5}
+        - {x: -80.00003, y: 153.5}
+        - {x: -56.00003, y: 158.5}
+        - {x: -41.00003, y: 159.5}
+        - {x: 34.99997, y: 159.5}
+        - {x: 60.99997, y: 156.5}
+        - {x: 85.99997, y: 146.5}
+        - {x: 108, y: 129.5}
+        - {x: 144, y: 69.49998}
+        - {x: 158, y: 41.49998}
+        - {x: 164, y: 18.49998}
+        - {x: 164, y: -17.50002}
+        - {x: 159, y: -41.50002}
+        - {x: 114, y: -119.5}
+        - {x: 95.99997, y: -139.5}
+        - {x: 73.99997, y: -152.5}
+        - {x: 50.99997, y: -158.5}
+        - {x: 34.99997, y: -159.5}
+        - {x: -46.00003, y: -159.5}
+        - {x: -71.00003, y: -156.5}
+        - {x: -92.00003, y: -146.5}
+        - {x: -113, y: -128.5}
+        - {x: -126, y: -110.5}
+        - {x: -150, y: -68.50002}
+        - {x: -155, y: -89.50002}
+        - {x: -157, y: -99.50002}
+        - {x: -159, y: -107.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBadge
+      rect:
+        serializedVersion: 2
+        x: 0.02675098
+        y: 1413
+        width: 142.9733
+        height: 142.9733
+      alignment: 9
+      pivot: {x: 0.4999065, y: 0.5035907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.48663, y: -71.48663}
+        - {x: -71.51337, y: -71.48663}
+        - {x: -71.51337, y: 43.51337}
+        - {x: -51.51337, y: 71.51337}
+        - {x: 71.48663, y: 71.51337}
+        - {x: 71.48663, y: -48.48663}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShadowFlatCornerSquare
+      rect:
+        serializedVersion: 2
+        x: 151.0761
+        y: 1514.076
+        width: 93.84776
+        height: 90.92388
+      alignment: 9
+      pivot: {x: 0.521311, y: 0.4940823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.00001, y: -37.53806}
+        - {x: -47.00001, y: -32.53806}
+        - {x: -47.00001, y: 26.46194}
+        - {x: -29.00001, y: 45.46194}
+        - {x: 45.99999, y: 45.46194}
+        - {x: 46.99999, y: 39.46194}
+        - {x: 46.99999, y: -36.53806}
+        - {x: 34.99999, y: -44.53806}
+        - {x: 24.99999, y: -45.53806}
+        - {x: -35.00001, y: -45.53806}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinOutlineRect
+      rect:
+        serializedVersion: 2
+        x: 560.0761
+        y: 522.0761
+        width: 249.9239
+        height: 174.8477
+      alignment: 9
+      pivot: {x: 0.4998477, y: 0.4971404}
+      border: {x: 27.92388, y: 26.92388, z: 27.99999, w: 27.92387}
+      outline:
+      - - {x: 110.9619, y: -79.49999}
+        - {x: 99.96194, y: -68.49999}
+        - {x: 99.96194, y: -65.49999}
+        - {x: 104.9619, y: 60.50001}
+        - {x: 101.9619, y: 60.50001}
+        - {x: -97.03806, y: 66.50001}
+        - {x: -98.03806, y: -65.49999}
+        - {x: -98.03806, y: -68.49999}
+        - {x: -108.0381, y: -79.49999}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShineBadge
+      rect:
+        serializedVersion: 2
+        x: 702.0727
+        y: 0.0761205
+        width: 276.891
+        height: 295.8478
+      alignment: 9
+      pivot: {x: 0.5071574, y: 0.50169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.48181, y: 15.99998}
+        - {x: 15.48181, y: 13.99999}
+        - {x: 17.48181, y: 12.99998}
+        - {x: 17.48181, y: 9.999985}
+        - {x: 14.48181, y: 8.999985}
+        - {x: 12.48181, y: 11.99998}
+        - {x: 13.48181, y: 12.99998}
+        - {x: 4.481812, y: 10.99998}
+        - {x: -9.518188, y: 10.99998}
+        - {x: -9.518188, y: 9.999985}
+        - {x: -14.51819, y: 5.999985}
+        - {x: 65.48181, y: 5.999985}
+        - {x: 138.4818, y: -18.00002}
+        - {x: 138.4818, y: -115}
+        - {x: 126.4818, y: -148}
+        - {x: -64.51819, y: -148}
+        - {x: -72.51819, y: -128}
+        - {x: -87.51819, y: -121}
+        - {x: -79.51819, y: -79.00002}
+        - {x: -89.51819, y: -86.00002}
+        - {x: -106.5182, y: -97.00002}
+        - {x: -109.5182, y: -97.00002}
+        - {x: -116.5182, y: -89.00002}
+        - {x: -119.5182, y: -86.00002}
+        - {x: -131.5182, y: -68.00002}
+        - {x: -138.5182, y: -52.00001}
+        - {x: -138.5182, y: -42.00002}
+        - {x: -69.51819, y: 5.999985}
+        - {x: -16.51819, y: 5.999985}
+        - {x: -17.51819, y: 8.999985}
+        - {x: -14.51819, y: 10.99998}
+        - {x: -33.51819, y: 10.99998}
+        - {x: -54.51819, y: 15.99998}
+        - {x: -121.5182, y: 76.99998}
+        - {x: -121.5182, y: 148}
+        - {x: 87.48181, y: 148}
+        - {x: 92.48181, y: 135}
+        - {x: 92.48181, y: 108}
+        - {x: 37.48181, y: 29.99998}
+        - {x: 88.48181, y: 65.99998}
+        - {x: 119.4818, y: 84.99998}
+        - {x: 123.4818, y: 84.99998}
+        - {x: 128.4818, y: 76.99998}
+        - {x: 128.4818, y: 71.99998}
+        - {x: 65.48181, y: 33.99998}
+        - {x: 29.48181, y: 12.99998}
+        - {x: 26.48181, y: 12.99998}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StrokeHex
+      rect:
+        serializedVersion: 2
+        x: 702.0761
+        y: 304
+        width: 233.8477
+        height: 209.9239
+      alignment: 9
+      pivot: {x: 0.5042763, y: 0.5001813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.99999, y: -91.96194}
+        - {x: -117, y: -8.961937}
+        - {x: -117, y: 7.038063}
+        - {x: -70.99999, y: 92.03806}
+        - {x: -57.99999, y: 105.0381}
+        - {x: 61.00001, y: 105.0381}
+        - {x: 117, y: 14.03806}
+        - {x: 117, y: -6.961937}
+        - {x: 108, y: -23.96194}
+        - {x: 70.00001, y: -91.96194}
+        - {x: 58.00001, y: -104.9619}
+        - {x: -59.99999, y: -104.9619}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GradientFillRect
+      rect:
+        serializedVersion: 2
+        x: 629.0761
+        y: 705.0761
+        width: 248.8477
+        height: 174.8477
+      alignment: 9
+      pivot: {x: 0.5020093, y: 0.4971404}
+      border: {x: 4.92388, y: 3.92388, z: 4.923868, w: 4.923868}
+      outline:
+      - - {x: -122.5, y: -87.49999}
+        - {x: -124.5, y: -85.49999}
+        - {x: -124.5, y: 85.50001}
+        - {x: -122.5, y: 87.50001}
+        - {x: 124.5, y: 87.50001}
+        - {x: 124.5, y: -87.49999}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ReportCircle
+      rect:
+        serializedVersion: 2
+        x: 394.0761
+        y: 0.07612038
+        width: 299.8478
+        height: 297.8478
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.5033574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.00002, y: -149}
+        - {x: -139, y: -85.00002}
+        - {x: -150, y: -51.00002}
+        - {x: -150, y: 44.99998}
+        - {x: -141, y: 95.99998}
+        - {x: -65.00002, y: 149}
+        - {x: 66.99998, y: 149}
+        - {x: 132, y: 103}
+        - {x: 150, y: 41.99998}
+        - {x: 150, y: -79.00002}
+        - {x: 146, y: -91.00002}
+        - {x: 53.99999, y: -149}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinOutlineHex
+      rect:
+        serializedVersion: 2
+        x: 0.0761205
+        y: 1090.076
+        width: 199.8477
+        height: 174.8477
+      alignment: 9
+      pivot: {x: 0.502502, y: 0.4971404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.00002, y: -87.49999}
+        - {x: -55.99998, y: -87.49999}
+        - {x: -99.99998, y: -14.49999}
+        - {x: -99.99998, y: 7.500008}
+        - {x: -58.99999, y: 87.50001}
+        - {x: 57.00002, y: 87.50001}
+        - {x: 100, y: 3.500008}
+        - {x: 100, y: -9.499992}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EmptyBadge
+      rect:
+        serializedVersion: 2
+        x: 253.0761
+        y: 0
+        width: 112.8478
+        height: 105.9239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5003593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 26.03806}
+        - {x: -18.5, y: 45.03806}
+        - {x: -18.5, y: 45.03806}
+        - {x: -16.5, y: 46.03806}
+        - {x: -3.500004, y: 52.03806}
+        - {x: -2.500004, y: 53.03806}
+        - {x: 56.5, y: 53.03806}
+        - {x: 56.5, y: -30.96194}
+        - {x: 48.5, y: -52.96194}
+        - {x: 21.5, y: -52.96194}
+        - {x: 15.5, y: -52.96194}
+        - {x: -6.500004, y: -52.96194}
+        - {x: -56.5, y: -24.96194}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShadowArrowPin
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1273.027
+        width: 179.9239
+        height: 131.9733
+      alignment: 9
+      pivot: {x: 0.5113274, y: 0.49611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.96193, y: -66.01337}
+        - {x: -89.96193, y: -46.01337}
+        - {x: -89.96193, y: 65.98663}
+        - {x: 87.03807, y: 65.98663}
+        - {x: 90.03807, y: 51.98662}
+        - {x: 90.03807, y: -15.01337}
+        - {x: 59.03807, y: -66.01337}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Speaker
+      rect:
+        serializedVersion: 2
+        x: 336.0761
+        y: 580.0761
+        width: 215.8477
+        height: 164.8477
+      alignment: 9
+      pivot: {x: 0.5185316, y: 0.5030331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.00001, y: 53.5}
+        - {x: 39.00001, y: 52.5}
+        - {x: 39.00001, y: 64.5}
+        - {x: 67.00001, y: 64.5}
+        - {x: 67.00001, y: 76.5}
+        - {x: 98.00001, y: 76.5}
+        - {x: 108, y: 41.5}
+        - {x: 108, y: -53.5}
+        - {x: 92.00001, y: -76.5}
+        - {x: 67.00001, y: -76.5}
+        - {x: 67.00001, y: -62.5}
+        - {x: 65.00001, y: -64.5}
+        - {x: 39.00001, y: -64.5}
+        - {x: 39.00001, y: -53.5}
+        - {x: 10.00001, y: -53.5}
+        - {x: 10.00001, y: 53.5}
+      - - {x: -12.99999, y: -82.5}
+        - {x: -108, y: -38.5}
+        - {x: -108, y: 40.5}
+        - {x: -6.999992, y: 82.5}
+        - {x: 7.629395E-06, y: 82.5}
+        - {x: 7.629395E-06, y: -82.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArrowPin
+      rect:
+        serializedVersion: 2
+        x: 151.0761
+        y: 1420.076
+        width: 123.8478
+        height: 85.84776
+      alignment: 9
+      pivot: {x: 0.5040372, y: 0.5058243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -34}
+        - {x: -62, y: 13}
+        - {x: -62, y: 43}
+        - {x: 62, y: 43}
+        - {x: 62, y: 12}
+        - {x: 8, y: -43}
+        - {x: -2, y: -43}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigShadowRect
+      rect:
+        serializedVersion: 2
+        x: 0.0761205
+        y: 253.0761
+        width: 385.8971
+        height: 318.8478
+      alignment: 9
+      pivot: {x: 0.553059, y: 0.4717733}
+      border: {x: 100.9239, y: 89.92388, z: 91.97325, w: 105.9239}
+      outline:
+      - - {x: -192.0247, y: -82.50002}
+        - {x: -193.0247, y: -70.50002}
+        - {x: -193.0247, y: 70.49998}
+        - {x: -192.0247, y: 82.49998}
+        - {x: -189.0247, y: 99.49998}
+        - {x: -186.0247, y: 109.5}
+        - {x: -184.0247, y: 114.5}
+        - {x: -178.0247, y: 126.5}
+        - {x: -175.0247, y: 130.5}
+        - {x: -160.0247, y: 144.5}
+        - {x: -148.0247, y: 150.5}
+        - {x: -137.0247, y: 154.5}
+        - {x: -123.0247, y: 157.5}
+        - {x: -116.0247, y: 158.5}
+        - {x: -104.0247, y: 159.5}
+        - {x: 110.9753, y: 159.5}
+        - {x: 122.9753, y: 158.5}
+        - {x: 129.9753, y: 157.5}
+        - {x: 150.9753, y: 153.5}
+        - {x: 161.9753, y: 147.5}
+        - {x: 169.9753, y: 141.5}
+        - {x: 184.9753, y: 126.5}
+        - {x: 192.9753, y: 109.5}
+        - {x: 192.9753, y: -111.5}
+        - {x: 187.9753, y: -121.5}
+        - {x: 181.9753, y: -129.5}
+        - {x: 166.9753, y: -144.5}
+        - {x: 161.9753, y: -147.5}
+        - {x: 154.9753, y: -150.5}
+        - {x: 143.9753, y: -154.5}
+        - {x: 129.9753, y: -157.5}
+        - {x: 122.9753, y: -158.5}
+        - {x: 110.9753, y: -159.5}
+        - {x: -104.0247, y: -159.5}
+        - {x: -116.0247, y: -158.5}
+        - {x: -123.0247, y: -157.5}
+        - {x: -128.0247, y: -156.5}
+        - {x: -144.0247, y: -153.5}
+        - {x: -155.0247, y: -147.5}
+        - {x: -163.0247, y: -141.5}
+        - {x: -178.0247, y: -126.5}
+        - {x: -185.0247, y: -114.5}
+        - {x: -188.0247, y: -103.5}
+        - {x: -189.0247, y: -99.50002}
+        - {x: -191.0247, y: -89.50002}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GradientFillHex
+      rect:
+        serializedVersion: 2
+        x: 0.0761205
+        y: 907.0761
+        width: 199.8477
+        height: 174.8477
+      alignment: 9
+      pivot: {x: 0.502502, y: 0.4971404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.99998, y: -87.49999}
+        - {x: -99.99998, y: -10.49999}
+        - {x: -99.99998, y: 2.500008}
+        - {x: -78.99998, y: 47.50001}
+        - {x: -55.99998, y: 87.50001}
+        - {x: 54.00002, y: 87.50001}
+        - {x: 100, y: 3.500008}
+        - {x: 100, y: -2.499992}
+        - {x: 76.00002, y: -45.49999}
+        - {x: 54.00002, y: -87.49999}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StrokeRect
+      rect:
+        serializedVersion: 2
+        x: 336.0761
+        y: 753.0761
+        width: 284.8478
+        height: 209.9239
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.4998187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -140.5, y: -93.03806}
+        - {x: -142.5, y: -85.03806}
+        - {x: -142.5, y: 85.96194}
+        - {x: -140.5, y: 93.96194}
+        - {x: -137.5, y: 97.96194}
+        - {x: -130.5, y: 103.9619}
+        - {x: -126.5, y: 104.9619}
+        - {x: 126.5, y: 104.9619}
+        - {x: 130.5, y: 103.9619}
+        - {x: 134.5, y: 100.9619}
+        - {x: 140.5, y: 93.96194}
+        - {x: 142.5, y: 85.96194}
+        - {x: 142.5, y: -85.03806}
+        - {x: 140.5, y: -93.03806}
+        - {x: 137.5, y: -97.03806}
+        - {x: 130.5, y: -103.0381}
+        - {x: 122.5, y: -105.038}
+        - {x: -122.5, y: -105.038}
+        - {x: -130.5, y: -103.0381}
+        - {x: -134.5, y: -100.0381}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingIcon
+      rect:
+        serializedVersion: 2
+        x: 394.0761
+        y: 306.0761
+        width: 196.8477
+        height: 195.8477
+      alignment: 9
+      pivot: {x: 0.5013009, y: 0.4725476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96.50001, y: -97.99999}
+        - {x: -76.49999, y: -97.99999}
+        - {x: -94.49999, y: -51.99999}
+        - {x: -98.49999, y: -34.99999}
+        - {x: -98.49999, y: 41.00001}
+        - {x: -54.49999, y: 97.00001}
+        - {x: -44.49999, y: 98.00001}
+        - {x: 8.500008, y: 98.00001}
+        - {x: 41.50001, y: -19.99999}
+        - {x: 13.50001, y: 84.00001}
+        - {x: 47.50001, y: 97.00001}
+        - {x: 98.50002, y: 68.00001}
+        - {x: 98.50002, y: -89.99999}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TimeFast
+      rect:
+        serializedVersion: 2
+        x: 283.0429
+        y: 1420
+        width: 79.95709
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4809716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.97855, y: -43}
+        - {x: -40.02145, y: -43}
+        - {x: -40.02145, y: 40}
+        - {x: -38.02145, y: 43}
+        - {x: 9.978546, y: 43}
+        - {x: 39.97855, y: 21}
+        - {x: 39.97855, y: -11}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TimePause
+      rect:
+        serializedVersion: 2
+        x: 0.02675104
+        y: 1564
+        width: 70.9465
+        height: 85.97325
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.5001556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: -39.98663}
+        - {x: -35.5, y: -38.98663}
+        - {x: -35.5, y: 43.01337}
+        - {x: 32.5, y: 43.01337}
+        - {x: 35.5, y: 37.01337}
+        - {x: 35.5, y: -39.98663}
+        - {x: 31.5, y: -42.98663}
+        - {x: -30.5, y: -42.98663}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenNewReportButton_Circle
+      rect:
+        serializedVersion: 2
+        x: 344.0761
+        y: 1264.027
+        width: 74.84776
+        height: 73.9465
+      alignment: 9
+      pivot: {x: 0.5334011, y: 0.4797151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: -37}
+        - {x: -35.5, y: -37}
+        - {x: -37.5, y: -30}
+        - {x: -37.5, y: 33}
+        - {x: -26.5, y: 37}
+        - {x: 28.5, y: 37}
+        - {x: 37.5, y: 16}
+        - {x: 37.5, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TimePlay
+      rect:
+        serializedVersion: 2
+        x: 364.0268
+        y: 1065
+        width: 55.9465
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4553144, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.000002, y: -43}
+        - {x: -28, y: -43}
+        - {x: -28, y: 43}
+        - {x: -8.000002, y: 43}
+        - {x: 28, y: 19}
+        - {x: 28, y: -10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedReportPin
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 971
+        width: 147.9239
+        height: 137.9239
+      alignment: 9
+      pivot: {x: 0.470162, y: 0.5315828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.96194, y: -68.96194}
+        - {x: -73.96194, y: -37.96194}
+        - {x: -73.96194, y: 43.03806}
+        - {x: -48.96194, y: 69.03806}
+        - {x: 59.03806, y: 69.03806}
+        - {x: 74.03806, y: 38.03806}
+        - {x: 74.03806, y: -48.96193}
+        - {x: 57.03807, y: -68.96194}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IconCall
+      rect:
+        serializedVersion: 2
+        x: 344.0761
+        y: 1346.027
+        width: 64.89713
+        height: 64.89713
+      alignment: 9
+      pivot: {x: 0.5073242, y: 0.4772668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.524685, y: -32.47532}
+        - {x: -32.52468, y: -24.47532}
+        - {x: -32.52468, y: 17.52468}
+        - {x: -18.52468, y: 32.52468}
+        - {x: 18.47532, y: 32.52468}
+        - {x: 32.47532, y: 18.52468}
+        - {x: 32.47532, y: -16.47532}
+        - {x: 20.47532, y: -32.47532}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CallPin
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1117
+        width: 147.9239
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5002573, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.96194, y: -69.5}
+        - {x: -73.96194, y: -59.5}
+        - {x: -73.96194, y: 60.5}
+        - {x: -58.96193, y: 69.5}
+        - {x: 53.03806, y: 69.5}
+        - {x: 74.03806, y: 60.5}
+        - {x: 74.03806, y: -54.5}
+        - {x: 70.03806, y: -69.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clock_Back
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1273
+        width: 147.9239
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5002573, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.96194, y: -69.5}
+        - {x: -73.96194, y: -59.5}
+        - {x: -73.96194, y: 60.5}
+        - {x: -58.96193, y: 69.5}
+        - {x: 53.03806, y: 69.5}
+        - {x: 74.03806, y: 60.5}
+        - {x: 74.03806, y: -54.5}
+        - {x: 70.03806, y: -69.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TimeFastTwoThreeTimes
+      rect:
+        serializedVersion: 2
+        x: 364.0429
+        y: 971
+        width: 105.9571
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4950786, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.97855, y: -43}
+        - {x: -53.02145, y: -43}
+        - {x: -53.02145, y: 43}
+        - {x: 22.97855, y: 43}
+        - {x: 52.97855, y: 23}
+        - {x: 52.97855, y: -11}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ExclamationReportPin
+      rect:
+        serializedVersion: 2
+        x: 253.0761
+        y: 114
+        width: 37.84776
+        height: 72.92388
+      alignment: 9
+      pivot: {x: 0.4867892, y: 0.5073783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -36.46194}
+        - {x: -19, y: -36.46194}
+        - {x: -19, y: 29.53806}
+        - {x: -15, y: 36.53806}
+        - {x: 13, y: 36.53806}
+        - {x: 19, y: 33.53806}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag:
+  userData:
+  assetBundleName:
+  assetBundleVariant:

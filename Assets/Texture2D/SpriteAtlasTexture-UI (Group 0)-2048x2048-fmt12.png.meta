@@ -1,0 +1,1355 @@
+fileFormatVersion: 2
+guid: 5eaafaa903f445448ad833320b668cce
+timeCreated: 1645110870
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PieceMap
+    21300002: Podkreslnik
+    21300004: ThinLine
+    21300006: Gradient
+    21300008: FillTriangleBig
+    21300010: JUTSU
+    21300012: Rhombus
+    21300014: TemmemberLine
+    21300016: Frame
+    21300018: ThickOutlineSquare
+    21300020: FrameFill
+    21300022: FourFrame
+    21300024: RadialGradient
+    21300026: UpOneSideGradient
+    21300028: OutlineSmallButton
+    21300030: FillTriangle
+    21300032: ThinOutlineSquare
+    21300034: SmallStripes
+    21300036: FillSquare
+    21300038: ThickLine
+    21300040: Background
+    21300042: Dots
+    21300044: GradientFrame
+    21300046: PointyFillTriangle
+    21300048: TriangleCloud
+    21300050: Circle
+    21300052: TutorialFrame2
+    21300054: Frame 1
+    21300056: fillxframe
+    21300058: GradientThinLine
+    21300060: FillSmallButton
+    21300062: OneSideGradient
+    21300064: TutorialFrame3
+    21300066: xframe
+    21300068: FlatCornersSquare
+    21300070: OutlineSmallButton
+    21300072: GradientThinLine 1
+    21300074: Stripes
+    21300076: TutorialFrame4
+    21300078: OneSideGradient 1
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PieceMap
+      rect:
+        serializedVersion: 2
+        x: 1074.076
+        y: 813
+        width: 534.8478
+        height: 143.9487
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5001782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -266.5, y: -71.97434}
+        - {x: -267.5, y: -68.97434}
+        - {x: -267.5, y: 68.02566}
+        - {x: -262.5, y: 72.02566}
+        - {x: 263.5, y: 72.02566}
+        - {x: 267.5, y: 68.02566}
+        - {x: 267.5, y: -68.97434}
+        - {x: 265.5, y: -71.97434}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Podkreslnik
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 360
+        width: 5
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 4, z: 1, w: 1}
+      outline:
+      - - {x: -2.5, y: -3}
+        - {x: -2.5, y: 3}
+        - {x: 2.5, y: 3}
+        - {x: 2.5, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinLine
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1414
+        width: 47
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -3}
+        - {x: -23.5, y: 3}
+        - {x: 23.5, y: 3}
+        - {x: 23.5, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gradient
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 965
+        width: 250
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      outline:
+      - - {x: 114, y: -88}
+        - {x: -125, y: -88}
+        - {x: -125, y: 77}
+        - {x: -114, y: 88}
+        - {x: 125, y: 88}
+        - {x: 125, y: -77}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FillTriangleBig
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 965
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: 124}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUTSU
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1413
+        width: 251
+        height: 283
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.5, y: -39.5}
+        - {x: -92.5, y: -36.5}
+        - {x: -92.5, y: 141.5}
+        - {x: 91.5, y: 141.5}
+        - {x: 91.5, y: -37.5}
+        - {x: 89.5, y: -39.5}
+      - - {x: 125.5, y: -97.5}
+        - {x: 29.5, y: -97.5}
+        - {x: 29.5, y: -68.5}
+        - {x: 7.5, y: -95.5}
+        - {x: 5.5, y: -97.5}
+        - {x: -4.5, y: -97.5}
+        - {x: -6.5, y: -95.5}
+        - {x: -24.5, y: -71.5}
+        - {x: -26.5, y: -69.5}
+        - {x: -26.5, y: -59.5}
+        - {x: -24.5, y: -57.5}
+        - {x: 28.5, y: -57.5}
+        - {x: 29.5, y: -59.5}
+        - {x: 29.5, y: -58.5}
+        - {x: 32.5, y: -57.5}
+        - {x: 125.5, y: -57.5}
+      - - {x: -124.5, y: -97.5}
+        - {x: -125.5, y: -96.5}
+        - {x: -125.5, y: -76.5}
+        - {x: -96.5, y: -57.5}
+        - {x: -78.5, y: -57.5}
+        - {x: -78.5, y: -95.5}
+        - {x: -84.5, y: -97.5}
+      - - {x: 33.5, y: -141.5}
+        - {x: 29.5, y: -135.5}
+        - {x: 29.5, y: -141.5}
+        - {x: -28.5, y: -141.5}
+        - {x: -28.5, y: -140.5}
+        - {x: -29.5, y: -141.5}
+        - {x: -48.5, y: -141.5}
+        - {x: -63.5, y: -139.5}
+        - {x: -65.5, y: -141.5}
+        - {x: -77.5, y: -141.5}
+        - {x: -118.5, y: -141.5}
+        - {x: -125.5, y: -134.5}
+        - {x: -125.5, y: -103.5}
+        - {x: -79.5, y: -103.5}
+        - {x: -77.5, y: -104.5}
+        - {x: -77.5, y: -115.5}
+        - {x: -69.5, y: -103.5}
+        - {x: -28.5, y: -103.5}
+        - {x: -28.5, y: -111.5}
+        - {x: -20.5, y: -103.5}
+        - {x: 29.5, y: -103.5}
+        - {x: 125.5, y: -103.5}
+        - {x: 125.5, y: -141.5}
+      - - {x: -69.5, y: -97.5}
+        - {x: -77.5, y: -85.5}
+        - {x: -77.5, y: -59.5}
+        - {x: -75.5, y: -57.5}
+        - {x: -30.5, y: -57.5}
+        - {x: -28.5, y: -59.5}
+        - {x: -28.5, y: -97.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rhombus
+      rect:
+        serializedVersion: 2
+        x: 1713.076
+        y: 903.0761
+        width: 34.84776
+        height: 170.8477
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -85.49999}
+        - {x: -17.5, y: -83.49999}
+        - {x: -17.5, y: 57.50001}
+        - {x: 14.5, y: 85.50001}
+        - {x: 17.5, y: 85.50001}
+        - {x: 17.5, y: -53.5}
+        - {x: -14.5, y: -85.49999}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TemmemberLine
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1830
+        width: 36
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 9, z: 5, w: 9}
+      outline:
+      - - {x: -18, y: -9}
+        - {x: -18, y: 9}
+        - {x: 18, y: 9}
+        - {x: 18, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frame
+      rect:
+        serializedVersion: 2
+        x: 1596.058
+        y: 965.0267
+        width: 108.8854
+        height: 73.89713
+      alignment: 9
+      pivot: {x: 0.5091755, y: 0.5138663}
+      border: {x: 30.9418, y: 33.97325, z: 28.94363, w: 32.92388}
+      outline:
+      - - {x: -47.50092, y: -36.97532}
+        - {x: -54.50092, y: -33.97532}
+        - {x: -54.50092, y: 24.02468}
+        - {x: -41.50092, y: 37.02468}
+        - {x: 49.49908, y: 37.02468}
+        - {x: 54.49908, y: 35.02468}
+        - {x: 54.49908, y: -36.97532}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThickOutlineSquare
+      rect:
+        serializedVersion: 2
+        x: 1716.076
+        y: 417.0761
+        width: 102.8478
+        height: 102.8478
+      alignment: 9
+      pivot: {x: 0.5048615, y: 0.4951384}
+      border: {x: 8.92388, y: 8.92388, z: 7.923883, w: 9.923883}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrameFill
+      rect:
+        serializedVersion: 2
+        x: 707.0761
+        y: 1438.076
+        width: 89.84776
+        height: 52.84776
+      alignment: 9
+      pivot: {x: 0.505565, y: 0.5094611}
+      border: {x: 20.92388, y: 22.92388, z: 19.92388, w: 21.92388}
+      outline:
+      - - {x: -35, y: -23.5}
+        - {x: -45, y: -12.5}
+        - {x: -45, y: 13.5}
+        - {x: -32, y: 26.5}
+        - {x: 40, y: 26.5}
+        - {x: 45, y: 13.5}
+        - {x: 45, y: -21.5}
+        - {x: 34, y: -26.5}
+        - {x: -32, y: -26.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FourFrame
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 528
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 18, z: 17, w: 18}
+      outline:
+      - - {x: 15, y: 1}
+        - {x: 1, y: 12}
+        - {x: 1, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: 1}
+      - - {x: -12, y: 1}
+        - {x: -20, y: 1}
+        - {x: -20, y: 20}
+        - {x: -1, y: 20}
+        - {x: -1, y: 15}
+      - - {x: 2, y: -20}
+        - {x: 1, y: -19}
+        - {x: 1, y: -12}
+        - {x: 12, y: -1}
+        - {x: 20, y: -1}
+        - {x: 20, y: -20}
+      - - {x: -1, y: -20}
+        - {x: -20, y: -20}
+        - {x: -20, y: -1}
+        - {x: -6, y: -1}
+        - {x: -1, y: -10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RadialGradient
+      rect:
+        serializedVersion: 2
+        x: 1074.043
+        y: 0.01291275
+        width: 437.9236
+        height: 467.9307
+      alignment: 9
+      pivot: {x: 0.5205408, y: 0.5000464}
+      border: {x: 214.9571, y: 220.9871, z: 196.9665, w: 218.9436}
+      outline:
+      - - {x: -181.0047, y: -146.9783}
+        - {x: -188.0047, y: -134.9783}
+        - {x: -186.0047, y: -123.9783}
+        - {x: -197.0047, y: -111.9783}
+        - {x: -212.0047, y: -75.97827}
+        - {x: -216.0047, y: -53.97828}
+        - {x: -219.0047, y: -44.97827}
+        - {x: -216.0047, y: -30.97827}
+        - {x: -219.0047, y: -20.97827}
+        - {x: -219.0047, y: -9.978271}
+        - {x: -216.0047, y: 0.02172852}
+        - {x: -219.0047, y: 6.021729}
+        - {x: -219.0047, y: 14.02173}
+        - {x: -215.0047, y: 40.02173}
+        - {x: -212.0047, y: 62.02173}
+        - {x: -205.0047, y: 89.02173}
+        - {x: -200.0047, y: 100.0217}
+        - {x: -191.0047, y: 122.0217}
+        - {x: -177.0047, y: 145.0217}
+        - {x: -164.0047, y: 163.0217}
+        - {x: -158.0047, y: 163.0217}
+        - {x: -153.0047, y: 176.0217}
+        - {x: -127.0047, y: 191.0217}
+        - {x: -91.00471, y: 209.0217}
+        - {x: -70.00471, y: 218.0217}
+        - {x: -36.00471, y: 228.0217}
+        - {x: -3.004715, y: 234.0217}
+        - {x: 39.99529, y: 234.0217}
+        - {x: 68.99529, y: 230.0217}
+        - {x: 97.99529, y: 220.0217}
+        - {x: 111.9953, y: 215.0217}
+        - {x: 122.9953, y: 203.0217}
+        - {x: 141.9953, y: 195.0217}
+        - {x: 167.9953, y: 171.0217}
+        - {x: 181.9953, y: 154.0217}
+        - {x: 188.9953, y: 135.0217}
+        - {x: 205.9953, y: 100.0217}
+        - {x: 214.9953, y: 76.02173}
+        - {x: 215.9953, y: 70.02173}
+        - {x: 218.9953, y: 35.02173}
+        - {x: 218.9953, y: -18.97827}
+        - {x: 217.9953, y: -26.97827}
+        - {x: 214.9953, y: -48.97827}
+        - {x: 209.9953, y: -58.97827}
+        - {x: 202.9953, y: -91.97827}
+        - {x: 190.9953, y: -116.9783}
+        - {x: 166.9953, y: -153.9783}
+        - {x: 154.9953, y: -160.9783}
+        - {x: 149.9953, y: -173.9783}
+        - {x: 138.9953, y: -186.9783}
+        - {x: 109.9953, y: -202.9783}
+        - {x: 93.99529, y: -212.9783}
+        - {x: 75.99529, y: -221.9783}
+        - {x: 62.99529, y: -225.9783}
+        - {x: 51.99529, y: -230.9783}
+        - {x: 22.99529, y: -233.9783}
+        - {x: -12.00471, y: -233.9783}
+        - {x: -38.00471, y: -230.9783}
+        - {x: -49.00471, y: -228.9783}
+        - {x: -68.00471, y: -220.9783}
+        - {x: -93.00471, y: -212.9783}
+        - {x: -105.0047, y: -207.9783}
+        - {x: -127.0047, y: -194.9783}
+        - {x: -144.0047, y: -179.9783}
+        - {x: -164.0047, y: -163.9783}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UpOneSideGradient
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1229.293
+        width: 256
+        height: 252.7071
+      alignment: 9
+      pivot: {x: 0.4990675, y: 0.4954633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 127.7613, y: -126.6464}
+        - {x: -128.2387, y: -126.6464}
+        - {x: -128.2387, y: 126.3536}
+        - {x: 127.7613, y: 126.3536}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OutlineSmallButton
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1704
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 12, z: 8, w: 12}
+      outline:
+      - - {x: -15.5, y: -13}
+        - {x: -15.5, y: 13}
+        - {x: 15.5, y: 13}
+        - {x: 15.5, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FillTriangle
+      rect:
+        serializedVersion: 2
+        x: 1549.076
+        y: 1149.076
+        width: 102.911
+        height: 102.8478
+      alignment: 9
+      pivot: {x: 0.5142686, y: 0.4951384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.53161, y: -51.5}
+        - {x: -51.5316, y: -49.5}
+        - {x: -51.5316, y: 49.5}
+        - {x: -49.53161, y: 51.5}
+        - {x: 50.46839, y: 51.5}
+        - {x: 51.46839, y: 48.5}
+        - {x: -48.53161, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinOutlineSquare
+      rect:
+        serializedVersion: 2
+        x: 0.0761205
+        y: 1719.076
+        width: 102.8478
+        height: 102.8478
+      alignment: 9
+      pivot: {x: 0.5048615, y: 0.4951384}
+      border: {x: 8.92388, y: 8.92388, z: 7.923883, w: 9.923883}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SmallStripes
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1380
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -12}
+        - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FillSquare
+      rect:
+        serializedVersion: 2
+        x: 1644.076
+        y: 306.0761
+        width: 102.8478
+        height: 102.8478
+      alignment: 9
+      pivot: {x: 0.5048615, y: 0.4951384}
+      border: {x: 8.92388, y: 8.92388, z: 7.923883, w: 9.923883}
+      outline:
+      - - {x: 51.5, y: -51.5}
+        - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThickLine
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1796
+        width: 47
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -3}
+        - {x: -23.5, y: 3}
+        - {x: 23.5, y: 3}
+        - {x: 23.5, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background
+      rect:
+        serializedVersion: 2
+        x: 111.0513
+        y: 1719
+        width: 99.94868
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4997433, y: 0.5}
+      border: {x: 44.94868, y: 45, z: 45, w: 45}
+      outline:
+      - - {x: 49.97434, y: -50}
+        - {x: -50.02566, y: -50}
+        - {x: -50.02566, y: 50}
+        - {x: 49.97434, y: 50}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dots
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 436
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -3.5}
+        - {x: -3.5, y: 3.5}
+        - {x: 3.5, y: 3.5}
+        - {x: 3.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GradientFrame
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 43
+        width: 30
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 12, z: 0, w: 11}
+      outline:
+      - - {x: -15, y: -12.5}
+        - {x: -15, y: 12.5}
+        - {x: 15, y: 12.5}
+        - {x: 15, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PointyFillTriangle
+      rect:
+        serializedVersion: 2
+        x: 1437.027
+        y: 1149.076
+        width: 103.946
+        height: 103.8478
+      alignment: 9
+      pivot: {x: 0.5096226, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.00023, y: -52}
+        - {x: -51.99977, y: -52}
+        - {x: -51.99977, y: -46}
+        - {x: -1.999771, y: 52}
+        - {x: 3.000229, y: 52}
+        - {x: 52.00023, y: -45}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TriangleCloud
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 306
+        width: 115.9239
+        height: 121.9239
+      alignment: 9
+      pivot: {x: 0.5520864, y: 0.5249177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.96194, y: -60.96194}
+        - {x: -57.96194, y: -60.96194}
+        - {x: -57.96194, y: 61.03806}
+        - {x: 53.03806, y: 61.03806}
+        - {x: 58.03806, y: 56.03806}
+        - {x: 58.03806, y: 51.03806}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Circle
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 0.07612038
+        width: 1065.848
+        height: 1065.848
+      alignment: 9
+      pivot: {x: 0.5018765, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 533.0001, y: -32.99994}
+        - {x: 532.0001, y: -33.99994}
+        - {x: 532.0001, y: -45.99994}
+        - {x: 531.0001, y: -56.99994}
+        - {x: 530.0001, y: -65.99994}
+        - {x: 529.0001, y: -66.99994}
+        - {x: 528.0001, y: -79.99994}
+        - {x: 527.0001, y: -85.99994}
+        - {x: 526.0001, y: -92.99994}
+        - {x: 521.0001, y: -117.9999}
+        - {x: 515.0001, y: -141.9999}
+        - {x: 513.0001, y: -148.9999}
+        - {x: 511.0001, y: -154.9999}
+        - {x: 510.0001, y: -158.9999}
+        - {x: 503.0001, y: -179.9999}
+        - {x: 497, y: -195.9999}
+        - {x: 495, y: -200.9999}
+        - {x: 489.0001, y: -213}
+        - {x: 489.0001, y: -215}
+        - {x: 484.0001, y: -225.9999}
+        - {x: 472, y: -250.9999}
+        - {x: 466.0001, y: -261.9999}
+        - {x: 462.0001, y: -268.9999}
+        - {x: 459.0001, y: -273.9999}
+        - {x: 456.0001, y: -277.9999}
+        - {x: 451, y: -285.9999}
+        - {x: 445, y: -295.9999}
+        - {x: 441.0001, y: -301.9999}
+        - {x: 439.0001, y: -303.9999}
+        - {x: 434.0001, y: -311.9999}
+        - {x: 428.0001, y: -318.9999}
+        - {x: 422, y: -326.9999}
+        - {x: 414.0001, y: -336.9999}
+        - {x: 404.0001, y: -348.9999}
+        - {x: 396.0001, y: -357.9999}
+        - {x: 358.0001, y: -395.9999}
+        - {x: 349.0001, y: -403.9999}
+        - {x: 337.0001, y: -413.9999}
+        - {x: 327.0001, y: -421.9999}
+        - {x: 315.0001, y: -430.9999}
+        - {x: 312.0001, y: -433.9999}
+        - {x: 305.0001, y: -438.9999}
+        - {x: 287.0001, y: -451}
+        - {x: 279.0001, y: -455.9999}
+        - {x: 269.0001, y: -461.9999}
+        - {x: 262.0001, y: -465.9999}
+        - {x: 251.0001, y: -471.9999}
+        - {x: 226.0001, y: -483.9999}
+        - {x: 215.0001, y: -488.9999}
+        - {x: 203.0001, y: -493.9999}
+        - {x: 196.0001, y: -496.9999}
+        - {x: 172.0001, y: -505.9999}
+        - {x: 160.0001, y: -509.9999}
+        - {x: 152.0001, y: -511.9999}
+        - {x: 142.0001, y: -514.9999}
+        - {x: 118.0001, y: -520.9999}
+        - {x: 93.00006, y: -525.9999}
+        - {x: 87.00006, y: -526.9999}
+        - {x: 74.00006, y: -527.9999}
+        - {x: 73.00006, y: -528.9999}
+        - {x: 66.00006, y: -529.9999}
+        - {x: 57.00006, y: -530.9999}
+        - {x: 46.00006, y: -531.9999}
+        - {x: 34.00006, y: -531.9999}
+        - {x: 33.00006, y: -532.9999}
+        - {x: -32.99994, y: -532.9999}
+        - {x: -33.99994, y: -531.9999}
+        - {x: -45.99994, y: -531.9999}
+        - {x: -56.99994, y: -530.9999}
+        - {x: -65.99994, y: -529.9999}
+        - {x: -66.99994, y: -528.9999}
+        - {x: -79.99994, y: -527.9999}
+        - {x: -86.99994, y: -526.9999}
+        - {x: -92.99994, y: -525.9999}
+        - {x: -117.9999, y: -520.9999}
+        - {x: -137.9999, y: -515.9999}
+        - {x: -141.9999, y: -513.9999}
+        - {x: -148.9999, y: -512.9999}
+        - {x: -154.9999, y: -510.9999}
+        - {x: -158.9999, y: -509.9999}
+        - {x: -179.9999, y: -503}
+        - {x: -195.9999, y: -496.9999}
+        - {x: -207.9999, y: -491.9999}
+        - {x: -214.9999, y: -488.9999}
+        - {x: -225.9999, y: -483.9999}
+        - {x: -250.9999, y: -471.9999}
+        - {x: -261.9999, y: -465.9999}
+        - {x: -268.9999, y: -461.9999}
+        - {x: -273.9999, y: -458.9999}
+        - {x: -277.9999, y: -455.9999}
+        - {x: -285.9999, y: -451}
+        - {x: -295.9999, y: -444.9999}
+        - {x: -301.9999, y: -440.9999}
+        - {x: -303.9999, y: -438.9999}
+        - {x: -311.9999, y: -433.9999}
+        - {x: -318.9999, y: -428}
+        - {x: -326.9999, y: -421.9999}
+        - {x: -336.9999, y: -413.9999}
+        - {x: -348.9999, y: -403.9999}
+        - {x: -357.9999, y: -395.9999}
+        - {x: -395.9999, y: -357.9999}
+        - {x: -403.9999, y: -348.9999}
+        - {x: -413.9999, y: -336.9999}
+        - {x: -421.9999, y: -326.9999}
+        - {x: -430.9999, y: -314.9999}
+        - {x: -433.9999, y: -311.9999}
+        - {x: -438.9999, y: -304.9999}
+        - {x: -451, y: -286.9999}
+        - {x: -455.9999, y: -278.9999}
+        - {x: -461.9999, y: -268.9999}
+        - {x: -465.9999, y: -261.9999}
+        - {x: -471.9999, y: -250.9999}
+        - {x: -483.9999, y: -225.9999}
+        - {x: -488.9999, y: -215}
+        - {x: -491.9999, y: -207.9999}
+        - {x: -496.9999, y: -195.9999}
+        - {x: -503, y: -179.9999}
+        - {x: -505.9999, y: -170.9999}
+        - {x: -508.9999, y: -162.9999}
+        - {x: -514.9999, y: -141.9999}
+        - {x: -520.9999, y: -117.9999}
+        - {x: -525.9999, y: -92.99994}
+        - {x: -526.9999, y: -86.99994}
+        - {x: -527.9999, y: -73.99994}
+        - {x: -528.9999, y: -72.99994}
+        - {x: -529.9999, y: -65.99994}
+        - {x: -530.9999, y: -56.99994}
+        - {x: -531.9999, y: -45.99994}
+        - {x: -531.9999, y: -33.99994}
+        - {x: -532.9999, y: -32.99994}
+        - {x: -532.9999, y: 33.00006}
+        - {x: -531.9999, y: 34.00006}
+        - {x: -531.9999, y: 46.00006}
+        - {x: -530.9999, y: 57.00006}
+        - {x: -529.9999, y: 66.00006}
+        - {x: -528.9999, y: 67.00006}
+        - {x: -527.9999, y: 80.00006}
+        - {x: -526.9999, y: 87.00006}
+        - {x: -525.9999, y: 93.00006}
+        - {x: -520.9999, y: 118.0001}
+        - {x: -514.9999, y: 142.0001}
+        - {x: -512.9999, y: 149.0001}
+        - {x: -510.9999, y: 155.0001}
+        - {x: -506.9999, y: 172.0001}
+        - {x: -503, y: 180.0001}
+        - {x: -496.9999, y: 196.0001}
+        - {x: -493.9999, y: 203.0001}
+        - {x: -491.9999, y: 208.0001}
+        - {x: -488.9999, y: 215.0001}
+        - {x: -483.9999, y: 226.0001}
+        - {x: -471.9999, y: 251.0001}
+        - {x: -465.9999, y: 262.0001}
+        - {x: -461.9999, y: 269.0001}
+        - {x: -458.9999, y: 274.0001}
+        - {x: -455.9999, y: 278.0001}
+        - {x: -451, y: 286.0001}
+        - {x: -444.9999, y: 296.0001}
+        - {x: -440.9999, y: 302.0001}
+        - {x: -438.9999, y: 304.0001}
+        - {x: -433.9999, y: 312.0001}
+        - {x: -428, y: 319.0001}
+        - {x: -421.9999, y: 327.0001}
+        - {x: -413.9999, y: 337.0001}
+        - {x: -403.9999, y: 349.0001}
+        - {x: -395.9999, y: 358.0001}
+        - {x: -357.9999, y: 396.0001}
+        - {x: -348.9999, y: 404.0001}
+        - {x: -336.9999, y: 414.0001}
+        - {x: -326.9999, y: 422}
+        - {x: -314.9999, y: 431.0001}
+        - {x: -311.9999, y: 434.0001}
+        - {x: -304.9999, y: 439.0001}
+        - {x: -286.9999, y: 451.0001}
+        - {x: -278.9999, y: 456.0001}
+        - {x: -268.9999, y: 462.0001}
+        - {x: -261.9999, y: 466.0001}
+        - {x: -250.9999, y: 472}
+        - {x: -225.9999, y: 484.0001}
+        - {x: -223.9999, y: 484.0001}
+        - {x: -207.9999, y: 492.0001}
+        - {x: -187.9999, y: 500.0001}
+        - {x: -176.9999, y: 504.0001}
+        - {x: -167.9999, y: 507.0001}
+        - {x: -165.9999, y: 508.0001}
+        - {x: -159.9999, y: 510.0001}
+        - {x: -151.9999, y: 512.0001}
+        - {x: -148.9999, y: 513.0001}
+        - {x: -137.9999, y: 516.0001}
+        - {x: -121.9999, y: 520.0001}
+        - {x: -116.9999, y: 521.0001}
+        - {x: -112.9999, y: 522.0001}
+        - {x: -92.99994, y: 526.0001}
+        - {x: -86.99994, y: 527.0001}
+        - {x: -73.99994, y: 528.0001}
+        - {x: -72.99994, y: 529.0001}
+        - {x: -65.99994, y: 530.0001}
+        - {x: -56.99994, y: 531.0001}
+        - {x: -45.99994, y: 532.0001}
+        - {x: -33.99994, y: 532.0001}
+        - {x: -32.99994, y: 533.0001}
+        - {x: 33.00006, y: 533.0001}
+        - {x: 34.00006, y: 532.0001}
+        - {x: 46.00006, y: 532.0001}
+        - {x: 57.00006, y: 531.0001}
+        - {x: 66.00006, y: 530.0001}
+        - {x: 80.00006, y: 528.0001}
+        - {x: 81.00006, y: 527.0001}
+        - {x: 93.00006, y: 526.0001}
+        - {x: 108.0001, y: 523.0001}
+        - {x: 122.0001, y: 520.0001}
+        - {x: 138.0001, y: 516.0001}
+        - {x: 142.0001, y: 514.0001}
+        - {x: 149.0001, y: 513.0001}
+        - {x: 155.0001, y: 511.0001}
+        - {x: 159.0001, y: 510.0001}
+        - {x: 168.0001, y: 507.0001}
+        - {x: 175.0001, y: 506.0001}
+        - {x: 180.0001, y: 502.0001}
+        - {x: 188.0001, y: 500.0001}
+        - {x: 208.0001, y: 492.0001}
+        - {x: 224.0001, y: 484.0001}
+        - {x: 226.0001, y: 484.0001}
+        - {x: 251.0001, y: 472}
+        - {x: 262.0001, y: 466.0001}
+        - {x: 269.0001, y: 462.0001}
+        - {x: 274.0001, y: 459.0001}
+        - {x: 282.0001, y: 454.0001}
+        - {x: 286.0001, y: 451.0001}
+        - {x: 296.0001, y: 445}
+        - {x: 302.0001, y: 441.0001}
+        - {x: 304.0001, y: 439.0001}
+        - {x: 312.0001, y: 434.0001}
+        - {x: 323.0001, y: 425.0001}
+        - {x: 332.0001, y: 418}
+        - {x: 337.0001, y: 414.0001}
+        - {x: 348.0001, y: 404.0001}
+        - {x: 349.0001, y: 404.0001}
+        - {x: 358.0001, y: 396.0001}
+        - {x: 396.0001, y: 358.0001}
+        - {x: 404.0001, y: 349.0001}
+        - {x: 414.0001, y: 337.0001}
+        - {x: 422, y: 327.0001}
+        - {x: 431.0001, y: 315.0001}
+        - {x: 434.0001, y: 312.0001}
+        - {x: 439.0001, y: 305.0001}
+        - {x: 451, y: 287.0001}
+        - {x: 456.0001, y: 279.0001}
+        - {x: 462.0001, y: 269.0001}
+        - {x: 466.0001, y: 262.0001}
+        - {x: 472, y: 251.0001}
+        - {x: 484.0001, y: 226.0001}
+        - {x: 489.0001, y: 215.0001}
+        - {x: 492.0001, y: 208.0001}
+        - {x: 497, y: 196.0001}
+        - {x: 503.0001, y: 180.0001}
+        - {x: 506.0001, y: 171.0001}
+        - {x: 509.0001, y: 163.0001}
+        - {x: 515.0001, y: 142.0001}
+        - {x: 521.0001, y: 118.0001}
+        - {x: 526.0001, y: 93.00006}
+        - {x: 527.0001, y: 87.00006}
+        - {x: 528.0001, y: 74.00006}
+        - {x: 529.0001, y: 73.00006}
+        - {x: 530.0001, y: 66.00006}
+        - {x: 531.0001, y: 57.00006}
+        - {x: 532.0001, y: 46.00006}
+        - {x: 532.0001, y: 34.00006}
+        - {x: 533.0001, y: 33.00006}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TutorialFrame2
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1380
+        width: 70
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: 32, y: -31.5}
+        - {x: -35, y: -31.5}
+        - {x: -35, y: 21.5}
+        - {x: -32, y: 31.5}
+        - {x: 35, y: 31.5}
+        - {x: 35, y: -22.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frame 1
+      rect:
+        serializedVersion: 2
+        x: 1826.076
+        y: 0
+        width: 108.8675
+        height: 34.92388
+      alignment: 9
+      pivot: {x: 0.5090948, y: 0.5297235}
+      border: {x: 30.92388, y: 2, z: 28.94363, w: 31.92388}
+      outline:
+      - - {x: 54.49013, y: -17.46194}
+        - {x: -54.50988, y: -17.46194}
+        - {x: -54.50988, y: 4.538061}
+        - {x: -50.50988, y: 17.53806}
+        - {x: 43.49012, y: 17.53806}
+        - {x: 54.49013, y: 14.53806}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fillxframe
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1557
+        width: 30
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline:
+      - - {x: -15, y: -12.5}
+        - {x: -15, y: 12.5}
+        - {x: 15, y: 12.5}
+        - {x: 15, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GradientThinLine
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1557
+        width: 47
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -3}
+        - {x: -23.5, y: 3}
+        - {x: 23.5, y: 3}
+        - {x: 23.5, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FillSmallButton
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1557
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 12, z: 8, w: 12}
+      outline:
+      - - {x: -15.5, y: -13}
+        - {x: -15.5, y: 13}
+        - {x: 15.5, y: 13}
+        - {x: 15.5, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OneSideGradient
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1074
+        width: 339.9871
+        height: 331
+      alignment: 9
+      pivot: {x: 0.7521199, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 169.7175, y: -153.5}
+        - {x: 168.7175, y: -155.5}
+        - {x: 168.7175, y: -165.5}
+        - {x: -170.2825, y: -165.5}
+        - {x: -170.2825, y: 165.5}
+        - {x: 168.7175, y: 165.5}
+        - {x: 168.7175, y: 90.5}
+        - {x: 169.7175, y: 89.5}
+        - {x: 168.7175, y: 87.5}
+        - {x: 168.7175, y: 67.5}
+        - {x: 169.7175, y: 66.5}
+        - {x: 168.7175, y: 64.5}
+        - {x: 168.7175, y: 45.5}
+        - {x: 169.7175, y: 44.5}
+        - {x: 169.7175, y: 40.5}
+        - {x: 168.7175, y: 38.5}
+        - {x: 168.7175, y: -4.5}
+        - {x: 169.7175, y: -5.5}
+        - {x: 169.7175, y: -12.5}
+        - {x: 168.7175, y: -14.5}
+        - {x: 168.7175, y: -29.5}
+        - {x: 169.7175, y: -30.5}
+        - {x: 168.7175, y: -32.5}
+        - {x: 168.7175, y: -42.5}
+        - {x: 169.7175, y: -43.5}
+        - {x: 168.7175, y: -45.5}
+        - {x: 168.7175, y: -66.5}
+        - {x: 169.7175, y: -67.5}
+        - {x: 169.7175, y: -69.5}
+        - {x: 168.7175, y: -70.5}
+        - {x: 168.7175, y: -88.5}
+        - {x: 169.7175, y: -89.5}
+        - {x: 168.7175, y: -96.5}
+        - {x: 169.7175, y: -97.5}
+        - {x: 168.7175, y: -103.5}
+        - {x: 169.7175, y: -104.5}
+        - {x: 168.7175, y: -106.5}
+        - {x: 168.7175, y: -118.5}
+        - {x: 169.7175, y: -119.5}
+        - {x: 169.7175, y: -122.5}
+        - {x: 168.7175, y: -123.5}
+        - {x: 168.7175, y: -137.5}
+        - {x: 169.7175, y: -138.5}
+        - {x: 169.7175, y: -140.5}
+        - {x: 168.7175, y: -141.5}
+        - {x: 169.7175, y: -149.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TutorialFrame3
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1317
+        width: 70
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 17, w: 5}
+      outline:
+      - - {x: -31, y: -31.5}
+        - {x: -35, y: -30.5}
+        - {x: -35, y: 31.5}
+        - {x: 35, y: 31.5}
+        - {x: 35, y: -23.5}
+        - {x: 34, y: -31.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xframe
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1451
+        width: 30
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline:
+      - - {x: -15, y: -12.5}
+        - {x: -15, y: 12.5}
+        - {x: 15, y: 12.5}
+        - {x: 15, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlatCornersSquare
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1830
+        width: 56
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      outline:
+      - - {x: 20, y: -28}
+        - {x: -28, y: -28}
+        - {x: -28, y: 19}
+        - {x: -19, y: 28}
+        - {x: 28, y: 28}
+        - {x: 28, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OutlineSmallButton
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1380
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 12, z: 8, w: 12}
+      outline:
+      - - {x: -15.5, y: -13}
+        - {x: -15.5, y: 13}
+        - {x: 15.5, y: 13}
+        - {x: 15.5, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GradientThinLine 1
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1484
+        width: 47
+        height: 6
+      alignment: 9
+      pivot: {x: 0.04091815, y: 0.6889277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -3}
+        - {x: -23.5, y: 3}
+        - {x: 23.5, y: 3}
+        - {x: 23.5, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stripes
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 306
+        width: 46
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -2}
+        - {x: -23, y: -2}
+        - {x: -23, y: 23}
+        - {x: 2, y: 23}
+        - {x: 2, y: 20}
+      - - {x: 8, y: -23}
+        - {x: -23, y: -23}
+        - {x: -23, y: -19}
+        - {x: 20, y: 23}
+        - {x: 23, y: 23}
+        - {x: 23, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TutorialFrame4
+      rect:
+        serializedVersion: 2
+        x: 1826.076
+        y: 43
+        width: 64.84776
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.5}
+      border: {x: 5.92388, y: 18, z: 18.92388, w: 19}
+      outline:
+      - - {x: -31.5, y: -35}
+        - {x: -32.5, y: -34}
+        - {x: -32.5, y: 34}
+        - {x: -31.5, y: 35}
+        - {x: 19.5, y: 35}
+        - {x: 32.5, y: 21}
+        - {x: 32.5, y: -21}
+        - {x: 19.5, y: -35}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OneSideGradient 1
+      rect:
+        serializedVersion: 2
+        x: 1074.076
+        y: 476.0761
+        width: 327.8971
+        height: 328.9239
+      alignment: 9
+      pivot: {x: 0.7796193, y: 0.4968441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 163.6864, y: -121.5381}
+        - {x: 159.6864, y: -130.5381}
+        - {x: 155.6864, y: -136.5381}
+        - {x: 148.6864, y: -141.5381}
+        - {x: 132.6864, y: -145.5381}
+        - {x: 122.6864, y: -146.5381}
+        - {x: 112.6864, y: -146.5381}
+        - {x: 99.68637, y: -148.5381}
+        - {x: 75.68637, y: -150.5381}
+        - {x: 41.68637, y: -154.5381}
+        - {x: 25.68637, y: -155.5381}
+        - {x: 11.68637, y: -156.5381}
+        - {x: 1.686371, y: -157.5381}
+        - {x: -24.31363, y: -159.5381}
+        - {x: -65.31363, y: -163.5381}
+        - {x: -84.31363, y: -164.5381}
+        - {x: -162.3136, y: -164.5381}
+        - {x: -164.3136, y: -162.5381}
+        - {x: -164.3136, y: 163.4619}
+        - {x: -163.3136, y: 164.4619}
+        - {x: -63.31363, y: 164.4619}
+        - {x: -43.31363, y: 163.4619}
+        - {x: -13.31363, y: 160.4619}
+        - {x: 7.686371, y: 159.4619}
+        - {x: 11.68637, y: 158.4619}
+        - {x: 34.68637, y: 157.4619}
+        - {x: 61.68637, y: 154.4619}
+        - {x: 90.68637, y: 151.4619}
+        - {x: 114.6864, y: 148.4619}
+        - {x: 134.6864, y: 147.4619}
+        - {x: 150.6864, y: 144.4619}
+        - {x: 153.6864, y: 141.4619}
+        - {x: 162.6864, y: 124.4619}
+        - {x: 162.6864, y: 2.461929}
+        - {x: 163.6864, y: 1.461929}
+        - {x: 163.6864, y: -53.53807}
+        - {x: 162.6864, y: -54.53807}
+        - {x: 162.6864, y: -111.5381}
+        - {x: 163.6864, y: -112.5381}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag:
+  userData:
+  assetBundleName:
+  assetBundleVariant:
