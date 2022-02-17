@@ -1,0 +1,11 @@
+[a-zA-Z0-9]*=""   na nic
+XMLelement="[/a-Z]*"
+[ ]{1,} na " " zastepje wiele spacji
+
+<(conversation .*)/> na <$1>
+<(dialog .*)/>   na <$1>
+<(scene .*)/>   na <$1>
+
+</([a-z]*) />   na  </$1>
+textauto="#VALUE!"  na ""
+

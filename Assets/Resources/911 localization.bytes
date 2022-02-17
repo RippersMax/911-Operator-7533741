@@ -1,0 +1,2680 @@
+call.53.title	Undercover pizza
+call.53.scene.offender	Drunk thug
+call.53.scene.caller	Scared woman (caller)
+call.53.dialog.1	911, what's your emergency?
+call.53.dialog.2	Hello, I would like to order a big pepperoni, with extra cheese, please, at [[ADDRESS]]
+call.53.dialog.3	Excuse me? You've reached 911 ...
+call.53.dialog.4	Yes, I know. Oh, and 2 cans of soda.
+call.53.dialog.5	Ma'am, do you have an emergency?
+call.53.dialog.6	Yes, I do
+call.53.dialog.7	... and you can't talk about it because of someone in the room?
+call.53.dialog.8	Yes, exactly.
+call.53.dialog.9	Do you also need medical attention? Is somebody hurt?
+call.53.dialog.10	Yes, do you know how long it will be?
+call.53.dialog.11	{SEND POLICE} I have officers about a mile away I'll send them right away
+call.53.dialog.12	Yes... please
+call.53.dialog.13	Can you stay on the line with me?
+call.53.dialog.14	No. Thanks, I hope you'll get here soon!
+call.53.dialog.15	Alright. The officers are coming!
+call.53.dialog.end	...
+call.53.dialog.16	{HANGUP} I hate these jokers ...
+call.53.dialog.17	Excuse me, it's a wrong number.
+call.53.dialog.18	Please quit those jokes, you are blocking the emergency line.
+call.53.dialog.19	... and is it because you are very hungry?
+call.53.dialog.20	Are there any weapons in the house?
+call.53.dialog.21	Who is the oppressor?
+call.53.dialog.22	What is going on there?
+call.53.dialog.23	....
+call.53.dialog.24	Yes...
+call.53.dialog.reminder	....
+call.53.dialog.reminder2	....
+call.53.aar.clue	The caller was found to be in danger.
+call.53.aar.prison	The suspect was pacified and taken to custody.
+call.53.aar.helped	The caller was given first aid.
+call.53.aar.story	The caller was in fact in need of assistance and tried to reach 911 by pretending to order a pizza.
+call.53.aar.fail	The operator has failed to help the caller.
+call.53.aar.timeout	The caller was heavily beaten and needed to be hospitalized.
+call.81.title	Small car fire
+call.81.scene.fire	Car on fire
+call.81.scene.caller	Caller
+call.81.scene.smoke	The caller was poisoned by smoke.
+call.81.dialog.1	911, what's your emergency?
+call.81.dialog.2	Hello, I need help! It's burning!
+call.81.dialog.3	I am sorry Ma'am what's burning?
+call.81.dialog.4	It's burning! Send in the fire brigade immediately, please!
+call.81.dialog.5	Ok Ma'am I need you to calm down. What is burning?
+call.81.dialog.6	My car! There's smoke coming from under the hood! Send firefighters!
+call.81.dialog.7	{GET OUT OF THE CAR} What I want you to do is get away from your car. Do it as safely as you can ok?
+call.81.dialog.7a	Ok...
+call.81.dialog.7b	Is anyone hurt?
+call.81.dialog.8	No, no one is hurt. Will you send help?!
+call.81.dialog.9	{TRY TO PUT IT OUT} Did you try to put the fire out yourself?
+call.81.dialog.10	Erm ... myself? No...
+call.81.dialog.11	{USE FIRE EXTINGUISHER} Go to the trunk of your car take out the fire extinguisher and pull the pin.
+call.81.dialog.12	Ok, I'm going . . . . . . . . . . . . . . . . . .
+call.81.dialog.13	Please pull the lever under the steering wheel to open the hood, and then spray the fire extinguisher onto the engine.
+call.81.dialog.14	. . . . . . . . . . . . . . . . . . it worked, the fire is gone! I will call for roadside assistance... Thanks!
+call.81.dialog.15	You're welcome.
+call.81.dialog.address	{WHERE ARE YOU?} Ma'am where are you?
+call.81.dialog.addressa0	I'm near [[ADDRESS]]
+call.81.dialog.addressa1	Near Shell gas station at route 43
+call.81.dialog.addressa2	At Lake Street... 56
+call.81.dialog.addressa3	Near tall building on Seventh Street
+call.81.dialog.18	Ok, I'm sending the fire brigade.
+call.81.dialog.19	Well, I'm waiting!
+call.81.dialog.reminder	Hello, can you help me? My car is still on fire.
+call.81.dialog.reminder2	Hello?
+call.81.aar.instructions	The driver was told to leave the car.
+call.81.aar.story	Caller's car was on fire.
+call.81.aar.selfaid	The operator has given helpful instructions. No intervention was needed.
+call.81.aar.ext	The car fire was extinguished.
+call.81.aar.timeout	The car has burned completely, and the driver was slightly poisoned by smoke
+call.89.title	Cat in a tree
+call.89.scene.caller	Jacob Copus (caller)
+call.89.scene.cat	Cat on a tree
+call.89.scene.callerinj	Jacob Copus (caller)
+call.89.dialog.1	911, what's your emergency?
+call.89.dialog.2	Good evening ... I need help. Yeah, stupid thing ...
+call.89.dialog.name	What is your name sir?
+call.89.dialog.namea	I'm Jacob Copus.
+call.89.dialog.3	Why did you call 911?
+call.89.dialog.4	My cat climbed up a tree and won't come down. It's very dark... could you send firefighters?
+call.89.dialog.5	Ok, I will send the fire department.
+call.89.dialog.6	{MAYBE CLIMB IT?} Is it a tall tree? Have you tried climbing it and getting the cat down yourself?
+call.89.dialog.7	It's not really high.... but it's dark ...
+call.89.dialog.8	{DO IT YOURSELF} Well, you can try climbing the tree yourself if you want to try to get your cat down, but I don't have any fire department vehicles available right now to help you.
+call.89.dialog.9	Well, I'll try . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Aaaargh!
+call.89.dialog.10	Hello? What happened?
+call.89.dialog.12	I fell off the f..... tree and I think I broke my leg! Why did you tell me to climb there?!
+call.89.dialog.13	I did not tell you to do anything.
+call.89.dialog.14	You told me to take that damn cat out of the tree! I will make a complaint! Help, it hurts like hell!
+call.89.dialog.15	I'm sending you an ambulance, please wait.
+call.89.dialog.address	Where are you calling from?
+call.89.dialog.addressa0	I'm around [[ADDRESS]].
+call.89.dialog.addressa1	I'm around 1st street 135
+call.89.dialog.addressa2	I'm around 2nd avenue 246
+call.89.dialog.addressa3	I'm around Pine street 389
+call.89.dialog.18	Thank you, I'll be waiting.
+call.89.dialog.19	Just hurry.... for god's sake, it hurts....
+call.89.dialog.reminder	So? Can you help me?
+call.89.dialog.reminder2	Here... Kitty-kitty...
+call.89.dialog.20	Excuse me sir, we can't help you at the moment.
+call.89.dialog.21	So?
+call.89.dialog.22	Your matter is not life threating, we cannot help you right now.
+call.89.dialog.23	Thank you...
+call.89.aar.broken	The caller has fallen out of the tree and broken his leg.
+call.89.aar.taken	Cat was taken down from the tree.
+call.89.aar.compain	A formal complaint about operator's actions was made by the caller.
+call.107.title	Home invade
+call.107.scene.attacker	Ray
+call.107.scene.caller	Caller
+call.107.scene.attackerinj	Ray
+call.107.scene.callerinj	Caller
+call.107.dialog.1	911, what's your emergency?
+call.107.dialog.2	Hello? I have a problem ... someone is trying to get into my house through the back door.
+call.107.dialog.address	Where do you live?
+call.107.dialog.addressa0	I live at [[ADDRESS]].
+call.107.dialog.addressa1	I live at 243 1st street
+call.107.dialog.addressa2	I live at 756 Long street
+call.107.dialog.addressa3	I live at 391 9th street
+call.107.dialog.3	So tell me what's happening?
+call.107.dialog.4	It's probably that crazy Ray, my ex-boyfriend ... I heard knocking at the door. He's probably drunk again. God, what should I do?
+call.107.dialog.5	{DOES HE HAVE A WEAPON?} I am sending the police right now. Is it possible that Ray has a weapon?
+call.107.dialog.6	Yes, he usually carries a knife . . . . . . . . . . . . . . . . . . . oh my God! He broke down the door! What should I do?!
+call.107.dialog.7	{HIDE YOURSELF} Hang on for the sec ok? I want you to find the room that you can lock the door on. And then get in there shut it and lock it ok?
+call.107.dialog.8	Ok . . . . . . . . . . . . . . . . God, he knows I'm here!
+call.107.dialog.16	Hold on I know you can do this, police are on their way.
+call.107.dialog.9	What should I do ?! I have my father's gun ... should I shoot him?
+call.107.dialog.10	{SHOOT HIM} You have to defend yourself the best way you can. I can't let him hurt you.
+call.107.dialog.11	{DON'T SHOOT} No! Do not shoot him! Put down the gun. The police will be there shortly, nothing's gonna happen to you.
+call.107.dialog.12	{IT'S YOUR CALL} I can not tell you what to do, you have to decide alone ... but remember - the law allows you to self-defense in your own home!
+call.107.dialog.13	Sure, I will! Ray! Ray, get the fuck out of my house, because I will shoot! I tell you! . . . . . . . . . . . Aaaah! I think I killed him! I killed him!!! RAAAY !!!
+call.107.dialog.14	Oh... I'll put the weapon down. Ray!!! . . . . . . . . . . . . . . . . . . . . . . . Ray, calm down, stop! STOP!!! AAAHH!!
+call.107.dialog.15	. . . . . Ray! Ray, I have a gun! Please stop! Ray, I will shoot you! Get away from the door . . . . . . . . . . . I think I calmed him down. Come here quickly!
+call.107.dialog.reminder	What should I do? Please send someone!
+call.107.dialog.reminder2	Please DO SOMETHING!
+call.107.aar.shot	Attacker was deadly shot by flat owner.
+call.107.aar.attack	Armed attacker injured the flat owner with knife.
+call.107.aar.warn	After being scared of fire arm attacker began escape. Officers pursued and captured the attacker.
+call.own24.title	Child found
+call.own24.scene.caller	Caller
+call.own24.scene.child	Newborn
+call.own24.scene.container	Container
+call.own24.dialog.1	911, what's your emergency?
+call.own24.dialog.2	God, help! There is a child in our garbage container! Someone left a baby here!!!
+call.own24.dialog.address	Ma'am where are you calling from?
+call.own24.dialog.addressa0	Behind a block at [[ADDRESS]].
+call.own24.dialog.addressa1	Behind a block at 8th street 49
+call.own24.dialog.addressa2	Behind a block at Arthur Avenue 5
+call.own24.dialog.addressa3	Behind a block at Maple street 264
+call.own24.dialog.3	Is the baby breathing? Is it alive?
+call.own24.dialog.4	Yes, alive and crying! I thought it was a cat... Oh God!
+call.own24.dialog.5	Can you see the baby?
+call.own24.dialog.6	Yes, I can see and hear it! But I'm not able to reach it, I'm too short! It must be a newborn ...
+call.own24.dialog.7	{SEND FIRE BRIGADE} I'm sending the fire department to pull out the baby from the dumpster. I need you to stay there so they know where to go.
+call.own24.dialog.8	{TRY STAND ON SOMETHING} Did you try to stand on something?
+call.own24.dialog.9	No, there's nothing really that I could use...
+call.own24.dialog.10	{LOOK AROUND} Look around. Is there anyone near by, somebody walking past? Maybe a neighbor?
+call.own24.dialog.11	Wait a second... I'll call someone! . . . . . . . . . . . . Mr. Wilson, Mr. Wilson! Please help me! . . . . . . . . There is a child inside, I need you to lift me up!
+call.own24.dialog.12	{PULL THE BABY OUT} Find something, something to stand on, ok? And carefully pull the baby out of the dumpster.
+call.own24.dialog.13	. . . . . . . . . . . . Ok, I did it! I have him in my hands!
+call.own24.dialog.13b	Make sure that baby can breathe freely.
+call.own24.dialog.13c	Oh my... its mouth is full of mucus... I'll wipe it...
+call.own24.dialog.14	{WAIT FOR AMBULANCE} You're doing great. I've got ambulance on the way, so just wait there ok?
+call.own24.dialog.15	OK, I will wait right here, come quick!
+call.own24.dialog.reminder	Oh gosh... we have to do something!
+call.own24.dialog.reminder2	Hello? Do something!
+call.own24.aar.success	Life of the rescued child is not threatened. Parents of the child remains unknown.
+call.own24.aar.out	The caller took the children out of a garbage container.
+call.own24.aar.firstaid	The caller provided first aid to the children.
+call.82a.title	House fire
+call.82a.scene.gas	Gas valve
+call.82a.scene.fire	House on fire
+call.82a.scene.explosion	There was a blast!
+call.82a.dialog.1	911, what's your emergency?
+call.82a.dialog.2	Hello? Uh, I'm a watchman at a construction site and I just noticed that there is fire.
+call.82a.dialog.address	Where is it, sir?
+call.82a.dialog.addressa0	At [[ADDRESS]]
+call.82a.dialog.addressa1	It's 34 Oak Street
+call.82a.dialog.addressa2	It's 765 Jefferson Avenue
+call.82a.dialog.addressa3	At 34 Maple Street
+call.82a.dialog.3	Sir, what's on fire?
+call.82a.dialog.4	One of the building's roof, it's on fire. I don't know what happened.
+call.82a.dialog.inside1	Is there anyone inside the building?
+call.82a.dialog.inside2	I don't know... I think workers, they evacuated.
+call.82a.dialog.alarm1	{ACTIVATE FIRE ALARM AND EVACUATE} Here is what I want you to do. Find the nearest fire alarm station and activate the alarm. Then evacuate everyone from the building, clear the area and wait for the fire department to arrive.
+call.82a.dialog.alarm2	Ok, fire alarm... sure thing! Get here fast!
+call.82a.dialog.gas1	{CHECK GAS SUPPLY} Is the building connected to a gas supply?
+call.82a.dialog.gas2	It might be... I'm not sure.
+call.82a.dialog.gas3	{CUT OFF THE GAS} What I want you to do Sir is get help from the workers, try to locate the main gas valve for the area and cut off the gas.
+call.82a.dialog.gas4	Ok, ok, I know where that is. I'll do it right now.
+call.82a.dialog.evacuate1	{EVACUATE} Sir, evacuate everyone from the area and wait for the fire department to arrive. Ok?
+call.82a.dialog.evacuate2	I will, thank you!
+call.82a.dialog.reminder	Hello?
+call.82a.dialog.reminder2	We need help, the fire's spreading!
+call.82a.aar.gasoff	The gas valve was cut off.
+call.82a.aar.gasoffcal	The caller was instructed to turn off the gas valve.
+call.82a.aar.explode	The gas exploded, causing the fire to be much bigger.
+call.own79.title	Mathematical problem
+call.own79.scene.child	Child on the phone
+call.own79.scene.mother	Child's mother
+call.own79.dialog.1	911, what's your emergency?
+call.own79.dialog.2	Yeah, I need some help.
+call.own79.dialog.3	What's the problem little guy?
+call.own79.dialog.4	With my m[...]
+call.own79.dialog.5	With your mouth?
+call.own79.dialog.6	With your math?
+call.own79.dialog.7	No, with my math...
+call.own79.dialog.7b	... I have to do it. Will you help me?
+call.own79.dialog.address	Where do you live little guy?
+call.own79.dialog.8	No, with my math.
+call.own79.dialog.9	Yeah, I know, you want help with your math, but where do you live?
+call.own79.dialog.10	No. I want you to talk to me on the phone.
+call.own79.dialog.mom	Is your mom or dad nearby?
+call.own79.dialog.mom2	Yes, but she is busy...
+call.own79.dialog.mom3	Can you ask her on the phone?
+call.own79.dialog.mom4	Ok . . . . . . . . Mooooom! Mooom come on the phone!
+call.own79.dialog.mom5	. . . . . . . . . . . . . .
+call.own79.dialog.11	No, I can't do that, but I can send someone else to help you.
+call.own79.dialog.12	Okay, uhm...
+call.own79.dialog.13	So what kind of math do you have that you need help with?
+call.own79.dialog.14	I have take aways.
+call.own79.dialog.15	You have to do the take aways?
+call.own79.dialog.16	Yeah.
+call.own79.dialog.17	Alright, what's the math?
+call.own79.dialog.20	Okay, seventeen...
+call.own79.dialog.21	Yeah?
+call.own79.dialog.22	Take away seven...
+call.own79.dialog.23	Uhum...
+call.own79.dialog.24	Is what?
+call.own79.dialog.25	You tell me how much do you think it is?
+call.own79.dialog.252	That's ten.
+call.own79.dialog.253	That's one.
+call.own79.dialog.26	I don't know one?
+call.own79.dialog.30	Ok...
+call.own79.dialog.31	{WHAT'S NEXT?} Yeah... what's another problem, that was a tough one.
+call.own79.dialog.32	Umm here is one four.... take away four.
+call.own79.dialog.33	And how much do you think that is?
+call.own79.dialog.332	It's zero.
+call.own79.dialog.333	It's eight.
+call.own79.dialog.334	Five!
+call.own79.dialog.mom6	Oscar what are you doing?!
+call.own79.dialog.34	The police man is helping me with my math... 
+ - What did I told you 'bout playing on the phone? 
+ - But I need help, you told me to call somebody!
+ - I didn't mean the police!
+call.own79.dialog.35	Hello? I'm sorry!
+call.own79.dialog.36	No problem mam, is everything alright there?
+call.own79.dialog.37	Yes! I'm sorry, I'll tell him to stay off the phone!
+call.own79.dialog.38	It's ok, just make sure he's not afraid to make 911 call in the future, okay?
+call.own79.dialog.39	Of course, thank you, goodbye!
+call.own79.dialog.reminder	... hello?
+call.own79.dialog.reminder2	... Mister are you busy too?
+call.own79.aar.inter	Intervention was completely unnecessary.
+call.own79.aar.goodmath	Math help was provided.
+call.own79.aar.badmath	However, some calculation error occurred.
+call.97.title	Clipped leg
+call.97.scene.injuried	Caller
+call.97.dialog.1	911, what's your emergency?
+call.97.dialog.2	Help! I've chopped my leg off...
+call.97.dialog.3	You've chopped off your leg?
+call.97.dialog.address	OK, where are you calling from?
+call.97.dialog.addressa0	At [[ADDRESS]]
+call.97.dialog.addressa1	At Cooper Avenue 321
+call.97.dialog.addressa2	At Jefferson Street 246
+call.97.dialog.addressa3	At Maple Street 179
+call.97.dialog.addresdet	Is that a house or an apartment?
+call.97.dialog.addresdeta	There is a workshop... behind the house... it's open, I'm near the entrance.
+call.97.dialog.	OK, the ambulance is on the way... Tell me what happened ?
+call.97.dialog.4	I helped my cousin in the workshop, pushed wood with my leg and slipped into the press! I can not take it out!
+call.97.dialog.5	Is your cousin nearby?
+call.97.dialog.6	No, he went after the goods... he will come back in the evening! There's no one around!
+call.97.dialog.7	{HELP IS ON THE WAY} Keep calm. The ambulance is on the way... it will be there in a few minutes.
+call.97.dialog.7b	Hurry!
+call.97.dialog.7c	Do you have something to tie around your leg?
+call.97.dialog.7d	No, just some tools... an axe and a hammer....
+call.97.dialog.7e	Alright, Take off your shirt then...
+call.97.dialog.8	What?
+call.97.dialog.9	Take off your shirt, tear it up if necessary, and firmly tie it around your leg, just above your injury.
+call.97.dialog.10	Ok . . . . . . . . . . . . . . . . . . . . . . . . . . . done.
+call.97.dialog.11	{CALM HIM} Good. I know this won't be easy but I need you to calmly breathe, relax. The ambulance will arrive soon.
+call.97.dialog.12	God... I think I'm passing out....
+call.97.dialog.13	No you're not... keep talking to me! Tell me, do you have a girlfriend?
+call.97.dialog.14	I have a fiancée... we were going to get married in two months. . . . . . . . . . . . . God, please let it end now...
+call.97.dialog.20	You are gonna be fine, I need you to stay awake.
+call.97.dialog.15	Please tell her that I loved her. Will you? As if... if I pass away here. Say that I thought about her, I beg you. You promise?
+call.97.dialog.16	Yes, I promise.
+call.97.dialog.17	But you will tell her yourself. The ambulance is almost there.
+call.97.dialog.18	. . . . . . . . . . . . . . . .
+call.97.dialog.reminder	Oh God... it feels terrible...
+call.97.dialog.reminder2	Help me....
+call.97.aar.story	The caller has cut his leg during working in a workshop.
+call.97.aar.faint	The caller fainted, because he lose too much blood.
+call.97.aar.firstaid	The operator gave proper first aid instruction.
+call.68.title	Developer
+call.68.scene.caller	Bartek Gajewski (caller)
+call.68.dialog.1	911, what's your emergency?
+call.68.dialog.2	Hello, I don't have any emergency, but I am making a computer game about your work, and I would like to possibly talk for a moment, can I?
+call.68.dialog.3	Sir, do you have an emergency?
+call.68.dialog.4	No, I do not, I'm sorry, but can we speak?
+call.68.dialog.5	No sir, please do not block the line.
+call.68.dialog.6	{CALL THE OFFICE} Sir, you should contact the Emergency Services Department with your case.
+call.68.dialog.7	Well, we can talk for a moment.
+call.68.dialog.8	Ok, I'm sorry, bye.
+call.68.dialog.9	Okay, how can I reach it?
+call.68.dialog.10	Please visit the department's website and post a request to meet with the dispatchers.
+call.68.dialog.11	Ok, can I ask for your name, so I can put it in the request?
+call.68.dialog.12	Sorry but you can not. Please do not block the line.
+call.68.dialog.13	Ok, I'm sorry, thanks and bye.
+call.68.dialog.14	Ok, but maybe we shall meet after your work so I do not block the line?
+call.68.dialog.15	No its fine now.
+call.68.dialog.16	{CALL ME LATER} Yeah that's a better idea. Call me at +48 502 344 222 tomorrow afternoon, OK?
+call.68.dialog.17	Sure, that sounds great! I will call you tomorrow afternoon then, thank you so much!
+call.68.dialog.18	You are welcome!
+call.68.dialog.19	Ok, then tell me please: what's most challenging about your work?
+call.68.dialog.20	{SO MUCH ELEMENTS} Hmm, there are just so many reports and teams, its really hard to handle.
+call.68.dialog.21	Talking with all those people sometimes make me nervous.
+call.68.dialog.22	Nothing at all, it's quite an easy job
+call.68.dialog.23	Then, what is most satisfying or entertaining about it?
+call.68.dialog.24	Helping people, saving lives.
+call.68.dialog.25	{MANAGEMENT} The management is quite challenging. Air controllers can learn a lot from us, and can tell you!
+call.68.dialog.26	It's just my duty...
+call.68.dialog.27	Ok, I would like to ask a couple of technical questions, but maybe I should send you an email with those so you can reply in text in your free time?
+call.68.dialog.28	Sure, however you prefer it. Send them to operator@jutsugames.com.
+call.68.dialog.29	Ok, Thank You so much! I will write right away!
+call.68.dialog.reminder	Hello? Are you there?
+call.68.dialog.reminder2	Seems I am interrupting something, sorry.
+call.68.aar.story	A game developer has called with questions concerning the operator's work
+call.68.aar.unnec	Numerous negative articles appeared in social media after intruding the developer's house.
+call.131.title	Impaled cyclist
+call.131.scene.worker1	Andrzej Nowak (caller)
+call.131.scene.worker2	Janusz Kowalski
+call.131.scene.stabbed	Impaled cyclist
+call.131.scene.stabtool	Impaling rod
+call.131.dialog.1	911, what's your emergency?
+call.131.dialog.2	Hello. Because here we have a problem.
+call.131.dialog.3	Ok, please tell me what happened?
+call.131.dialog.4	Because there is the man on the rod impaled.
+call.131.dialog.5	Excuse me, what do you mean sir?
+call.131.dialog.6	Man on a... a rod. He hit the rod and is stabbed on rod.
+call.131.dialog.6a	(foreign language)
+call.131.dialog.address	{ADDRESS?} Where are you calling from sir?
+call.131.dialog.addressdet	We are in this broken building.
+call.131.dialog.addressdet2	Where is it exactly?
+call.131.dialog.addressa0	Old factory at [[ADDRESS]]
+call.131.dialog.addressa1	Old factory at Pine Street
+call.131.dialog.addressa2	Old factory at 5 avenue
+call.131.dialog.addressa3	Old factory at Oak Street
+call.131.dialog.11	{IS HE CONSCIOUS?} Is he conscious?
+call.131.dialog.12	I think he is... I mean I do not know... well, he's heavy breathing.
+call.131.dialog.13	{IS HE MOVING?} Ok, Is he moving?
+call.131.dialog.14	He moves a little... with legs and hands on the sides ...
+call.131.dialog.14a	(foreign language)
+call.131.dialog.15	{IS HE BLEEDING?} Listen is he bleeding?
+call.131.dialog.17	No no... he is stuck on the rod. Rod is strong and he's on this rod. We can not move him.
+call.131.dialog.18	So the victim can't move?
+call.131.dialog.19	Yes, he can't move. We can lift him with Janusz and help him. (foreign language)
+call.131.dialog.22	{DON'T MOVE HIM} No, no don't move him! You can make his injuries worse. As long as he's breathing he is ok. Just wait for the ambulance to get there.
+call.131.dialog.23	So we can go, right?
+call.131.dialog.24	{WAIT} Please wait for the ambulance to get there and if his condition gets worst I want you to call 911 again.
+call.131.dialog.25	Ok, ok.
+call.131.dialog.40	Please try to pick him up.
+call.131.dialog.41	(foreign language)
+call.131.dialog.42	(foreign language)
+call.131.dialog.43	Ok, Ok!........ We took him off but there is big blood.
+call.131.dialog.46	{STOP THE BLEEDING} Do you have something that you can use to stop the bleeding?
+call.131.dialog.47	I don't know. No I don't... just my jacket.
+call.131.dialog.48	{PUT IT ON THE WOUND} Please try to put something on the wound and apply pressure so you can stop the bleeding!
+call.131.dialog.49	. . . . . . . . . . We need ambulance here!
+call.131.dialog.50	Ambulance is on the way.
+call.131.dialog.60	{YOU CAN GO} Yes, you can go. Ambulance is on its way.
+call.131.dialog.61	So we go . . . . (foreign language)
+call.131.dialog.70	{SEND FRIEND TO THE ROAD} Stay with the injured man. Send your friend to the road and he can guide the ambulance to your location.
+call.131.dialog.71	Alright . . . . . (foreign language)
+call.131.dialog.72	{STOP THE BLEEDING} Please I want you to stop the bleeding so his condition doesn't get worst. And then please call again if it does.
+call.131.dialog.73	Ok, ok.
+call.131.dialog.reminder	Halo?
+call.131.dialog.reminder2	Anyone there?
+call.131.aar.story	A man has impaled himself on a rod.
+call.131.aar.badchoice	The operator instructed the caller to move the injured man, which caused serious internal damages in his body.
+call.131.aar.bleeding	The operator provides proper instruction to stop the bleeding.
+call.131.aar.go	The operator let for leaving the injured man alone.
+call.131.aar.wait	The ambulance lose some time on searching the place of the incident, because of imprecise description of address.
+call.131.aar.road	One of the men guided the ambulance to the place of the incident. Thanks to that, paramedics could provide medical help sooner.
+call.287.title	Collapsed house
+call.287.scene.caller	Caller
+call.287.scene.injuried1	Jane Collins
+call.287.scene.injuried2	Susan Collins
+call.287.scene.injuried3	Rosie Collins
+call.287.scene.injuried4	Linda Collins
+call.287.scene.gruz	Collapsed house
+call.287.dialog.1	911, what's your emergency?
+call.287.dialog.2	Oh God, I’ve finally gotten through. Send someone over here.
+call.287.dialog.3	Sir, what's your emergency?
+call.287.dialog.4	The Collins's’, my neighbors’ house… it’s literally fallen apart… collapsed… I don't know what to do…
+call.287.dialog.5	{IS ANYBODY INSIDE?} Were your neighbors inside?
+call.287.dialog.6	I think so...
+call.287.dialog.7	{ARE YOU SURE?} You think so or they were? This is really important, we have a lot of emergencies.
+call.287.dialog.8	They were. Uhmmm... I saw Jane and Susan for sure, probably with the little kid, I have no idea about the rest of the family.
+call.287.dialog.9	{HOW MANY PEOPLE?} Ok, how many people live in the house?
+call.287.dialog.10	Six, but Ted surely went to work in the morning.
+call.287.dialog.11	{SO, FIVE PEOPLE?} So if Ted's gone to work there could be five people in the house?
+call.287.dialog.12	Yes.
+call.287.dialog.13	{WHO LIVES THERE?} So who would be in the house and what are they ages?
+call.287.dialog.14	A woman, two children… or three, Rose is older though, she’s in college. And Su, their grandmother, she’s 65.
+call.287.dialog.15	Has the house completely collapsed?
+call.287.dialog.16	Yes, there’s only a single wall fragment left.
+call.287.dialog.17	{CAN YOU HEAR THEM?} Can you hear anything from under the rubble, voices, somebody calling up for help?
+call.287.dialog.18	I don’t know. I had waited a while after the earthquake stopped. Then I looked out the window and saw that and started calling you immediately.
+call.287.dialog.19	Ok, listen, they need you to help.
+call.287.dialog.20	Like how?
+call.287.dialog.21	{IT TAKES TIME TO GET THERE} It might take a while before the fire and ambulance can get there.
+call.287.dialog.22	Obviously.
+call.287.dialog.23	{LOOK FOR THEM} What I need you to do is as soon as we're off this phone call, go over to the collapsed house, but don't walk on tha rubble, ok? Maybe you can manage to figure out where rescuers can start looking for people. Help them find them faster. But if you smell gas stay out of the area.
+call.287.dialog.24	Okay, got it.
+call.287.dialog.25	{CALL OTHERS} You can try to get the other neighbors to start removing the rubble.
+call.287.dialog.26	Okay, anything else?
+call.287.dialog.27	Please wait for the fire and ambulance to arrive.
+call.287.dialog.28	I'll do as you said.
+call.287.dialog.address	{WHAT ADDRESS?} What's the address for that house?
+call.287.dialog.addressa0	Their house is at [[ADDRESS]]
+call.287.dialog.addressa1	Their house is at Columbus Avenue 246
+call.287.dialog.addressa2	Their house is at Oak street 135
+call.287.dialog.addressa3	Their house is at 7th street 89
+call.287.dialog.reminder	Are you there?
+call.287.dialog.reminder2	What am I supposed to do?
+call.287.aar.story	The house has collapsed with a family inside.
+call.287.aar.call	Emergency unit had easier access to injured people, thanks to neighbors who had started removing a rubble.
+call.287.aar.search	The caller found a possible location of the injured people.
+call.287.aar.send	The operator decided to send an ambulance and firefighters unit.
+call.289.title	Electrocuted
+call.289.scene.caller	Caller
+call.289.scene.injuried1	School kid
+call.289.scene.injuried2	School kid
+call.289.scene.callerd	Caller
+call.289.dialog.1	911, what's your emergency?
+call.289.dialog.2	We need help. Some cables are hanging down on the field near the school, some kids are lying under the cables... I'll go get them out of there...
+call.289.dialog.3	Ok, be careful sir and don't touch the cables.
+call.289.dialog.4	Wait... the ground under the benches slided and there's some water flowing out, I guess some pipe has bursted.
+call.289.dialog.5	{HELP THEM} They need your help!
+call.289.dialog.6	Ok, ok I'm not deaf. There's a girl lying on... AAAAAAAAAH!
+call.289.dialog.7	First tell me where you are?
+call.289.dialog.8	First, secure the area.
+call.289.dialog.9	What do you mean?
+call.289.dialog.10	{ALERT OTHER} Just stand somewhere near and warn other people not to go there. Ok?
+call.289.dialog.11	But I want to help!
+call.289.dialog.12	{WHAT YOU SEE?} Let's start with you figuring out what exactly is going on.
+call.289.dialog.13	Okay...
+call.289.dialog.14	{LOOK AT CABLES} Please take a look at the cables, are they hanging above the ground, touching it, are thick or thin?
+call.289.dialog.15	They aren't very thick and the wind is swinging them. Oh damn!
+call.289.dialog.16	What happened?
+call.289.dialog.17	They sparkle when they touch the ground. A bit like fireworks.
+call.289.dialog.18	{DON'T TOUCH IT} Those cables are live, please don't approach them. I'll send firefighters, to come and take care of it.
+call.289.dialog.19	So what am I supposed to do?
+call.289.dialog.20	There's nothing more you can do right now.
+call.289.dialog.21	So I just have to wait?
+call.289.dialog.22	{LOOK AROUND} I want to look around, is there anything else going on besides the cables hanging down?
+call.289.dialog.23	Wait... the ground under the benches slided and there's some water flowing out, I guess some pipe has bursted.
+call.289.dialog.24	Is the water spreading out on the field?
+call.289.dialog.25	Yes, I can see that now, it flows slowly, but it's spreading.
+call.289.dialog.26	Are the victims lying in the water?
+call.289.dialog.27	Yes. Should I get them away from there?
+call.289.dialog.28	{JUST WAIT} Approaching them would be too dangerous, you have to wait.
+call.289.dialog.29	Ok, I don't want to get hurt.
+call.289.dialog.30	{TRY HELP THEM} If you're sure that you're able to help them please try. But remember your safety first sir.
+call.289.dialog.31	OK, I will call you later!
+call.289.dialog.end	...
+call.289.dialog.address	{ADDRESS?} Which field is it?
+call.289.dialog.addressa0	The one at [[ADDRESS]].
+call.289.dialog.addressa1	its the Sue Bierman Park
+call.289.dialog.addressa2	its the Jefferson Square Park
+call.289.dialog.addressa3	its the Marina Green
+call.289.dialog.reminder	Hey! I want to help them somehow.
+call.289.dialog.reminder2	Hello?!
+call.289.aar.electroc	Due to wrong operator instructions the caller was electrocuted. This resulted in casualty
+call.289.aar.helping	Caller secured the area while waiting for emergency services.
+call.290.title	Power cut
+call.290.scene.caller	Anna Stark (caller)
+call.290.scene.injuried1	Old man on life-support
+call.290.scene.battery	Battery exhausted!
+call.290.scene.generator	Generator to run
+call.290.dialog.1	911, what's your emergency?
+call.290.dialog.2	This is Anna Stark from the 'Silence Evening' care facility.
+call.290.dialog.address	{ADDRESS?} What's the address ma'am?
+call.290.dialog.addressa0	It's [[ADDRESS]]
+call.290.dialog.addressa1	It's 53 Wolden Street
+call.290.dialog.addressa2	It's 4 Pine Street
+call.290.dialog.addressa3	It's 110 Cedar Avenue
+call.290.dialog.5	Tell me what happened?
+call.290.dialog.6	We still don't have electricity after the earthquake.
+call.290.dialog.7	{IT'S NORMAL} Ma'am there are a lot of households that don't have electricity right now.
+call.290.dialog.8	But we have elderly guests to take care of!
+call.290.dialog.9	Aren't you prepared for such situations?
+call.290.dialog.10	One of our emergency generators broke during earthquake, we cannot sustain for much longer.
+call.290.dialog.11	Don't you have a spare generator?
+call.290.dialog.12	You think I am an idiot?! If the situation wasn't critical and we had other options I wouldn't be calling out, especially after an earthquake. I know you are completely busy.
+call.290.dialog.13	{ANY DANGER?} OK. Is anyone in a life-threatening situation?
+call.290.dialog.14	One of our patients has an artificial heart, and his batteries are running out!
+call.290.dialog.15	Is it possible to recharge the battery?
+call.290.dialog.16	Internal battery is empty and external one is almost depleted.
+call.290.dialog.17	What do you suggest?
+call.290.dialog.18	Send us someone with a power generator and if that ain't gonna happen he needs to be taken to a hospital fast! I mean fast!
+call.290.dialog.19	You have your own transport?
+call.290.dialog.20	If I had, I wouldn't be calling you. Patient is nonambulatory, an ambulance is a necessity.
+call.290.dialog.21	How much time do we have?
+call.290.dialog.22	A few minutes, less than that if you want to transport him in a vehicle without onboard life-support.
+call.290.dialog.23	{I'LL SEND TECH UNIT} I'll try to request someone with battery units or a fully-fitted ambulance as soon as possible.
+call.290.dialog.24	Hurry or he'll die.
+call.290.dialog.25	{TEAM'S ON WAY} Don't you worry, ma'am. The team is on their way.
+call.290.dialog.26	Ma'am please calm down.
+call.290.dialog.reminder2	Do something or my patient's gonna die!
+call.290.dialog.reminder	Hello, are you there?
+call.290.aar.story	A facility for the elderly didn't have electricity after a quake and theirs emergency generator had broken.
+call.290.aar.sended	The operator decided to send emergency services.
+call.290.aar.lostpat	The caller has lost her patience, because of operator's questions.
+call.290.aar.runagain	The emergency services have managed to run power generator again.
+call.290.aar.battex	The battery has exhausted, causing the person heart to stop.
+call.291.title	Flooded flat
+call.291.scene.caller	Caller
+call.291.scene.callerinj	Caller
+call.291.scene.bzyk	The caller was electrocuted!
+call.291.scene.water	Water
+call.291.scene.ele	Electrical installation
+call.291.dialog.1	911, what's your emergency?
+call.291.dialog.2	Hello? Hello! Anybody there?!
+call.291.dialog.3	Ma'am you've reached 911 what's your emergency?
+call.291.dialog.4	Sir, there is plenty of water here... damn it...
+call.291.dialog.5	What happened ma'am?
+call.291.dialog.6	What? Speak up, I have problems with hearing.
+call.291.dialog.7	I asked: what happened?
+call.291.dialog.8	I just told you, there is water everywhere.
+call.291.dialog.9	{IS PIPE BROKEN?} Where is it coming from? Do you have something wrong with your pipes?
+call.291.dialog.10	Pardon? Pipes? No!
+call.291.dialog.11	Are you sure?
+call.291.dialog.12	Yeah! When the shaking started I hid under the table, you know. A very solid one, made out of wood not like the ones they make these days.
+call.291.dialog.13	Ok, but what about the water?
+call.291.dialog.14	It flows from the top and on the side. Almost like a river. Maybe some pipe cracked? Or maybe it's coming from the house that started collapsing when the shaking began, a bit higher.
+call.291.dialog.15	How much water is there?
+call.291.dialog.16	I don't know about the basement, but it keeps flowing down there, right through the middle of my room! And there is mud too! I live downstairs where it's flat, so it all stays here. Sometimes even when it's raining... but now...
+call.291.dialog.17	{TURN OFF BRAKER BOX} Ok ma'am you're gonna have to shut down your breaker box.
+call.291.dialog.18	What?
+call.291.dialog.19	The breaker box ma'am, so you don't get electrocuted.
+call.291.dialog.20	But we don't have power at the moment. Nothings working! When it was shaking, it must have damaged the cables or something. It happens sometimes.
+call.291.dialog.21	{I INSIST} I insist you turn off the breaker box.
+call.291.dialog.22	But I told you that...
+call.291.dialog.23	They could restore power at any moment. If water hits the electricity you could get electrocuted.
+call.291.dialog.24	Get what?
+call.291.dialog.25	Electrocuted.
+call.291.dialog.26	Oh... ok, what should I do then?
+call.291.dialog.27	Shut off your breaker box.
+call.291.dialog.28	Alright, where are those?
+call.291.dialog.29	Usually they are in a box near the entrance to the building.
+call.291.dialog.30	Ah, I know I know, I'm not THAT old.
+call.291.dialog.31	Of course not.
+call.291.dialog.32	Can you send someone over anyway? I can't sit here all day wet and without electricity. That's unbearable...
+call.291.dialog.33	I will send a team as soon as I can.
+call.291.dialog.34	Ok, but better be quick. The water is cold.
+call.291.dialog.35	As soon as I can get them there ma'am.
+call.291.dialog.36	What about the water?
+call.291.dialog.address	{WHERE?} Where are you calling from? Could you please give me your address?
+call.291.dialog.addressa0	It's [[ADDRESS]]
+call.291.dialog.addressa1	At 342 Columbus Avenue
+call.291.dialog.addressa2	At 135 Oak street
+call.291.dialog.addressa3	At 89 7th street
+call.291.dialog.reminder	Will you do something about this water?
+call.291.dialog.reminder2	Hello?
+call.291.aar.poweroff	The operator convinced the caller to turn off a breaker box, which prevented from electrocution.
+call.291.aar.electrocut	The caller was electrocuted. The operator should have instructed the caller to turn off a breaker box.
+call.291.aar.flood	The caller's apartment was flooded.
+call.gen10.title	Car collision
+call.gen10.scene.caller	Caller
+call.gen10.scene.driver	Driver
+call.gen10.scene.injuriedA	Passenger
+call.gen10.scene.injuriedB	Passenger
+call.gen10.scene.car1	Smashed car
+call.gen10.scene.car2	Smashed car
+call.gen10.dialog.1	911, what's your emergency?
+call.gen10.dialog.2	Hello, there was a car collision.
+call.gen10.dialog.address	Where did the collision happen?
+call.gen10.dialog.addressa0	Around [[ADDRESS]]
+call.gen10.dialog.addressa1	Around 135 1st street
+call.gen10.dialog.addressa2	Around 246 2nd avenue
+call.gen10.dialog.addressa3	Around 389 Pine street
+call.gen10.dialog.when	When did it happen?
+call.gen10.dialog.wheny	Yesterday evening.
+call.gen10.dialog.whenm	Just a moment ago.
+call.gen10.dialog.whenh	5 minutes ago.
+call.gen10.dialog.wheny2	Sir, you don't call 911 for an accident that happened yesterday.
+call.gen10.dialog.wheny3	But the car is crashed and bumper is off....
+call.gen10.dialog.wheny4	Sir, please contact your body shop or go to the nearest police station if you have any complaints.
+call.gen10.dialog.wheny5	Ok... bye.
+call.gen10.dialog.injured	Are there any injured?
+call.gen10.dialog.injured0	No, no one.
+call.gen10.dialog.injured1	Yes, one person is injured.
+call.gen10.dialog.injured2	Yes, two people have some injuries.
+call.gen10.dialog.injuries	Can you tell what kind of injuries they have?
+call.gen10.dialog.injuriesa1	Just some scratches.
+call.gen10.dialog.injuriesa2	I think one of the passengers broke his leg.
+call.gen10.dialog.injuriesa3	One of the passengers says his stomach hurts really bad.
+call.gen10.dialog.injuries2	Ok, just make sure they won't move until an ambulance arrives.
+call.gen10.dialog.injuries3	Sure...
+call.gen10.dialog.who	Who has caused the accident?
+call.gen10.dialog.whoduno	We are still arguing about that, can you send a policeman to figure it out?
+call.gen10.dialog.whoi	I did...
+call.gen10.dialog.whoother	The other driver, he's obviously drunk.
+call.gen10.dialog.cars	Are any of the vehicles blocking traffic?
+call.gen10.dialog.carsno	No, they are not.
+call.gen10.dialog.cars1	Yes, one of them cannot be moved.
+call.gen10.dialog.cars2	Yeah, both of them are completely crashed.
+call.gen10.dialog.end	All right sir, please wait for the emergency services to arrive.
+call.gen10.dialog.enda	Ok, thank you!
+call.gen10.dialog.reminder	Are you there?
+call.gen10.dialog.reminder2	Hello?
+call.gen10.aar.yesterday	The accident took place yesterday and there was no need of intervention.
+call.gen10.aar.injur	One person was injured in the result of the car crash.
+call.gen10.aar.injur2	Two people was injured in the result of the car crash.
+call.gen10.aar.blocking	One of crashed vehicles was blocking traffic.
+call.gen10.aar.blocking2	Crashed vehicles were blocking traffic.
+call.gen10.aar.drunken	A driver who caused a collision was under influence of alcohol.
+call.gen10_2.title	Car collision
+call.gen10_2.scene.caller	Caller
+call.gen10_2.scene.driver	Driver
+call.gen10_2.scene.injuriedA	Passenger
+call.gen10_2.scene.injuriedB	Passenger
+call.gen10_2.scene.car1	Smashed car
+call.gen10_2.scene.car2	Smashed car
+call.gen10_2.dialog.1	911, what's your emergency?
+call.gen10_2.dialog.2	Hello, there was a car collision.
+call.gen10_2.dialog.address	Where did the collision happen?
+call.gen10_2.dialog.addressa0	Around [[ADDRESS]]
+call.gen10_2.dialog.addressa1	Around 135 1st street
+call.gen10_2.dialog.addressa2	Around 246 2nd avenue
+call.gen10_2.dialog.addressa3	Around 389 Pine street
+call.gen10_2.dialog.when	When did it happen?
+call.gen10_2.dialog.wheny	Yesterday evening.
+call.gen10_2.dialog.whenm	Just a moment ago.
+call.gen10_2.dialog.whenh	5 minutes ago.
+call.gen10_2.dialog.wheny2	Sir, you don't call 911 for accident that happened yesterday.
+call.gen10_2.dialog.wheny3	But the car is crashed and bumper is off....
+call.gen10_2.dialog.wheny4	Sir, please contact your body shop or go to the nearest police station if you have any complaints.
+call.gen10_2.dialog.wheny5	Ok... bye.
+call.gen10_2.dialog.injured	Are there any injured?
+call.gen10_2.dialog.injured0	No, no one.
+call.gen10_2.dialog.injured1	Yes, one person is injured.
+call.gen10_2.dialog.injured2	Yes, two people have some injuries.
+call.gen10_2.dialog.injuries	Can you tell what kind of injuries they have?
+call.gen10_2.dialog.injuriesa1	Just some scratches.
+call.gen10_2.dialog.injuriesa2	I think one of the passengers broke his leg.
+call.gen10_2.dialog.injuriesa3	One of the passengers says his stomach hurts really bad.
+call.gen10_2.dialog.injuries2	Ok, just make sure they won't move until an ambulance arrives.
+call.gen10_2.dialog.injuries3	Sure...
+call.gen10_2.dialog.who	Who has caused the accident?
+call.gen10_2.dialog.whoduno	We are still arguing about that, can you send a policeman to figure it out?
+call.gen10_2.dialog.whoi	I did...
+call.gen10_2.dialog.whoother	The other driver, he's obviously drunk.
+call.gen10_2.dialog.cars	Are any of the vehicles blocking traffic?
+call.gen10_2.dialog.carsno	No, they are not.
+call.gen10_2.dialog.cars1	Yes, one of them cannot be moved.
+call.gen10_2.dialog.cars2	Yeah, both of them are completely crashed.
+call.gen10_2.dialog.end	All right sir, please wait for the emergency services to arrive.
+call.gen10_2.dialog.enda	Ok, thank you!
+call.gen10_2.dialog.reminder	Are you there?
+call.gen10_2.dialog.reminder2	Hello?
+call.gen10_2.aar.yesterday	The accident took place yesterday and there was no need of intervention.
+call.gen10_2.aar.injur	One person was injured in the result of the car crash.
+call.gen10_2.aar.injur2	Two people was injured in the result of the car crash.
+call.gen10_2.aar.blocking	One of crashed vehicles was blocking traffic.
+call.gen10_2.aar.blocking2	Crashed vehicles were blocking traffic.
+call.gen10_2.aar.drunken	A driver who caused a collision was under influence of alcohol.
+call.gen10_3.title	Car collision
+call.gen10_3.scene.caller	Caller
+call.gen10_3.scene.driver	Driver
+call.gen10_3.scene.injuriedA	Passenger
+call.gen10_3.scene.injuriedB	Passenger
+call.gen10_3.scene.car1	Smashed car
+call.gen10_3.scene.car2	Smashed car
+call.gen10_3.dialog.1	911, what's your emergency?
+call.gen10_3.dialog.2	Hello, there's been a car crash.
+call.gen10_3.dialog.address	{WHERE?} Where did the collision happen?
+call.gen10_3.dialog.addressa0	Around [[ADDRESS]]
+call.gen10_3.dialog.addressa1	Around 135 1st street
+call.gen10_3.dialog.addressa2	Around 246 2nd avenue
+call.gen10_3.dialog.addressa3	Around 389 Pine street
+call.gen10_3.dialog.when	{WHEN?} When did it happen?
+call.gen10_3.dialog.wheny	Yesterday evening.
+call.gen10_3.dialog.whenm	Just a moment ago.
+call.gen10_3.dialog.whenh	5 minutes ago.
+call.gen10_3.dialog.wheny2	Sir, you don't call 911 for accident that happened yesterday.
+call.gen10_3.dialog.wheny3	But the car is crashed and bumper is off....
+call.gen10_3.dialog.wheny4	Sir, please contact your body shop or go to the nearest police station if you have any complaints.
+call.gen10_3.dialog.wheny5	Ok... bye.
+call.gen10_3.dialog.injured	Are there any injured?
+call.gen10_3.dialog.injured0	No, no one's hurt.
+call.gen10_3.dialog.injured1	Yes, one person is injured.
+call.gen10_3.dialog.injured2	Yeah, two people have some injuries.
+call.gen10_3.dialog.injuries	{WHAT INJURIES?} Can you tell what kind of injuries they have?
+call.gen10_3.dialog.injuriesa1	Just some scratches.
+call.gen10_3.dialog.injuriesa2	I think one of the passengers might have broke his leg.
+call.gen10_3.dialog.injuriesa3	One of the passengers says his stomach hurts really badly.
+call.gen10_3.dialog.injuries2	Ok, just make sure they won't move until an ambulance arrives.
+call.gen10_3.dialog.injuries3	Sure...
+call.gen10_3.dialog.who	Who has caused the accident?
+call.gen10_3.dialog.whoduno	We are still arguing about that, can you send a policeman to figure it out?
+call.gen10_3.dialog.whoi	It was my fault...
+call.gen10_3.dialog.whoother	The other driver, he's obviously drunk.
+call.gen10_3.dialog.cars	Are any of the vehicles blocking traffic?
+call.gen10_3.dialog.carsno	No, they are not.
+call.gen10_3.dialog.cars1	Yes, one of them can't be moved.
+call.gen10_3.dialog.cars2	Yeah, both of them are completely destroyed.
+call.gen10_3.dialog.end	Alright sir, please wait for the emergency services to arrive.
+call.gen10_3.dialog.enda	Ok, thank you!
+call.gen10_3.dialog.reminder	Are you there?
+call.gen10_3.dialog.reminder2	Hello?
+call.gen10_3.aar.yesterday	The accident took place yesterday and there was no need of intervention.
+call.gen10_3.aar.injur	One person was injured in the result of the car crash.
+call.gen10_3.aar.injur2	Two people was injured in the result of the car crash.
+call.gen10_3.aar.blocking	One of crashed vehicles was blocking traffic.
+call.gen10_3.aar.blocking2	Crashed vehicles were blocking traffic.
+call.gen10_3.aar.drunken	A driver who caused a collision was under influence of alcohol.
+call.gen11.title	Robbery
+call.gen11.scene.caller	Caller
+call.gen11.scene.robber1	Thief
+call.gen11.scene.robber2	Thief
+call.gen11.scene.injuriedA	Friend
+call.gen11.scene.injuriedC	Robbed
+call.gen11.dialog.1	911, what's your emergency?
+call.gen11.dialog.2	Hey, there was a robbery!
+call.gen11.dialog.2b	Hello, there was a robbery...
+call.gen11.dialog.address	Where did it happen?
+call.gen11.dialog.addressa0	Around [[ADDRESS]]
+call.gen11.dialog.addressa1	Around 234 1st street
+call.gen11.dialog.addressa2	Around 678 5th avenue
+call.gen11.dialog.addressa3	Around 125 Maple bulevar
+call.gen11.dialog.when	How long ago did this happen?
+call.gen11.dialog.wheny	Yesterday evening, on my way back home!
+call.gen11.dialog.whenm	A moment ago!
+call.gen11.dialog.whenh	A few minutes ago!
+call.gen11.dialog.wheny2	Sir, the 911 is for immediate emergencies. Not for something that happened in the past.
+call.gen11.dialog.wheny3	But they took my wallet and mobile phone!
+call.gen11.dialog.wheny4	Sir, please go to the nearest police station if you would like to report a crime.
+call.gen11.dialog.wheny5	But they... alright, whatever.....
+call.gen11.dialog.injured	Do you have any injuries?
+call.gen11.dialog.injured0	No, we are fine.
+call.gen11.dialog.injured1	Yes, my friend is injured.
+call.gen11.dialog.injured2	Yes, I was hit badly...
+call.gen11.dialog.injuredF	What happened to your friend?
+call.gen11.dialog.injuredF2	They knocked him down. He's hurt and having breathing problems
+call.gen11.dialog.injuredF3	Ok, just make sure he won't move until an ambulance arrives
+call.gen11.dialog.injuries3	Sure...
+call.gen11.dialog.injuriedS	Where were you hit?
+call.gen11.dialog.injuredS2	My head. I'm bleeding!
+call.gen11.dialog.injuredS3	Ok, just sit there please until an ambulance arrives.
+call.gen11.dialog.way	Are your attackers still in the area?
+call.gen11.dialog.way1	They ran away down the road.
+call.gen11.dialog.way2	They took a car and drove away.
+call.gen11.dialog.way3	I have no idea... they ran away somewhere.
+call.gen11.dialog.dir	Do you know which direction they went?
+call.gen11.dialog.dir1	I think north...
+call.gen11.dialog.dir2	I think south...
+call.gen11.dialog.dir3	I think east...
+call.gen11.dialog.dir4	I think west...
+call.gen11.dialog.car	What kind of a car was it?
+call.gen11.dialog.car1	A black van, but I don't know the plates.
+call.gen11.dialog.car2	A white sedan, but I don't know the plates.
+call.gen11.dialog.car3	A red pickup, but I don't know the plates.
+call.gen11.dialog.weapon	Did they have any weapons?
+call.gen11.dialog.weapon1	No, I think not.
+call.gen11.dialog.weapon2	Yes, a bat and a knife!
+call.gen11.dialog.weapon3	Yeah, a gun!
+call.gen11.dialog.fineb	Ok so you're not injured and the people who robbed you are not in the area right now?
+call.gen11.dialog.finea	Ok so you're not injured and the people who robbed you have left the area?
+call.gen11.dialog.fine2	Well yes, but I have been robbed!
+call.gen11.dialog.fine3	Sir, please go to the nearest police office to report a crime, right now there is nothing we can do about it.
+call.gen11.dialog.end	Alright sir, we will take care of it, please wait for the emergency services.
+call.gen11.dialog.enda	Yeah I will!
+call.gen11.dialog.reminder	Are you there?
+call.gen11.dialog.reminder2	Hello?
+call.gen11.aar.story	The caller was robbed.
+call.gen11.aar.unnec	The crime was committed yesterday. Sending emergency units wasn't necessary.
+call.gen11.aar.nointer	There was no need for an intervention.
+call.gen12.title	Empty call
+call.gen12.scene.caller	Caller
+call.gen12.scene.child	Child
+call.gen12.scene.caretaker	Child's caretaker
+call.gen12.scene.robber1	Terrorist
+call.gen12.scene.robber2	Terrorist
+call.gen12.scene.robber3	Terrorist
+call.gen12.scene.injuriedA	Paralyzed
+call.gen12.scene.door	Closed door
+call.gen12.scene.beaten	Beaten up caller
+call.gen12.dialog.1	911, what's your emergency?
+call.gen12.dialog.buttcall	. . . . .
+call.gen12.dialog.child	. . . . .
+call.gen12.dialog.empty	. . . . .
+call.gen12.dialog.emptymed	. . . . .
+call.gen12.dialog.ask	Hello? Anyone there?
+call.gen12.dialog.ask1	. . . . . . . . . . . . .
+call.gen12.dialog.ask2	. . . . . . . . . . . . .
+call.gen12.dialog.ask3	. . . . . . . . . . . . .
+call.gen12.dialog.shout	HELLO, ANYONE THERE!?
+call.gen12.dialog.redial	[HANGUP AND REDIAL]
+call.gen12.dialog.shout1	[call answer] . . . . . . . . . . . . . Hello?
+call.gen12.dialog.butcall2	Hello sir, we've got a 911 call from your phone. Do you have an emergency?
+call.gen12.dialog.butcall2F	Hello ma'am, this is 911, we've got a call from your phone. Do you have an emergency?
+call.gen12.dialog.butcall3	Oh? Excuse me! It's my phone. I accidentally called 911!
+call.gen12.dialog.shout2	[call answer] . . . . . . . . . . . . .
+call.gen12.dialog.shout3	[call answer] . . . . . . . . . . . . .
+call.gen12.dialog.redialmed	. . . . . . . . . . . . .
+call.gen12.dialog.redialhost	. . . . . . . . . . . . .
+call.gen12.dialog.digit	If you can't talk, please press any digit on your phone.
+call.gen12.dialog.digit1	. . . . . . . . . . . . .
+call.gen12.dialog.digit2	. . . . . . . . . . . . .
+call.gen12.dialog.digit3	. . . . . . . . . . . . . . [tone]
+call.gen12.dialog.no1	{ONE FOR HOSTAGE} All right, please press the button once if you are in a hostage situation and can't talk.
+call.gen12.dialog.no1no	. . . . . . . . . . . . .
+call.gen12.dialog.hostage	. . . . . . . . . . . . . . [tone]
+call.gen12.dialog.attack	{HOW MANY OF THEM?} Ok, I want you to press the button on the phone for each person there who's threatening you.
+call.gen12.dialog.attack1	. . . . . . . . . . . . . . [tone]
+call.gen12.dialog.attack2	. . . . . . . . . . . . . . [tone] . . [tone]
+call.gen12.dialog.attack3	. . . . . . . . . . . . . . [tone] . . [tone] . . [tone]
+call.gen12.dialog.weapons	{ANY WEAPONS?} Do they have any weapons? Press once for yes and twice for no.
+call.gen12.dialog.weapons1	. . . . [tone]
+call.gen12.dialog.weapons2	. . . . [tone] . . [tone]
+call.gen12.dialog.terror	{ARE THEY TERRORIST?} Is this a terrorist attack? Press once for yes and twice for no.
+call.gen12.dialog.terror1	. . . . [tone]
+call.gen12.dialog.terror2	. . . . [tone] . . [tone]
+call.gen12.dialog.end	All right, we have your location, is it [[ADDRESS]]?
+call.gen12.dialog.end1	All right, we have your location, is it 321 Main street?
+call.gen12.dialog.end2	All right, we have your location, is it 456 Washington Avenue?
+call.gen12.dialog.end3	All right, we have your location, is it 789 Oak boulevard?
+call.gen12.dialog.enda	. . . . [tone]
+call.gen12.dialog.prot	{TURN OFF YOUR PHONE} For your own safety we should hang up. Please turn off your phone or put it in silent mode so they can't hear it. Remain calm and wait for the police to get there!
+call.gen12.dialog.prota	. . . .
+call.gen12.dialog.no2	{TWO FOR MEDICAL} Press twice if you are in a medical condition and are unable to speak.
+call.gen12.dialog.no2no	. . . . . . . . . . . . .
+call.gen12.dialog.medyes	. . . . . . . . . . . . . . [tone] . . [tone]
+call.gen12.dialog.life	{IS YOUR LIFE IN DANGER?} Is your life in danger? Press once for yes and twice for no
+call.gen12.dialog.lifey	. . . . [tone]
+call.gen12.dialog.lifen	. . . . [tone] . . [tone]
+call.gen12.dialog.door	{ARE THE DOORS OPEN?} The place where you are, are the doors open? Press once for yes and twice for no.
+call.gen12.dialog.doory	. . . . [tone]
+call.gen12.dialog.doorn	. . . . [tone] . . [tone]
+call.gen12.dialog.waitm	{WAIT FOR SERVICES!} Ok, please wait for the emergency services! They will be there soon!
+call.gen12.dialog.waitma	. . . .
+call.gen12.dialog.isinemerg	Sir, are you having an emergency?
+call.gen12.dialog.isinemergF	Ma'am are you having an emergency?
+call.gen12.dialog.15	No! No I'm not!
+call.gen12.dialog.16	Ok, please lock your phone and make sure you won't call 911 by accident, that way you won't block the line for important calls.
+call.gen12.dialog.17	Of course! I'm sorry!
+call.gen12.dialog.reminder	. . . . . . . . . . . . .
+call.gen12.dialog.reminder2	. . . . . . . . . . . . .
+call.gen12.aar.buttcall	This call was made by unlocked phone.
+call.gen12.aar.medcall	A person that called could not speak due to his/her medical condition
+call.gen12.aar.hostcall	The caller was taken hostage.
+call.gen12.aar.recalwrong	The operator made a mistake by redialing a person in danger. We have learned about a hostage situation when it was too late.
+call.gen12.aar.childcall	Those were kids playing with a phone.
+call.gen13.title	Unconscious
+call.gen13.scene.caller	Caller
+call.gen13.scene.unconscious	Unconscious man
+call.gen13.scene.beaten	Beaten man
+call.gen13.scene.drunk	Drunk man
+call.gen13.dialog.1	911, what's your emergency?
+call.gen13.dialog.2	Hello, there's an unconscious man here on the pavement.
+call.gen13.dialog.address	{WHERE?} Where are you calling from?
+call.gen13.dialog.addressa0	I'm around [[ADDRESS]].
+call.gen13.dialog.addressa1	Around 135 1st street
+call.gen13.dialog.addressa2	Around 246 2nd avenue
+call.gen13.dialog.addressa3	Around 389 Pine street
+call.gen13.dialog.faint	Did you see him pass out?
+call.gen13.dialog.faintno	No, he was on the ground when I found him.
+call.gen13.dialog.drunk	Is it possible that he's drunk?
+call.gen13.dialog.drunkno	No, I guess not, he doesn't look drunk.
+call.gen13.dialog.breath	Is he breathing?
+call.gen13.dialog.breathy	Umm... Yeah, I think he's breathing.
+call.gen13.dialog.breathno	Wait a second . . . . . . . . Oh God. He's not breathing.
+call.gen13.dialog.block	{CHECK HIS MOUTH} Can you see anything in his mouth that might be blocking his airways?
+call.gen13.dialog.blockn	Uhhh no, there's nothing in his mouth...
+call.gen13.dialog.blocky	Well... His tongue looks like it's swollen.
+call.gen13.dialog.clear	{TILT HIS HEAD} Grab his chin and forehead and tilt his head backwards. That should open the airway. Do you know how to perform CPR?
+call.gen13.dialog.cpr	Do you know how to perform the CPR?
+call.gen13.dialog.cprno	What? Uhm no, not really.
+call.gen13.dialog.askhelp	{ASK FOR HELP} Do you have anyone around to ask for help?
+call.gen13.dialog.askhelpno	No, I'm all alone. There's no one around.
+call.gen13.dialog.askhelpy1	There's some girl... Hey! Do you know how to perform the CPR? Yes? Help! Okay, She'll do it.
+call.gen13.dialog.askhelpy2	Hey! You! Do you know how to perform CPR? No?
+call.gen13.dialog.instr	{FOLLOW MY INSTRUCTIONS} Okay, so put your phone on the speaker mode and follow my instructions.
+call.gen13.dialog.waitbad	{OK JUST WAIT} Well, in that case just wait for the ambulance to arrive. They're on their way.
+call.gen13.dialog.waiting	If you say so... I'll wait.
+call.gen13.dialog.cpryes	Yes, I'm on it!
+call.gen13.dialog.great	Great, continue until the ambulance arrives.
+call.gen13.dialog.hurry	Okay, hurry!
+call.gen13.dialog.instrok	Okay, it's on the speaker now.
+call.gen13.dialog.23	Place your hands in the center of the man's chest and start compressions, 30 times, faster than one compression per second.
+call.gen13.dialog.24	Okay. One, two, three...
+call.gen13.dialog.25	Now tilt his head back, pinch his nose holding his chin up, cover his mouth with yours and blow, then repeat it one more time and go back to the chest compressions.
+call.gen13.dialog.kiss	I'm not gonna kiss a stranger!
+call.gen13.dialog.27	Okay!
+call.gen13.dialog.kissmust	{YOU MUST} Sir, you must help him, you might even face a fine if you refuse.
+call.gen13.dialog.kissmust2	{YOU HAVE TO} You have to help him, you might even face a fine if you refuse.
+call.gen13.dialog.mustok	Ok, fine, fine. Ugh.
+call.gen13.dialog.mustok2	Ok, fine, fine. Ugh.
+call.gen13.dialog.compr	{OK, DO COMPRESSIONS} Ok, so just keep on performing the chest compressions until the ambulance arrives. It should be enough.
+call.gen13.dialog.31	Hurry.
+call.gen13.dialog.dont	{OK, WAIT FOR AMBULANCE} Then don't do anything and wait for the paramedics to arrive.
+call.gen13.dialog.noway	No way!
+call.gen13.dialog.noway2	No way!
+call.gen13.dialog.drunkyes	Yeah, he smells like hell. Completely drunk. Yuck.
+call.gen13.dialog.breath1	Is he breathing?
+call.gen13.dialog.breathsmell	Yes, ugh, his breath smells so bad.
+call.gen13.dialog.injuries	Does he have any visible injuries?
+call.gen13.dialog.injuriesyes	Uhm... A black eye, and there's some dry blood on his face too.
+call.gen13.dialog.injuriesno	No, I think he's not injured.
+call.gen13.dialog.40	{I'LL SEND POLICE} I'll send a police officer to check up on him, please stay there until they arrive.
+call.gen13.dialog.41	{JUST LEAVE HIM} Just leave him where he is.
+call.gen13.dialog.42	{I'LL SEND AMBULANCE} I'm sending an ambulance.
+call.gen13.dialog.faintyes	Yes, I saw him falling.
+call.gen13.dialog.pulse	{CHECK BREATH} Does he have a pulse? Is he breathing?
+call.gen13.dialog.breathyes	Yeah... he's breathing... oh wait. He's waking up.
+call.gen13.dialog.stay	{STAY WITH HIM} Can you stay with him and make sure he's completely ok?
+call.gen13.dialog.leave	I guess you can leave him then.
+call.gen13.dialog.okthx	Okay, thanks...
+call.gen13.dialog.bye	Sure. Bye!
+call.gen13.dialog.instrno	I won't do that, I'll hurt him or something.
+call.gen13.dialog.end	I'll send someone right away.
+call.gen13.dialog.enda	Ok, bye.
+call.gen13.dialog.illwait	Okay, I'm waiting.
+call.gen13.dialog.amb	I'll send an ambulance to check up on him. Can you wait there please?
+call.gen13.dialog.reminder	Hello?
+call.gen13.dialog.reminder2	Man, talk to me!
+call.gen13.aar.prison	The drunk man was taken to the police station to sober up.
+call.gen13.aar.helped	The unconscious man was given first aid.
+call.gen13.aar.refused	The caller refused to follow the operator's instructions.
+call.gen13.aar.fail	The operator has failed to help the caller.
+call.gen13_2.title	Unconscious
+call.gen13_2.scene.caller	Caller
+call.gen13_2.scene.unconscious	Unconscious man
+call.gen13_2.scene.beaten	Beaten man
+call.gen13_2.scene.drunk	Drunk man
+call.gen13_2.dialog.1	911, what's your emergency?
+call.gen13_2.dialog.2	Hi, there's an unconscious man here.
+call.gen13_2.dialog.address	Where are you calling from?
+call.gen13_2.dialog.addressa0	I'm around [[ADDRESS]]
+call.gen13_2.dialog.addressa1	Around 135 1st street
+call.gen13_2.dialog.addressa2	Around 246 2nd avenue
+call.gen13_2.dialog.addressa3	Around 389 Pine street
+call.gen13_2.dialog.faint	Did you see him pass out?
+call.gen13_2.dialog.faintno	No, he was on the ground when I found him.
+call.gen13_2.dialog.drunk	Is it possible that he's drunk?
+call.gen13_2.dialog.drunkno	No, he doesn't look drunk.
+call.gen13_2.dialog.breath	Is he breathing?
+call.gen13_2.dialog.breathy	Umm... Yeah, I think he's breathing.
+call.gen13_2.dialog.breathno	Wait a second . . . . . . . . . Oh God. He's not breathing.
+call.gen13_2.dialog.block	{CHECK HIS MOUTH} Can you see anything in his mouth that might be blocking his airways?
+call.gen13_2.dialog.blockn	No, no, nothing...
+call.gen13_2.dialog.blocky	Well... His tongue looks like it's swollen.
+call.gen13_2.dialog.clear	{TILT HIS HEAD} Grab his chin and forehead and tilt his head backwards. That should open the airway. Do you know how to perform CPR?
+call.gen13_2.dialog.cpr	Do you know how to perform the CPR?
+call.gen13_2.dialog.cprno	What? I don't know what that is.
+call.gen13_2.dialog.askhelp	{ASK FOR HELP} Do you have anyone around to ask for help?
+call.gen13_2.dialog.askhelpno	No, I'm all alone.
+call.gen13_2.dialog.askhelpy1	There's some girl... Hey! Do you know how to perform the CPR? Yes? Help! Okay, She'll do it.
+call.gen13_2.dialog.askhelpy2	Hey! You! Do you know how to perform CPR? No?
+call.gen13_2.dialog.instr	{FOLLOW MY INSTRUCTIONS} Okay, so put your phone on the speaker mode and follow my instructions.
+call.gen13_2.dialog.waitbad	{OK JUST WAIT} Well, in that case just wait for the ambulance to arrive. They're on their way.
+call.gen13_2.dialog.waiting	Ok, I'll wait.
+call.gen13_2.dialog.cpryes	Yes, I'm on it!
+call.gen13_2.dialog.great	Great, continue until the ambulance arrives.
+call.gen13_2.dialog.hurry	Hurry!
+call.gen13_2.dialog.instrok	Okay, it's on the speaker now.
+call.gen13_2.dialog.23	Place your hands in the center of the man's chest and start compressions, 30 times, faster than one compression per second.
+call.gen13_2.dialog.24	Okay. One, two, three...
+call.gen13_2.dialog.25	Now tilt his head back, pinch his nose holding his chin up, cover his mouth with yours and blow, then repeat it one more time and go back to the chest compressions.
+call.gen13_2.dialog.kiss	I'm not gonna kiss a stranger!
+call.gen13_2.dialog.27	Okay!
+call.gen13_2.dialog.kissmust	{YOU MUST} You must help him, you might even face a fine if you refuse.
+call.gen13_2.dialog.kissmust2	{YOU HAVE TO} You have to help him, you might even face a fine if you refuse.
+call.gen13_2.dialog.mustok	Ok, fine, fine. Ugh.
+call.gen13_2.dialog.mustok2	Ok, fine, fine. Ugh.
+call.gen13_2.dialog.compr	{OK DO COMPRESSIONS!} Ok, so just keep on performing the chest compressions until the ambulance arrives. It should be enough.
+call.gen13_2.dialog.31	Hurry.
+call.gen13_2.dialog.dont	{OK WAIT FOR AMBULANCE} Then don't do anything and wait for the paramedics to arrive.
+call.gen13_2.dialog.noway	No way!
+call.gen13_2.dialog.noway2	No way!
+call.gen13_2.dialog.drunkyes	Yeah, he smells like hell. Completely drunk. Yuck.
+call.gen13_2.dialog.breath1	Is he breathing?
+call.gen13_2.dialog.breathsmell	Yes, ugh, his breath smells so bad.
+call.gen13_2.dialog.injuries	Does he have any visible injuries?
+call.gen13_2.dialog.injuriesyes	A black eye, and there's some dry blood on his face too.
+call.gen13_2.dialog.injuriesno	No, I think he's not injured.
+call.gen13_2.dialog.40	{I'LL SEND POLICE} I'll send a police officer to check up on him, please stay there until they arrive.
+call.gen13_2.dialog.41	{JUST LEAVE HIM} Just leave him where he is.
+call.gen13_2.dialog.42	{I'LL SEND AMBULANCE} I'm sending an ambulance.
+call.gen13_2.dialog.faintyes	Yes, I saw him falling.
+call.gen13_2.dialog.pulse	{CHECK BREATH} Does he have a pulse? Is he breathing?
+call.gen13_2.dialog.breathyes	Yeah... he's breathing... oh wait. He's waking up.
+call.gen13_2.dialog.stay	{STAY WITH HIM} Can you stay with him and make sure he's completely ok?
+call.gen13_2.dialog.leave	I guess you can leave him then.
+call.gen13_2.dialog.okthx	Okay, thanks...
+call.gen13_2.dialog.bye	Sure. Bye!
+call.gen13_2.dialog.instrno	I won't do that, I'll hurt him or something.
+call.gen13_2.dialog.end	I'll send someone right away.
+call.gen13_2.dialog.enda	Bye.
+call.gen13_2.dialog.illwait	Okay, I'm waiting.
+call.gen13_2.dialog.amb	I'll send an ambulance to check up on him. Can you wait there please?
+call.gen13_2.dialog.reminder	Hello?
+call.gen13_2.dialog.reminder2	Man, talk to me!
+call.gen13_2.aar.prison	The drunk man was taken to the police station to sober up.
+call.gen13_2.aar.helped	The unconscious man was given first aid.
+call.gen13_2.aar.refused	The caller refused to follow the operator's instructions.
+call.gen13_2.aar.fail	The operator has failed to help the caller.
+call.own67.title	Daughter out of control
+call.own67.scene.daughter	Arguing daughter
+call.own67.scene.mother	Stressed mother (caller)
+call.own67.dialog.1	911, what's your emergency?
+call.own67.dialog.2	Good evening, I have a problem with my daughter... She's screaming, breaking things... Completely out of control!
+call.own67.dialog.hurt	Is your daughter hurt?
+call.own67.dialog.hurtn	No...
+call.own67.dialog.happ	What happened?
+call.own67.dialog.pull	I just can't calm her down! She's pulling my hair! She is almost my height...
+call.own67.dialog.old	How old is she?
+call.own67.dialog.olda	14
+call.own67.dialog.shoot	So you want us to come and shoot her?
+call.own67.dialog.what	... What? Excuse me?!
+call.own67.dialog.sar	Erm... it was just sarcasm, sorry Ma'am.
+call.own67.dialog.ina	That was very inappropriate! I will file a complaint for that, I assure you sir! Goodbye!
+call.own67.dialog.no	{IT ISN'T A 911 SITUATION} Ma'am, it doesn't sound like a 911 situation. Please deal with your daughter yourself or call the education support.
+call.own67.dialog.how	But how? She breaks everything in her room! Send in someone! I need help!
+call.own67.dialog.address	Where do you live?
+call.own67.dialog.addressa0	We live at [[ADDRESS]]
+call.own67.dialog.addressa1	We live at 112 1st street
+call.own67.dialog.addressa2	We live at 246 2nd avenue
+call.own67.dialog.addressa3	We live at 389 Pine street
+call.own67.dialog.pol	I'll send an officer to check up on her.
+call.own67.dialog.ty	Thank you, bye...
+call.own67.dialog.nope	As I said, it's not a case for 911. Goodbye.
+call.own67.dialog.tyi	Well... THANK YOU.
+call.own67.dialog.reminder	Oh, she broke something again...
+call.own67.dialog.reminder2	Hello?
+call.own67.aar.story	A mother couldn't manage to calm her daughter down.
+call.own67.aar.complaint	The caller filled a complaint on the operator's behavior.
+call.own67.aar.helped	The teenager was reprimanded by policemen.
+call.102.title	Bad pizza
+call.102.scene.caller	Man under influence of drugs (caller)
+call.102.dialog.1	911, what's your emergency?
+call.102.dialog.2	Hello? Oh, hi. I have a problem, I ordered a pizza and it's too damn spicy...
+call.102.dialog.sure	Are you sure you've reached the right number?
+call.102.dialog.3	Excuse me?
+call.102.dialog.surea	Daaaaamn sure.
+call.102.dialog.hot	My pizza. It's extremely spicy. I could barely manage to eat a slice.
+call.102.dialog.dang	Sir, are you in danger, but you can't talk about it because of someone in the room?
+call.102.dialog.nah	What? Nah! I just want to get my money back!
+call.102.dialog.joke	Is this a joke?
+call.102.dialog.jokea	Yo, do I sound like I'm joking? Pizza is neeeeever a joke.
+call.102.dialog.hi	Are you high?
+call.102.dialog.hia	High as a kite. And I want my munchies. It's tough, man.
+call.102.dialog.occ	Please don't occupy the line unnecessarily.
+call.102.dialog.hu	{HANG UP}
+call.102.dialog.pla	{CALL PIZZA PLACE} This isn't a matter for police. Please call the pizza place and complain to them.
+call.102.dialog.waste	Man, don't waste my time!
+call.102.dialog.thi	Think, how would you feel if it was your pizza... Ughhh... I'm disappointed, dude. May your pizza never be too spicy. Peace.
+call.102.dialog.fo	I tried, yo, but they told me to fuck off. It was very rude. Can some officer come and help me?
+call.102.dialog.no	Sir, we can't help you.
+call.102.dialog.reminder	Ughhhh... that was hot.
+call.102.dialog.reminder2	Maaaan...
+call.102.aar.trashcall	The caller was under influence of drugs. He hadn’t got any emergency situation and he was occupying the line unnecessarily
+call.102.aar.angry	The operator lose his patience during the conversation.
+call.gen11_2.title	Robbery
+call.gen11_2.scene.caller	Caller
+call.gen11_2.scene.robber1	Thief
+call.gen11_2.scene.robber2	Thief
+call.gen11_2.scene.injuriedA	Friend
+call.gen11_2.scene.injuriedC	Robbed
+call.gen11_2.dialog.1	911, what's your emergency?
+call.gen11_2.dialog.2	Hey, there was a robbery!
+call.gen11_2.dialog.2b	Hello, I would like to report a robbery.
+call.gen11_2.dialog.address	Where did it happen?
+call.gen11_2.dialog.addressa0	Around [[ADDRESS]]
+call.gen11_2.dialog.addressa1	Around 234 1st street
+call.gen11_2.dialog.addressa2	Around 678 5th avenue
+call.gen11_2.dialog.addressa3	Around 125 Maple bulevar
+call.gen11_2.dialog.when	How long ago did this happen?
+call.gen11_2.dialog.wheny	Yesterday evening, on my way back home!
+call.gen11_2.dialog.whenm	A moment ago!
+call.gen11_2.dialog.whenh	A few minutes ago!
+call.gen11_2.dialog.wheny2	The 911 is for immediate emergencies. Not for something that happened in the past.
+call.gen11_2.dialog.wheny3	But they took my wallet and mobile phone!
+call.gen11_2.dialog.wheny4	Please go to the nearest police station if you would like to report a crime.
+call.gen11_2.dialog.wheny5	But they... alright, whatever.....
+call.gen11_2.dialog.injured	Do you have any injuries?
+call.gen11_2.dialog.injured0	No, I think we're fine.
+call.gen11_2.dialog.injured1	Yes, my friend is hurt.
+call.gen11_2.dialog.injured2	Yes...
+call.gen11_2.dialog.injuredF	What happened to your friend?
+call.gen11_2.dialog.injuredF2	They knocked him down. He's hurt, having breathing problems
+call.gen11_2.dialog.injuredF3	Ok, just make sure he won't move until an ambulance arrives
+call.gen11_2.dialog.injuries3	Sure...
+call.gen11_2.dialog.injuriedS	Where were you hit?
+call.gen11_2.dialog.injuredS2	It.. It's my head. I am bleeding.
+call.gen11_2.dialog.injuredS3	Ok, just sit there please until an ambulance arrives.
+call.gen11_2.dialog.way	Are your attackers still in the area?
+call.gen11_2.dialog.way1	They ran away down the road.
+call.gen11_2.dialog.way2	They took a car and drove away.
+call.gen11_2.dialog.way3	I have no idea... they ran away somewhere.
+call.gen11_2.dialog.dir	Do you know which direction they went?
+call.gen11_2.dialog.dir1	I think north...
+call.gen11_2.dialog.dir2	I think south...
+call.gen11_2.dialog.dir3	I think east...
+call.gen11_2.dialog.dir4	I think west...
+call.gen11_2.dialog.car	Could you describe the car?
+call.gen11_2.dialog.car1	It was a black van, but I didn't see the plates.
+call.gen11_2.dialog.car2	It was a white sedan, but I didn't see the plates.
+call.gen11_2.dialog.car3	It was a red pickup, but I don't know the plates.
+call.gen11_2.dialog.weapon	Did they have any weapons?
+call.gen11_2.dialog.weapon1	No, I don't think so.
+call.gen11_2.dialog.weapon2	Yeah, they had a bat and a knife!
+call.gen11_2.dialog.weapon3	Yeah, one of them had a gun!
+call.gen11_2.dialog.fineb	Ok so you're not injured and the people who robbed you are not in the area right now?
+call.gen11_2.dialog.finea	Ok so you're not injured and the people who robbed you have left the area?
+call.gen11_2.dialog.fine2	Well yes, but I have been robbed!
+call.gen11_2.dialog.fine3	Please go to the nearest police office to report a crime, right now there is nothing we can do about it.
+call.gen11_2.dialog.end	We will take care of it, please wait for the emergency services.
+call.gen11_2.dialog.enda	Yeah I will!
+call.gen11_2.dialog.reminder	Are you there?
+call.gen11_2.dialog.reminder2	Hello?
+call.gen11_2.aar.story	The caller was robbed.
+call.gen11_2.aar.unnec	The crime was committed yesterday. Sending emergency units wasn't necessary.
+call.gen11_2.aar.nointer	There was no need for an intervention.
+call.alb1.title	Dead daughter
+call.alb1.scene.father	Caller
+call.alb1.scene.daughter	Daughter of the caller
+call.alb1.dialog.1	911, what's your emergency?
+call.alb1.dialog.2	Oh my god... Oh my god...
+call.alb1.dialog.wh	Sir, what's happening there?
+call.alb1.dialog.daugh	My... My daughter...
+call.alb1.dialog.wh2	What happened to your daughter Sir?
+call.alb1.dialog.dead	Why did you do that, my little girl... I just found her... She's dead...
+call.alb1.dialog.sure	{CHECK HER PULSE} Ok, Sir we're gonna get ambulance on a way. Have you checked her pulse?
+call.alb1.dialog.surea	Yes... yes there is no pulse... no pulse... she doesn't have a heartbeat, her heart stopped.
+call.alb1.dialog.cold	Is the body completely cold?
+call.alb1.dialog.colda	Yes, she's cold and stiff... my baby...
+call.alb1.dialog.can	Do you know what happened to her?
+call.alb1.dialog.address	What's the address you're calling from?
+call.alb1.dialog.addressa0	[[ADDRESS]]
+call.alb1.dialog.addressa1	2608 Central Avenue
+call.alb1.dialog.addressa2	5603 Menaul Boulevard
+call.alb1.dialog.addressa3	156 Indian School Road
+call.alb1.dialog.whya	Can you tell me what she did?
+call.alb1.dialog.drugs	Drugs... There are syringes all around her... Someone gave her drugs... And now she's dead...
+call.alb1.dialog.patrol	I'll send a patrol there. Please stay where you are and try not to move or touch anything.
+call.alb1.dialog.ok	Okay... God...
+call.alb1.dialog.reminder	My baby...
+call.alb1.dialog.reminder2	Are you there?
+call.alb1.aar.overdose	Caller’s daughter was found dead. The possible cause of death is drugs overdose. The police has started an investigation.
+call.alb2.title	Concerned wife
+call.alb2.scene.wife	Caller
+call.alb2.scene.intoxi	Caller
+call.alb2.scene.hubby	Husband
+call.alb2.dialog.1	911, what's your emergency?
+call.alb2.dialog.2	Uh... Hello. I don't really know how to say it, but...
+call.alb2.dialog.3	Yes?
+call.alb2.dialog.cook	I think my husband is a cook.
+call.alb2.dialog.cooka	I am sorry what do you mean ma'am?
+call.alb2.dialog.cookb	I thought women like men who can cook well.
+call.alb2.dialog.drugs	I mean... I think that he makes drugs.
+call.alb2.dialog.why	{WHY DO YOU THINK SO?} Oh. Why do you think so?
+call.alb2.dialog.weird	I found weird containers filled with some stuff in our cellar. They stink pretty bad... I have no idea what it is... My husband's a chemist but why would he need that...
+call.alb2.dialog.tv	{YOU'VE WATCHED TOO MANY TV SHOWS} Ma'am, maybe you've watched too many TV shows.
+call.alb2.dialog.serious	I'm serious...
+call.alb2.dialog.evi	That's not enough evidence, ma'am.
+call.alb2.dialog.kid	But he keeps in touch with some kid, I guess it's his former student. I think the police used to keep an eye on him. I'm not sure but it might've been connected to drugs...
+call.alb2.dialog.husb	Why do you call 911 on your husband?
+call.alb2.dialog.unsafe	We don't get along well. And I feel like my home is being observed lately... Some shady guys started to wander around in our neighborhood. I'm scared, I need to protect my son...
+call.alb2.dialog.check	{CHECK THE CELLAR} Can you check what's inside the vessels? The kind of smells you getting of the containers?
+call.alb2.dialog.high	Yeah, sure... [pause, coughs] Uhh... It smells funny... Daaaaamn. I need you to send someone here... now....
+call.alb2.dialog.high2	Yeah, sure... [pause, coughs] Uhh... It smells funny... Daaaaamn. I need you to send someone here... now....
+call.alb2.dialog.highdragon	Yeah, sure... [pause, coughs] Uhh... I got a bit dizzy... Daaaaamn. I need you to send someone here... now.... it's getting very misty in here....
+call.alb2.dialog.address	What's your address?
+call.alb2.dialog.addressa0	[[ADDRESS]]
+call.alb2.dialog.addressa1	2608 Central Avenue
+call.alb2.dialog.addressa2	5603 Menaul Boulevard
+call.alb2.dialog.addressa3	156 Indian School Road
+call.alb2.dialog.okpol	{SEND POLICE} I understand ma'am. I'll send an officer by to check it out. Where are you calling from?
+call.alb2.dialog.way	Ok, the patrol's on the way.
+call.alb2.dialog.amb	Hold on there ma'am, I'll send an officer and ambulance to you.
+call.alb2.dialog.quick	Just be quick...
+call.alb2.dialog.gopol	{GO TO POLICE STATION} In that case you should go to the nearest police station and talk to an officer there.
+call.alb2.dialog.gopol2	{GO TO POLICE STATION} In that case you should go to the nearest police station and talk to an officer there. Bring some photos of the labels that are on the containers ok?
+call.alb2.dialog.ty	Okay, thank you...
+call.alb2.dialog.drop	...
+call.alb2.dialog.reminder	Sir?
+call.alb2.dialog.reminder2	Hello?
+call.alb2.aar.story	A woman suspected that her husband was making drugs.
+call.alb2.aar.toxic	The woman got intoxicated by chemical fumes from the vessel.
+call.alb2.aar.found	The policemen found a drug lab in the cellar. The caller's husband confessed and was arrested.
+call.alb2.aar.wrong	It turned out that the caller was right about her husband. He figured out the situation and ran away.
+call.wa3.title	Suicide senator
+call.wa3.scene.caller	Jenny Wilis (caller)
+call.wa3.scene.deads	Senator Stampson
+call.wa3.dialog.1	911, what's your emergency?
+call.wa3.dialog.2	Hello? Mr. Stampson is dead!
+call.wa3.dialog.calm	Please, try to calm down and describe the situation.
+call.wa3.dialog.question	Miss who is Mr. Stampson?
+call.wa3.dialog.question1	He is the senator, of course! Such a noble man... How he could do that?!
+call.wa3.dialog.who	Who are you?
+call.wa3.dialog.who1	I'm Jenny Wilis... I work at the office of senator Stampson as an assistant... I thought he went home, the lights were off in his office...
+call.wa3.dialog.calm1	He's hanging from the ceiling! Oh my god, why would he kill himself?
+call.wa3.dialog.dont	OK, Jenny don't touch anything please and just wait until the police get there.
+call.wa3.dialog.address	Jenny, what's the address?
+call.wa3.dialog.addressa0	It's [[ADDRESS]]
+call.wa3.dialog.addressa1	It's 243 1st street.
+call.wa3.dialog.addressa2	It's 4576 Wide Avenue.
+call.wa3.dialog.addressa3	It's 9th street.
+call.wa3.dialog.dont1	I would never do that. This is too much for me. Can I leave the r... OH MY GOD!
+call.wa3.dialog.move1	What happened?
+call.wa3.dialog.move2	He's moving...
+call.wa3.dialog.move3	{IS HE ALIVE?} Jenny what do you mean? Did he start breathing?
+call.wa3.dialog.stop	{LEAVE THE ROOM} Jenny I think you're in shock. You should leave the room and wait for emergency services.
+call.wa3.dialog.move4	No. He just started... swinging.
+call.wa3.dialog.move5	{CHECK THE WINDOWS} Swinging? Jenny could you check and see if any of the windows in room are open?
+call.wa3.dialog.move6	One second... One of the window is slightly open.
+call.wa3.dialog.close	{CLOSE THE WINDOW} Don't be afraid, sounds like it's just a wind. Close the window and wait for emergency services.
+call.wa3.dialog.close1	Yes... Please, hurry if you can.
+call.wa3.dialog.leave	{LEAVE THE ROOM} The police will investigate that. Leave the room and wait for the emergency services. They're already on the way.
+call.wa3.dialog.leave1	Ok... Please, hurry.
+call.wa3.dialog.rescue	{TAKE HIM DOWN} Jenny I want you to try take the senator down and check if he's still alive.
+call.wa3.dialog.rescue1	What?! Please, don't make me do it.
+call.wa3.dialog.checkp	{IT'S IMPORTANT} Jenny, it's very important. I'm sure the senator could always count on you. Please, do it for him.
+call.wa3.dialog.checkn	{DON'T DO THIS} I understand Jenny, it's OK, calm down. Emergency services will be there any moment.
+call.wa3.dialog.chair	But... But I'm too short to reach him.
+call.wa3.dialog.find	{STAND ON SOMETHING} Try to find something in the room, something to stand on. Maybe a chair?
+call.wa3.dialog.chair1	Hmm, there is chair lying on the floor. Should I use it?
+call.wa3.dialog.chair2	Yes, but be careful.
+call.wa3.dialog.chair3	Ugh, he is too heavy for me. I don't think that I can manage to take him down.
+call.wa3.dialog.chair2a	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+call.wa3.dialog.pulse	Can you feel the pulse?
+call.wa3.dialog.wait	{LEAVE THE ROOM} Jenny if you can't take him down, you should just leave the room and wait for emergency services.
+call.wa3.dialog.pulse1	No. He's gone. His body is really cold.
+call.wa3.dialog.pulse2	I understand. Jenny I want you to wait for the police officers. They will be there shortly.
+call.wa3.dialog.reminder	Are you there?
+call.wa3.dialog.reminder2	What should I do?
+call.wa3.aar.story	The senator was found dead. His assistant claimed it's a suicide.
+call.wa3.aar.good	The police started an investigation to establish if he'd committed suicide or had been murdered.
+call.wa3.aar.bad	Crime scene was interfered, because of operator's instructions. The police was unable to claim if the senator had committed suicide or had been murdered.
+call.ny2.title	Axe Robbery
+call.ny2.scene.caller	Gamer (caller)
+call.ny2.scene.fcomputer	Computer
+call.ny2.dialog.1	911, what's your emergency?
+call.ny2.dialog.2	I was robbed! Bastard!
+call.ny2.dialog.what	What was stolen?
+call.ny2.dialog.what_1	My axe! I've been working for so long to get it!
+call.ny2.dialog.robbrery	{HOW DID IT HAPPEN?} Sir, were you assaulted? Was this a burglary?
+call.ny2.dialog.robbery_1	No, just a shameless theft! The deal was - I drop the axe and he drops gold, but that bastard just picked the axe, didn't pay and ran away instead!
+call.ny2.dialog.robbery_2	Sorry, I don't really understand.
+call.ny2.dialog.robbery_4	Hey, it's simple..
+call.ny2.dialog.where	{WHERE?} Where did it happen?
+call.ny2.dialog.where_1	In the Evergreen Forest. Near the blacksmith's house.
+call.ny2.dialog.where_2	{ADDRESS?} I'm asking for your real address.
+call.ny2.dialog.addressa0	It's [[ADDRESS]].
+call.ny2.dialog.addressa1	It's 243 1st street.
+call.ny2.dialog.addressa2	It's 4576 Wide Avenue.
+call.ny2.dialog.addressa3	It's 9th street.
+call.ny2.dialog.gold	{GOLD?} So, he was supposed to pay with... gold?
+call.ny2.dialog.gold_1	Yes, it's the currency here. We've agreed for 6000 golden coins.
+call.ny2.dialog.gold_2	{WHAT?} I'm confused. I don't get it.
+call.ny2.dialog.gold_game	{IS IT A GAME?} Sir, are we talking about a computer game?
+call.ny2.dialog.gold_3	It's in the game! That's how the trades go, but he tricked me and stole my axe!
+call.ny2.dialog.knowhim	Do you know who did it?
+call.ny2.dialog.knowhim_1	His nickname is NiceOrk1337. He belongs to the Misty Assassins' Guild.
+call.ny2.dialog.novirtual	{NOT AN EMERGENCY} Sir. Events happening in virtual worlds... they are not an emergencies.
+call.ny2.dialog.novirtual_1	But it was a robbery!
+call.ny2.dialog.novirtual_2	{I CAN'T HELP YOU} Tell me, honestly, would it help if I sent the police over?
+call.ny2.dialog.novirtual_3	Um... not really.
+call.ny2.dialog.nothingtodo	So there's nothing I can do for you, Sir.
+call.ny2.dialog.end	Uhhh.... Gosh. Alright, I will find him and kill him myself.
+call.ny2.dialog.mean	{YOU'RE RIDICULOUS} Come down to earth, man. 911 is intended to be used in real emergencies.
+call.ny2.dialog.mean2	It was a real robbery! Okay, I'll get him on my own!
+call.ny2.dialog.reminder	Hello?
+call.ny2.dialog.reminder2	Are you there?
+call.ny2.dialog.send	{SEND POLICE} Alright, I'll send the police to you.
+call.ny2.dialog.sendok	You better hurry!
+call.ny2.aar.meanopt	The operator has lost his temper.
+call.ny2.aar.story	The caller reported a robbery in a virtual world.
+call.ny2.aar.unneces	The policeman reported that the intervention was completely unnecessary.
+call.ny3.title	Sports fans fight
+call.ny3.scene.caller	Caller
+call.ny3.scene.fire	Coach on fire
+call.ny3.scene.aggr1	Aggressive thug
+call.ny3.scene.aggr2	Aggressive thug
+call.ny3.scene.injur1	Injured fan
+call.ny3.scene.injur2	Injured fan
+call.ny3.scene.injur3	injured fan
+call.ny3.scene.norm1	Fan
+call.ny3.scene.norm2	Fan
+call.ny3.dialog.1	911, what’s your emergency?
+call.ny3.dialog.strat_1	Hello? Dude, we have a serious mess here!
+call.ny3.dialog.what	Ok, what's happening?
+call.ny3.dialog.what_1	Our boys are beating up the other fans! I thought it’s gonna be this kinda, you know, friendly brawl… but our boys are pushing it a bit too far. Can you send an ambulance or somethin’?
+call.ny3.dialog.injured	Is anyone severely injured?
+call.ny3.dialog.injured_1	Well, not severely but some of them are pretty messed up. Few are actually unconscious. One of ours as well!
+call.ny3.dialog.ours	What do you mean by ‘ours’?
+call.ny3.dialog.ours_1	I’m rootin’ for Mets guys obviously! B-but I’m staying out of the fight…
+call.ny3.dialog.appeal	{TELL THEM TO STOP} Can you advise them to stop fighting try to get'em to break it up?
+call.ny3.dialog.appeal_1	Are you for real! I’m just spectating mate! From safe distance.
+call.ny3.dialog.interwention	Alright I am gonna have to send the police.
+call.ny3.dialog.interwention_1	No! No need for that…just an ambulance…well, maybe some firefighters cuz the bus is in flames…
+call.ny3.dialog.where	What’s the location of the fight?
+call.ny3.dialog.addressa0	Bar on [[ADDRESS]]
+call.ny3.dialog.addressa1	Bar on 21 Arthur Avenue
+call.ny3.dialog.addressa2	Bar on Christopeher Street
+call.ny3.dialog.addressa3	Bar on 5 Maiden Avenue
+call.ny3.dialog.who_wins	Who’s winning?
+call.ny3.dialog.who_wins_1	Our boys so far! They’re really smacking them good!
+call.ny3.dialog.size	How many people are involved in the fight?
+call.ny3.dialog.size_1	Like ten dudes. It’s one of those ‘too many drinks per head’ exchange of arguments thing, you know. And a bit of smoulder… maybe they beat us in the game but we did smoked their bus! Ha!
+call.ny3.dialog.burning	Is something on fire?
+call.ny3.dialog.burning_1	That’s what I’ve said, they pushed it a little too far. Oh, you know, we’re mourning our loss after that game. I kinda do understand them, wouldn’t you mate?
+call.ny3.dialog.burning_2	Setting a vehicle on fire and assaulting people those are crimes…
+call.ny3.dialog.burning_3	Oh, you’re at work I guess. I just hope I did not spoil you the result of the game… did you record it?
+call.ny3.dialog.focus	Can you please focus on the fight?
+call.ny3.dialog.focus_1	Well, that’s all! Ours are givin’ them hell! So far...
+call.ny3.dialog.end	Ok, Sir, I've got officers on the way. They gonna break up the fight and deal with the situation.
+call.ny3.dialog.end1	Be quick about it.
+call.ny3.dialog.reminder	Hello?
+call.ny3.dialog.reminder2	Are you there?
+call.ny3.aar.barFight	Witness reported bar fight between sport fans.
+call.ny3.aar.noaction1	Fight started to expand. Witness refused to take action as he was afraid for his own safety.
+call.ny3.aar.firefight	In the course of fight suspects set fire to a bus. Firefighter intervention was required.
+call.wa1.title	Run over dog
+call.wa1.scene.caller	Frank Underhill (caller)
+call.wa1.scene.dog	Dog
+call.wa1.scene.deaddog	Dead dog
+call.wa1.dialog.1	911, what's your emergency?
+call.wa1.dialog.2	There was an accident, please send an ambulance.
+call.wa1.dialog.what	{WHAT HAPPENED?} Alright sir, you gonna have to tell me more, before I send an ambulance.
+call.wa1.dialog.send	Just stand by the ambulance will be there shortly.
+call.wa1.dialog.accident	What more do you want to know?
+call.wa1.dialog.info	What exactly did happen? Who is injured?
+call.wa1.dialog.info1	A dog was hit by some asshole driver. I don't know how serious the injuries are, but it looks really bad.
+call.wa1.dialog.sup	A dog? You mean a dog is injured?
+call.wa1.dialog.address	{ADDRESS} Where did it happen?
+call.wa1.dialog.addressa0	At [[ADDRESS]]
+call.wa1.dialog.addressa1	At 104 Doungton ave.
+call.wa1.dialog.addressa2	At 232 Roosevelt st.
+call.wa1.dialog.addressa3	At 478 Osmond blv.
+call.wa1.dialog.ofc	Yes, a dog was run over by a car!
+call.wa1.dialog.vet	{CALL A VET} I can't send an ambulance for an injured dog. You will have to take it to a vet.
+call.wa1.dialog.help	{TRY TO HELP} Is the dog in critical condition? Maybe you can help him by yourself.
+call.wa1.dialog.help1	I don't think so... It looks terrible. He cant really move... seems like there is something wrong with his spine.
+call.wa1.dialog.vet1	I don't know if it makes sense. The dog probably will probably die before they arrive.
+call.wa1.dialog.kill	That dog is in enormous pain. Maybe I should kill it?
+call.wa1.dialog.killit	{DO IT} If there's no other way to help this dog, maybe you should.
+call.wa1.dialog.callvet	{GIVE VET NUMBER} Sir, I strongly recommend you don't do that. I can give you the number to a good vet. Do you have something to write it down?
+call.wa1.dialog.sendf	{SEND HELP} No! The situation is critical enough to send the ambulance. Please wait, the help is on the way.
+call.wa1.dialog.done	You're right. My dad always said that they're two kinds of pain: the pain that makes you stronger or useless pain. That dog will never be stronger. There is no point to his suffering...
+call.wa1.dialog.doneop1	{...} . . .
+call.wa1.dialog.doneop2	{DONT DO IT!} No no Sir don't do that please! I'll send someone there right away, they will be there shortly!
+call.wa1.dialog.done1	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+call.wa1.dialog.done2	It's over now. Sorry for an unnecessary call.
+call.wa1.dialog.callvet1	. . . . . . . . . It is not a good idea. Moments like this require somebody who will act. Who will do unpleasant, but necessary, things.
+call.wa1.dialog.thanks	Thanks. I'll wait with it.
+call.wa1.dialog.reminder	Hello?
+call.wa1.dialog.reminder2	Can you hear me?
+call.wa1.aar.story	A dog was run over by a car.
+call.wa1.aar.unnecessary	Medical service was dispatched unnecessarily.
+call.wa1.aar.necessary	Animal's condition was critical. Caller decided to inflict a mortal wound, that would end the dog's suffering.
+call.ch1.title	Prison escape
+call.ch1.scene.criminal1	Fugitive
+call.ch1.scene.criminal2	Fugitive
+call.ch1.scene.criminal3	Fugitive
+call.ch1.scene.criminal4	Fugitive
+call.ch1.scene.kidnaped	Kidnapped driver
+call.ch1.dialog.1	911, what's your emergency?
+call.ch1.dialog.2	Hey, I live near the jail, and I think I just saw someone escaping it!
+call.ch1.dialog.what	Ok, tell me what you saw sir.
+call.ch1.dialog.whata	I noticed some men going out through the window by a rope... Like in a movie!
+call.ch1.dialog.address	Which prison are we talking about sir?
+call.ch1.dialog.addressa0	Fox River, at the [[ADDRESS]]
+call.ch1.dialog.addressa1	Fox River, at the 702 Jefferson Street.
+call.ch1.dialog.addressa2	Fox River, at the 332 Green Drive.
+call.ch1.dialog.addressa3	Fox River, at the 85 Second Avenue.
+call.ch1.dialog.many	Did you count how many prisoners escaped?
+call.ch1.dialog.manya	There were four of them!
+call.ch1.dialog.where	Where are they now?
+call.ch1.dialog.wherea	I don't know, they drove away quickly, heading north.
+call.ch1.dialog.vehicle	Did they have someone waiting for them?
+call.ch1.dialog.vehiclea	No, it seemed like they've stolen a car.
+call.ch1.dialog.driver	Was there someone in the car?
+call.ch1.dialog.drivera	Yes, the driver... They dragged him out of the car, hit a few times and threw him in the trunk.
+call.ch1.dialog.kind	{DESCRIBE THE CAR} Did you get a look at the car? Make, model, color that kind of thing.
+call.ch1.dialog.kinda	Well... it was a... a white car, I believe it was sedan. A white sedan.
+call.ch1.dialog.way	Ok, thanks for the call, the police will start looking for them.
+call.ch1.dialog.imp	That's not possible sir.
+call.ch1.dialog.impa	I saw it with my own eyes! Who gave you this job? I guess I'll better call the news!
+call.ch1.dialog.gl	Good luck!
+call.ch1.dialog.reminder	Will you do something with this?
+call.ch1.dialog.reminder2	Hello!
+call.ch1.aar.story	A few prisoners escaped from the jail.
+call.ch1.aar.compl	The caller recalled 911, got through to another dispatcher who took the report and later filed a complaint on the operator's incompetence.
+call.alb3.title	Plane crash
+call.alb3.scene.witn	Caller
+call.alb3.scene.workk	Rubble
+call.alb3.scene.owner	Plane crash victim
+call.alb3.scene.dpl	Plane crash victim
+call.alb3.scene.injpl	Plane crash victim
+call.alb3.scene.colla	Injured witness
+call.alb3.dialog.1	911, what's your emergency?
+call.alb3.dialog.addressa0	Send people here! Now! At [[ADDRESS]]
+call.alb3.dialog.addressa1	Send people here! Now! At 217 Main Street!
+call.alb3.dialog.addressa2	Send people here! Now! At 1506 Sunshine Boulevard!
+call.alb3.dialog.addressa3	Send people here! Now! At 45 Long Drive!
+call.alb3.dialog.wh	Alright what happened?
+call.alb3.dialog.wha	A plane has crashed into a house!
+call.alb3.dialog.pl	{WHAT PLANE?} What type of plane? A large one or a small one?
+call.alb3.dialog.pla	A small one... two seater, I guess!
+call.alb3.dialog.fir	Is anything on fire?
+call.alb3.dialog.fira	There's some smoke coming out from the rooftop, but I can't see the flames.
+call.alb3.dialog.ins	{ANYONE INSIDE THE HOUSE?} Can you tell if there is anyone inside the house?
+call.alb3.dialog.insa	No, a woman ran outside. She said she was alone and she's not injured, but I can tell she's in deep shock.
+call.alb3.dialog.cas	{IS SOMEONE INJURED?} Is there anyone else there who's injured?
+call.alb3.dialog.casa	I think whoever was in the plane is dead, but I'm not sure... Can't see them!
+call.alb3.dialog.make	Can you make it through to see if there is any survivors?
+call.alb3.dialog.makea	You sure I should go in there?
+call.alb3.dialog.makeyes	Yes, go and try to help!
+call.alb3.dialog.makeyes2	Ok, I will try!
+call.alb3.dialog.makeno	Not if it is any danger to you in any way, ok?
+call.alb3.dialog.makeno2	Then I'll better stay! Send someone here quick!
+call.alb3.dialog.resc	Okay, the emergency services are on a way, they should be there soon.
+call.alb3.dialog.hurr	Hurry!
+call.alb3.dialog.reminder	Hello?
+call.alb3.dialog.reminder2	Hey!
+call.alb3.aar.crash	The caller was a plane crash witness. He informed the dispatcher about disaster.
+call.alb3.aar.plane	Accident resulted in dead victims.
+call.alb3.aar.collapse	The caller got injured while trying to make his way to the victims.
+call.gen14.title	Kitchen on fire
+call.gen14.scene.boom	Burned caller
+call.gen14.scene.elec	Electrocuted caller
+call.gen14.scene.caller	Caller
+call.gen14.scene.fiyah	Fire
+call.gen14.dialog.1	911, what's your emergency?
+call.gen14.dialog.name	What's your name?
+call.gen14.dialog.namea0	I'm [[NAME]]
+call.gen14.dialog.namea1	I'm Callie Douglas
+call.gen14.dialog.namea2	I'm Mary Smith
+call.gen14.dialog.namea3	I'm Karen Wetson
+call.gen14.dialog.2	Help! My kitchen is on fire.
+call.gen14.dialog.2b	Help! My kitchen is on fire.
+call.gen14.dialog.address	Where are you calling from?
+call.gen14.dialog.addressa0	[[ADDRESS]]
+call.gen14.dialog.addressa1	34 Oak Street
+call.gen14.dialog.addressa2	765 Jefferson Avenue
+call.gen14.dialog.addressa3	34 Maple Street
+call.gen14.dialog.wht	What's on fire?
+call.gen14.dialog.w1	Oil in the frying pan!
+call.gen14.dialog.w2	My toaster! And the fire's spreading!
+call.gen14.dialog.w3	The counter! I accidentally threw a cloth on the burner... And the fire spreads quickly!
+call.gen14.dialog.a3	{COVER WITH DAMP TOWEL} I want you to stay calm. Carefully cover the fire with a damp towel.
+call.gen14.dialog.a1	{USE WATER} Try to put out the fire with water.
+call.gen14.dialog.a2	{USE EXTINGUISHER} Ok, do you have an extinguisher?
+call.gen14.dialog.ex1	Yeah...
+call.gen14.dialog.ex1a	Ok, use it to put out the fire.
+call.gen14.dialog.oilbe	. . . . . . . . . . . . . . . . . . . . . . Oh my god! It blew up! The hood started to burn too! Help!
+call.gen14.dialog.ex2	No...
+call.gen14.dialog.countb	It didn't help! What should I do?!
+call.gen14.dialog.toastbw	Okay . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Aaaah!
+call.gen14.dialog.toastb	Okay . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Aaaah!
+call.gen14.dialog.toastbwa	Ma'am? Hello?
+call.gen14.dialog.toastbwaend	...
+call.gen14.dialog.oilbw	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Aaah! It blew up! My skin! I got burned! Everything's on fire!
+call.gen14.dialog.firamb	{SEND FIREFIGHTERS AND AMBULANCE} Get out of the kitchen, get out of the house ma'am and make sure everybody else is out with you. The ambulance will be there soon.
+call.gen14.dialog.firfi	{SEND FIREFIGHTERS} Ok, get yourself and anyone else that's in the house out of the house now. The fire department will be there soon.
+call.gen14.dialog.firfia	Ok
+call.gen14.dialog.firfia2	Help!
+call.gen14.dialog.oilg	Okay! . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . done. I guess everything's fine! Thank you!
+call.gen14.dialog.exg	Okay... Wait . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Phew. The fire's gone. Thank you!
+call.gen14.dialog.countg	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Phew... It's gone, I guess... I panicked... Thank you!
+call.gen14.dialog.np	No problem. Just doing my job.
+call.gen14.dialog.npa	Bye!
+call.gen14.dialog.reminder	Are you there?
+call.gen14.dialog.reminder2	Help me!
+call.gen14.aar.goodinstr	The operator gave the right instructions to the caller. Thanks to that, the situation was easily controlled and there was no need to dispatch the fire fighting team.
+call.gen14.aar.badinstr	The operator failed to give the right instructions to the caller, which made the situation worse.
+call.gen14.aar.electro	Due to the operator's wrong instructions, the caller got electrocuted and needed both firefighters' and paramedics' intervention.
+call.gen14.aar.unnec	The caller would've managed the situation by herself if the operator gave her the right instructions. The firefighters' intervention could've been avoided.
+call.gen14.aar.necc	Firefighters' intervention was needed.
+call.steve.title	Singer
+call.steve.scene.wonder	Stevie Wonder Wannabe
+call.steve.dialog.1	911, what's your emergency?
+call.steve.dialog.2	I just called to say I love you!
+call.steve.dialog.hello	Hello?
+call.steve.dialog.3	(singing)
+call.steve.dialog.isitme	Is it me you're looking for?
+call.steve.dialog.4	I just called to say how much I care...
+call.steve.dialog.where	cause I wonder where you are?
+call.steve.dialog.5	(singing)
+call.steve.dialog.what	and I wonder whaaat you doo?
+call.steve.dialog.6	(singing)
+call.steve.dialog.youall	You're all I've ever wanted...
+call.steve.dialog.7	(singing)
+call.steve.dialog.8	(singing)
+call.steve.dialog.loveyou	...I love you too! Bye!
+call.steve.dialog.hang	{HANGUP} [HANGUP]
+call.steve.dialog.excuse	Excuse me?
+call.steve.dialog.redial	[HANGUP AND REDIAL]
+call.steve.dialog.reminder	(singing)
+call.steve.dialog.reminder2	(singing)
+call.steve.aar.prank	It was a prank call. No interactions could be made with the caller.
+call.steve.aar.nodo	The caller was unwilling to change a song
+call.steve.aar.song	At the place a song was sung to the officers, however they were not very happy to go there.
+call.wa2.title	Letter with poison
+call.wa2.scene.jour	Caller
+call.wa2.scene.jourw	Journalist
+call.wa2.scene.boss	Office manager
+call.wa2.scene.jour2	Journalist
+call.wa2.scene.jour3	Journalist
+call.wa2.scene.ricin	Poisoned letter
+call.wa2.scene.decont	Decontamination
+call.wa2.dialog.1	911, what's your emergency?
+call.wa2.dialog.2	I'm calling from the Charlie Herald editorial office. We've received a death threat again.
+call.wa2.dialog.2_2	I'm calling from the Washington Scoffers editorial office. We've received a death threat again.
+call.wa2.dialog.name	What is your name?
+call.wa2.dialog.name1	I am Kate Barne.
+call.wa2.dialog.again	Again? So you had this happen before?
+call.wa2.dialog.why	{WHY WOULD YOU GET IT?} Ma'am, do you have any idea why someone would be sending threats to your organization?
+call.wa2.dialog.how	How did you receive the threat?
+call.wa2.dialog.again1	I don't remember exactly. Maybe two weeks ago? We're political journalists, we're used to it. According to our policy we report all threats to 911... but in my opinion it's usually unnecessary.
+call.wa2.dialog.why1	Probably someone doesn't like our writing style!
+call.wa2.dialog.why2	Excuse me?
+call.wa2.dialog.nojoke	{IT IS SERIOUS} Ma'am, should joke about these things. You could be in real danger.
+call.wa2.dialog.address	{ADDRESS} What's the address for your office?
+call.wa2.dialog.addressa0	[[ADDRESS]]
+call.wa2.dialog.addressa1	943 West Place
+call.wa2.dialog.addressa2	20 Fortigs Boulevard
+call.wa2.dialog.addressa3	223A Osmond Street
+call.wa2.dialog.why3	Honestly, I'm not surprised. You know... journalism is about printing what someone else does not want printed. Yesterday, we wrote about a suspicious suicide, two days ago about terrorists among illegal immigrants...
+call.wa2.dialog.letter	The letter came to our office. Who send paper letters these days?. Usually, we receive death threats by e-mail.
+call.wa2.dialog.read	Do you want me to read it?
+call.wa2.dialog.yes	{YES} Yes, please.
+call.wa2.dialog.no	{NO!} No! Do not touch the letter.
+call.wa2.dialog.no1	Oh my... I already did it... Do you think there could be a poison on it?
+call.wa2.dialog.decont	{DECONTAMINATION} I am sending emergency services to put the office in quarantine and decontaminate it. Just wait for them and everything will be fine.
+call.wa2.dialog.en	{LOOK FOR THE POISON} It's possible. I want you to check the envelope.
+call.wa2.dialog.en1	Em... wait a second . . . . . . . . . . . .
+call.wa2.dialog.got	Ok, I have it.
+call.wa2.dialog.open	Great. Now, slowly open the envelope and look into it. Is there any powder or another substance?
+call.wa2.dialog.open1	Okay. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+call.wa2.dialog.open2	Jesus... I see some white powder. And it smells odd. Oh shit! Please send the ambulance right away! I think I've just exposed myself to whatever's in this envelope.
+call.wa2.dialog.stop	{PUT IT AWAY!} Put it away immediately and don't spill it!
+call.wa2.dialog.stopp	Will I die? Please, help me...
+call.wa2.dialog.whoelse	{WHO ELSE DID TOUCH IT?} Was there anybody else in your office who touched the letter?
+call.wa2.dialog.bosss	Yes, I showed it to my editor-in-chief. He said he felt a little sick, so he lay down in his office. I think he's asleep. Should I wake him up?
+call.wa2.dialog.nwake	No, stay where you are and wait for the help.
+call.wa2.dialog.wake	Yes. Go to his office now, check him, see if he's conscious.
+call.wa2.dialog.check	Ok, I'm going.
+call.wa2.dialog.check1	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+call.wa2.dialog.check2	Greg, are you okay? Greg!
+call.wa2.dialog.greg	I can't wake him up. Please, tell me what to do...
+call.wa2.dialog.pulse	Check his pulse.
+call.wa2.dialog.breath	Is he breathing?
+call.wa2.dialog.feel	Yes, I can feel it!
+call.wa2.dialog.pulse1	Wait... yes, he is breathing.
+call.wa2.dialog.readb	It's rather short: 'Curiosity killed the cat, do you have nine lives, too? You better have, because today you will lose the first one'
+call.wa2.dialog.readb2	It's rather short: 'Curiosity is a fatal sin'
+call.wa2.dialog.police	{SEND THE POLICE} Okay, I'll have officers attend and look into it.
+call.wa2.dialog.nopolice	{DON'T SEND THE POLICE} It doesn't sound like something serious. If the threats happen again, please report them. For now, you should remain calm and be careful.
+call.wa2.dialog.same	Yep, I agree. I have to report it, because of our company's policy, but it's probably nothing. Thanks for your time, bye!
+call.wa2.dialog.policewait	I don't think that is necessary, but it's your call. I will wait for them with the letter.
+call.wa2.dialog.end	I'll wait. Please come as soon as it possible...
+call.wa2.dialog.reminder	Hello?
+call.wa2.dialog.reminder2	Are you there?
+call.wa2.aar.decontdone	Decontamination was performed, which saved a possible pathogen from spreading.
+call.wa2.aar.story	An editorial office has received a death threat letter. The letter contained a dangerous poison.
+call.wa2.aar.nosend	The operator should have sent the emergency services and put the office in quarantine.
+call.wa2.aar.badopen	The operator told the caller to check the letter, which confirmed presence of toxic powder, but also exposed the journalist for the effect of the poison.
+call.wa2.aar.quar	The office was put in quarantine. Police found ricin inside the envelope.
+call.wa2.aar.noquar	The operator should have put office in quarantine and decontaminate it.
+call.wa2.aar.policef	The police has examined the letter. It will serve as an evidence
+call.alb4.title	Car wash row
+call.alb4.scene.caller	Agnes Black (caller)
+call.alb4.scene.sman1	Arguing man
+call.alb4.scene.sman2	Arguing man
+call.alb4.dialog.1	911, what's your emergency?
+call.alb4.dialog.2	Hi, I'd like to report two arguing men, they're shouting and pulling each others’ clothes, I'm worried they will start fighting any moment.
+call.alb4.dialog.address	Ok, where are you calling from?
+call.alb4.dialog.addressa0	It's the car wash at [[ADDRESS]].
+call.alb4.dialog.addressa1	It's the car wash at 2608 Central Avenue.
+call.alb4.dialog.addressa2	It's the car wash at 5603 Menaul Boulevard.
+call.alb4.dialog.addressa3	It's the car wash at 2608 156 Indian School Road.
+call.alb4.dialog.know	Do you know either of these men?
+call.alb4.dialog.knowa	No, I have no idea who they are. Haven't seen them here before. They scared all my customers off!
+call.alb4.dialog.name	Ok, what is your name?
+call.alb4.dialog.namea0	[[NAME]] I'm the owner
+call.alb4.dialog.namea1	I'm Agnes Black, I'm the owner
+call.alb4.dialog.gun	Can you tell if they have any weapons?
+call.alb4.dialog.guna	I don't know... Hurry, it's getting violent.
+call.alb4.dialog.calm	Have you tried to calm them down?
+call.alb4.dialog.calma	Uh... Guys! Calm down or else the police will come! . . . . . . . . . Are you there, sir? I think they don't wanna meet any policemen. They're running to a car.
+call.alb4.dialog.car	Can you tell the make and model of the car?
+call.alb4.dialog.cara	A black SUV. They're driving away!
+call.alb4.dialog.solved	Well, in that case your problem is solved.
+call.alb4.dialog.susp	{HOW DO THEY LOOK?} Can you tell me what the man look like? Are they white, black, hispanic?
+call.alb4.dialog.suspa	Both are white and tall, wearing dark clothes.
+call.alb4.dialog.plates	Where you able to get the license plate number?
+call.alb4.dialog.platesa	Not really, I don't see well.
+call.alb4.dialog.brand	Do you know the make and model of the SUV they left in?
+call.alb4.dialog.branda	No, sorry.
+call.alb4.dialog.nope	In that case, I can't help.
+call.alb4.dialog.patr	I understand. I'll have officers keep a look out for them.
+call.alb4.dialog.bye	Okay, bye!
+call.alb4.dialog.uh	Umm okay, thanks I guess. Bye!
+call.alb4.dialog.reminder	Hello?
+call.alb4.dialog.reminder2	Sir?
+call.alb4.aar.story	A worried car wash owner reported a fight between two men.
+call.alb4.aar.ran	The suspects might have been known fugitives, but due to the operator's decision, they ran away.
+call.alb4.aar.caught	The suspects were caught by police and turned out to be known fugitives.
+call.ny1.title	Serious fall
+call.ny1.scene.caller	Barney Stinpson (caller)
+call.ny1.scene.chick	Attractive woman
+call.ny1.scene.teddy	Ted Mosbay
+call.ny1.scene.marsh	Marshall Eriks
+call.ny1.scene.robin	Robin Serbatsky
+call.ny1.scene.lily	Lily Aldron
+call.ny1.dialog.1	911, what is your emergency?
+call.ny1.dialog.2	Hello, I need an ambulance, paramedics woman's life is in danger.
+call.ny1.dialog.con	{HOW IS SHE IN DANGER?} Ok, how is she in danger? What is her medical condition?
+call.ny1.dialog.con1	I suspect there could be some internal bleeding. Maybe even fractures. Come quick and take her to the hospital!
+call.ny1.dialog.address	What's the address you're calling from?
+call.ny1.dialog.addressa0	[[ADDRESS]]
+call.ny1.dialog.addressa1	It's at Columbus Avenue 246
+call.ny1.dialog.addressa2	It's at Oak street 135
+call.ny1.dialog.addressa3	We're in MacLaren's Pub
+call.ny1.dialog.ext	{ANY INJURIES?} Do you see any injuries? How does she look?
+call.ny1.dialog.ext1	Oh, she looks gorgeous.
+call.ny1.dialog.after	{WHAT DO YOU MEAN?} What do you mean sir? She went through after serious accident, didn't she?
+call.ny1.dialog.always	What can I say... she always looks stunning.
+call.ny1.dialog.sure	Sir, does she really need medical help?
+call.ny1.dialog.heaven	Yes, she fell straight from heaven.
+call.ny1.dialog.heaven1	She fell straight from heaven.
+call.ny1.dialog.happen	Sir, tell me what exactly did happen to her?
+call.ny1.dialog.fell	Well, she did fell.
+call.ny1.dialog.high	What height did she fall from?
+call.ny1.dialog.high1	Well, I dunno but that was pretty high fall.
+call.ny1.dialog.fromw	Ok, how many feet of the ground was she when she fell?
+call.ny1.dialog.precise	{MORE DETAILS} Sir, could you be more precise please? It will help me determine the urgency of ambulance response.
+call.ny1.dialog.feet	Of course she needs the ambulance! She's fallen from like 20,000 feet! Dude! Seriously!
+call.ny1.dialog.not	No, I have not.
+call.ny1.dialog.serious	Are you serious?
+call.ny1.dialog.cons	{CONSEQUENCES OF FAKE CALLS} Do you know the consequences of such prank calls? If somebody needs help, he might not get it, because of you.
+call.ny1.dialog.niceone	{CONGRATULATE HIM ON THE IDEA} That's a nice one. I hope you'll get lucky tonight buddy.
+call.ny1.dialog.niceone1	Thanks a lot, bro.
+call.ny1.dialog.send	{SEND HELP} Okay. I've got an ambulance on the way.
+call.ny1.dialog.send1	Oh, really? O... ok, I'll wait then.
+call.ny1.dialog.jjoke	Hey dude, it was just a joke. You need to chillax a bit.
+call.ny1.dialog.jjoke1	{SEND THE POLICE} I'll send the police who are gonna explain to you why they don't tolerate this kind of jokes in our line of work.
+call.ny1.dialog.quit	{WARN} You're blocking the emergency line, sir. I hope this is the last time because if you do it again there is gonna be serious consequences.
+call.ny1.dialog.sorry	Okay, okay. I'm sorry. Bye.
+call.ny1.dialog.again	Don’t you worry my friend, I never use the same pick-up line twice, so you will never hear from me again. Bye.
+call.ny1.dialog.reminder	Hey, this stunning voluptuous young lady needs you!
+call.ny1.dialog.reminder2	Hello?
+call.ny1.aar.noneed	The medical intervention was unnecessary. The caller tried to use medical services to impress the woman by pick-up line about falling from heaven.
+call.ny1.aar.legend	Although the pick-up line was legendary, the operator should warn the caller about fake call's consequences, instead of congratulating him the idea.
+call.ny1.aar.good	The operator discovered that caller was trying to impress the girl by calling 911. The operator warn him about consequences of fake calls.
+call.bribe.title	Factory incident
+call.bribe.scene.susemp	Factory owner (caller)
+call.bribe.scene.crimemp	Factory owner (caller)
+call.bribe.scene.worker	Injured worker
+call.bribe.dialog.1	911, what's your emergency?
+call.bribe.dialog.2	There was an incident in my factory. One of my employees got stabbed by sharp tool.
+call.bribe.dialog.3	Are you in danger? Do you need police assistance?
+call.bribe.dialog.4	Police!? No, no police! We just need an ambulance.
+call.bribe.dialog.address	What's the address you're calling from?
+call.bribe.dialog.addressa0	[[ADDRESS]]
+call.bribe.dialog.addressa1	1st street 135
+call.bribe.dialog.addressa2	2nd avenue 246
+call.bribe.dialog.addressa3	Pine street 389
+call.bribe.dialog.9	What exactly happened to your employee?
+call.bribe.dialog.10	He fell off a ladder and stabbed himself with knife while falling.
+call.bribe.dialog.polmed	{SEND AN AMBULANCE AND POLICE} I understand. I'll send an ambulance and police to your location.
+call.bribe.dialog.med	{SEND AN AMBULANCE} I understood. I will send an ambulance there.
+call.bribe.dialog.12	Could you... not send the police??
+call.bribe.dialog.13	I am sorry, what?!
+call.bribe.dialog.14	I would be grateful if you didn't inform the police about it. I would be very, VERY grateful indeed.
+call.bribe.dialog.15	What do you mean by very grateful?
+call.bribe.dialog.16	I mean $5 000 grateful...
+call.bribe.dialog.17	Are you offering me money for silence?
+call.bribe.dialog.18	Yes.
+call.bribe.dialog.bribeno	{NO WAY} Sir, I would like to inform bribery is a very serious crime.
+call.bribe.dialog.bribemore	{I WANT MORE} Five thousand? It's not enough... I want ten thousand.
+call.bribe.dialog.bribeok	{OK, NO POLICE} Ok, I won't send the police if you say that it's not necessary.
+call.bribe.dialog.20	Listen, I have a family... wife... three children... and a factory that I really need to run.
+call.bribe.dialog.26	. . . . . . . . . Okay, let's make it $7 000.
+call.bribe.dialog.27	Ok, you can collect the money in my office.
+call.bribe.dialog.28	Please wait for the ambulance, sir.
+call.bribe.dialog.28ok	Ok
+call.bribe.dialog.why	Why are you asking me to do this?
+call.bribe.dialog.31	All those health and safety regulations are expensive. We skipped some of them and the fine would ruin us.
+call.bribe.dialog.32	Some of them??
+call.bribe.dialog.33	Whatever, just don't send the police okay?
+call.bribe.dialog.40	Ok, just wait for the ambulance.
+call.bribe.dialog.stop	{I HEARD ENOUGH} Enough! Sir, police is going to attend the ambulance. You'll have to explain the situation.
+call.bribe.dialog.iwait	Ok.
+call.bribe.dialog.end	....
+call.bribe.dialog.reminder	So?
+call.bribe.dialog.reminder2	Are you there?
+call.bribe.aar.bribeprop	A bribe was proposed to the operator and was immediately rejected.
+call.bribe.aar.inc	There was an accident at a production site.
+call.288.title	Car in a crack
+call.288.scene.caller	Caller
+call.288.scene.injuried1	Trapped woman
+call.288.scene.car	Car in a crack
+call.288.dialog.1	911, what's your emergency?
+call.288.dialog.2	Whoa, dude, we have a situation here!
+call.288.dialog.3	Ok, what happened?
+call.288.dialog.fell	Eeeeerrm….you know, a car fell into the ground!
+call.288.dialog.address	{ADDRESS?} Sir, what's your location?
+call.288.dialog.addressa0	[[ADDRESS]]
+call.288.dialog.addressa1	It's at Columbus Avenue 246
+call.288.dialog.addressa2	It's at Oak street 135
+call.288.dialog.addressa3	It's at 7th street 89
+call.288.dialog.mean	Tell me what happened sir?
+call.288.dialog.meana	After the quake, the road just cracked and kinda split up. And the car just... it just fell there.
+call.288.dialog.7	So the car is in one of the cracks in the road way?
+call.288.dialog.8	It partially, like, slid into the hole.
+call.288.dialog.parked	{IS CAR RUNNING?} Is the car still running?
+call.288.dialog.10	No, no... I mean, it was running but lady driving it stopped and turned it off when shaking started. I guess she was just panicked.
+call.288.dialog.deep	{HOW DEEP IS THE HOLE?} How deep is the hole the car is in?
+call.288.dialog.deepa	Let me have a look... Well, I don't know, six to eight feet, maybe more.
+call.288.dialog.inside	Is there anyone still in the car?
+call.288.dialog.insidea	Ummm, Yes, a-a woman.
+call.288.dialog.closer	{GET DOWN AND HELP} Sir, if it's safe could you check the vehicle and see if the woman has any injuries.
+call.288.dialog.16	OK, sure thing... [in distance] Hey hold this . . . . . . . . . pass me my phone! Thanks.
+call.288.dialog.17	{CHECK IF DRIVER IS INJURED} Ok, I want you to check the driver and see if she has any injuries.
+call.288.dialog.20	... Ohh man! She's not moving, I can see blood on the airbag . . . . . . . . . The door is blocked, boulder is blocking it dude! Damn rubble is everywhere!
+call.288.dialog.smash	{SMASH THE WINDOW} Sir here is what I want you to do. I want you have to find something heavy and smash the window to help her.
+call.288.dialog.smashn	No way! I will get hurt. Send us some help now!
+call.288.dialog.smashy	Ok, let's do this!!
+call.288.dialog.checkdoor	{OPEN OTHER DOOR} Try to open any of the other car doors, maybe one on the other side, and help her.
+call.288.dialog.checkdoor2	There is so much stuff lying around her, the damn rubble is everywhere.
+call.288.dialog.checkdoor3	Sir, please you have to help her.
+call.288.dialog.checkdoor4	Ok . . . . . . . . . Damn it!!! The car just moved! Crap I am trapped now!! Help me!
+call.288.dialog.checkdoor5	{HELP IS ON THE WAY} The emergency services are on a way, there will be there any minute. Keep calm.
+call.288.dialog.help	{SEND HELP} I am sending the emergency services, please wait for them.
+call.288.dialog.end	Better be quick, the tremors might start again!
+call.288.dialog.askhelp	{ASK OTHERS FOR HELP} Sir, is there anyone around you? Ask someone for help with the boulder blocking the door. Then take out the trapped woman.
+call.288.dialog.askhelp2	I will . . . . Hey, Tony! Find someone and get down here. I need help! . . . . . . . . . I will need both hands to move this stuff.
+call.288.dialog.askhelp3	Get her out of the car and out the hole on to level ground and check her pulse. If she has no pulse please call 911 again.
+call.288.dialog.askhelp4	Ok, ok, I‘ll do it.
+call.288.dialog.reminder	Are you there?
+call.288.dialog.reminder2	Hello?
+call.288.aar.carinachasm	During earthquake car fell into chasm. Driver was inside a vehicle and unconscious.
+call.288.aar.nosmash	Witness refused to break a car window to provide help. Emergency services were deployed.
+call.288.aar.smash	Witness smashed the car window and provided help to injured woman.
+call.288.aar.trapped	Operator asked witness to provide help in hazardous environment. This resulted in witness being trapped. Emergency services were deployed rapidly.
+call.288.aar.help	Operator provided remote instructions and together with witness and other bystanders they rescued injured woman.
+call.gen18.title	Loud neighbors
+call.gen18.scene.caller	Caller
+call.gen18.scene.host	Party host
+call.gen18.scene.party1	Student
+call.gen18.scene.party2	Student
+call.gen18.scene.party3	Student
+call.gen18.scene.fighterA	Aggressive man
+call.gen18.scene.fighterB	Aggressive man
+call.gen18.scene.fighterW	Aggressive man with a gun
+call.gen18.scene.burglar	Burglar
+call.gen18.scene.drugd	Drug dealer
+call.gen18.scene.shot	Victim with gunshot wound
+call.gen18.scene.drunken	Drunk man
+call.gen18.scene.child1	Scared child
+call.gen18.scene.child2	Scared child
+call.gen18.scene.olddead	Dead old man
+call.gen18.scene.oldalive	Old man
+call.gen18.scene.father	Father
+call.gen18.scene.mother	Mother
+call.gen18.scene.child3	Scared child
+call.gen18.scene.child4	Scared child
+call.gen18.dialog.1	911, what's your emergency?
+call.gen18.dialog.2	Hello, I hear a lot of noise coming from the apartment next door. It's keeping my kids up... they can't get to sleep. Can you do something about it?
+call.gen18.dialog.3	I want to complain about my neighbors. They're being noisy.
+call.gen18.dialog.4	Hello, I hear loud noises from the neighboring flat. Can you send somebody to check it?
+call.gen18.dialog.address	{ADDRESS?} What's the address you're calling from?
+call.gen18.dialog.addressa0	My house is at [[ADDRESS]], I'm in unit 6.
+call.gen18.dialog.addressa1	My house is at [[ADDRESS]]
+call.gen18.dialog.addressa2	[[ADDRESS]]
+call.gen18.dialog.addressa3	39A Porcupine Plaza
+call.gen18.dialog.name	What's your name?
+call.gen18.dialog.name1	I'm Marianne Fates.
+call.gen18.dialog.name2	I'm Chloe Smith
+call.gen18.dialog.name3	I'm Jessy Taylor
+call.gen18.dialog.what	{WHAT'S GOING ON?} Do you know what is happening at your neighbor's place?
+call.gen18.dialog.party	Some kind of a party, I guess. I hear a lot of voices and loud music.
+call.gen18.dialog.danger	{ARE YOU IN DANGER?} Do you feel threatened in any way?
+call.gen18.dialog.nodanger	No, but my kids can't sleep because of the loud music. I can clearly hear every single word of the songs they're playing.
+call.gen18.dialog.yesdanger	Honestly? Yes, I don't feel safe.
+call.gen18.dialog.noneed	No, but the noise is driving me crazy. I mean, it wouldn't be so bad if they listened to decent music...
+call.gen18.dialog.aresure	{IS THE MUSIC REALLY TOO LOUD?} Are you sure they are breaking noise bylaws? Is this music really too loud or ...or you just not like it?
+call.gen18.dialog.too	Yes, it's far too loud!
+call.gen18.dialog.dubstep	That music violates the law! It's dubstep!
+call.gen18.dialog.nosendp	{NON EMERGENCY} Ma'am, I'm afraid that this isn't 911 call. 911 is for emergencies only.
+call.gen18.dialog.fightn	{NON EMERGENCY} Ma'am, I'm afraid that this isn't 911 call. 911 is for emergencies only.
+call.gen18.dialog.nosendf	{NON EMERGENCY} Ma'am, I'm afraid that this isn't 911 call. 911 is for emergencies only.
+call.gen18.dialog.nosend1	Really? I don't know what I pay my taxes for if you can't send even one police officer! Ehh... Bye.
+call.gen18.dialog.why	{WHY?} Could you tell me why you are not feeling safely?
+call.gen18.dialog.fight	I've heard some aggressive voices, maybe an argument. I think they might start fighting at any moment.
+call.gen18.dialog.drugs	While I was going to my apartment, I saw a guy leaving my neighbor's place. He was acting weird. Very weird. Like, maybe, he was on drugs.
+call.gen18.dialog.noweird	{DON'T SEND A POLICE} Madam, strange behavior doesn't necessarily mean somebody's taking drugs. It's not a case for 911. If you think they're dealing or using drugs call your local police department. They will put you in touch with their drug squad. You can give them the information, they will check it out.
+call.gen18.dialog.sendn	{I'LL SEND POLICE} I will send a couple of officers over to calm your neighbors down.
+call.gen18.dialog.sendp	{I'LL SEND POLICE} I will send a couple of officers over to calm your neighbors down.
+call.gen18.dialog.sendfight	{I'LL SEND POLICE} I will send a couple of officers over to check things out and see what's going on.
+call.gen18.dialog.serious	{WHAT ARGUMENT?} Are we talking about a really serious argument where there could be fight? Because we can't send police to every little argument.
+call.gen18.dialog.weapon	{DO THEY HAVE WEAPONS?} Do you think they might have any weapons? Did you hear something that might indicate that they might be armed?
+call.gen18.dialog.soserious	Yes! I told you... Wait! I just heard a sound of gunshot. Somebody is screaming! Please send the ambulance quickly!
+call.gen18.dialog.idkserious	How should I know that? They're having a fight, so I called 911 so the police can deal with it.
+call.gen18.dialog.noidea	I have no idea.
+call.gen18.dialog.gun	Yes, somebody's shouting threats about pulling out a gun.
+call.gen18.dialog.check	{GO AND CHECK!} Can you go there and check if somebody is hurt?
+call.gen18.dialog.check1	Are you out of your mind? You're the cops, that's your job.
+call.gen18.dialog.check2	{SEND POLICE} I understand madam. You don't have to go there if you are afraid. I'm sending police unit right now.
+call.gen18.dialog.senda	{SEND HELP} I'm sending the emergency services. Stay at your apartment and stay calm.
+call.gen18.dialog.senddrug	{SEND HELP} I have emergency services on a way. Stay at your apartment and stay calm.
+call.gen18.dialog.okthx	Thank you. I'll be waiting at my place. Bye.
+call.gen18.dialog.talking	{ASK THEM TO CALM} Did you try asking them if they could turn down the music?
+call.gen18.dialog.yestalk	Yes, I tried, but nobody answered the door.
+call.gen18.dialog.notalk	No, I don't want to leave my kids alone.
+call.gen18.dialog.notalkdanger	Um... Are you sure it's safe? They don't sound like reasonable people. To be honest, I'm a bit scared of them.
+call.gen18.dialog.noises	The TV is very loud.
+call.gen18.dialog.anyelse	Do you hear anything else?
+call.gen18.dialog.furnit	Hmm... from time to time I hear strange noises. Like someone is moving furniture. But I don't know why they'd rearrange their room in the middle of the night.
+call.gen18.dialog.cry	It may just be the TV, but I think I can hear a child crying.
+call.gen18.dialog.tvonly	I can't hear anything other than the TV. It's really, really loud.
+call.gen18.dialog.who	Do you know who lives there?
+call.gen18.dialog.idk	Some old man. He looks like he's 60 or 70 years old. I don't know him very well, we don't really talk to each other.
+call.gen18.dialog.students	Students. There are four of them, one couple and two guys.
+call.gen18.dialog.family	A family with two children.
+call.gen18.dialog.often	{HOW OFTEN DOES IT HAPPEN?} Are they loud like this all the time or is this an exception?
+call.gen18.dialog.oftenn	No, they have little children, so normally they're really quiet during the night.
+call.gen18.dialog.ofteny	Yes.... I hear the parents fight all the time. I don't want to be cruel, but I would call that family pathological. They drink a lot, and it doesn't look like they take care of their children. Maybe you should send somebody to check on their kids.
+call.gen18.dialog.alone	Does he live alone?
+call.gen18.dialog.alone1	I think so.
+call.gen18.dialog.normal	Is he often loud like this?
+call.gen18.dialog.normaly	Yes, he turns his TV up loud, probably because he's hard of hearing. I get used to it when it happens during the day, but I won't tolerate that at night. My children need to sleep.
+call.gen18.dialog.normaln	No, he's rather quiet, especially at night.
+call.gen18.dialog.visit	{ANY VISITORS?} Do you know if anybody visits his apartment?
+call.gen18.dialog.visit1	I've never seen anyone who comes to visit him. Do you think something has happened to him?
+call.gen18.dialog.visit2	I've never seen anyone who comes to visit him. Do you think something has happened to him?
+call.gen18.dialog.sendcheck	{I'LL SEND POLICE} I will send the police officer to check on him.
+call.gen18.dialog.sendcheckpath	{I'LL SEND POLICE} I will send the police officer to check on him.
+call.gen18.dialog.nosendcheck	{NO} That seems to ordinary situation, ma'am. He probably fell asleep in front of TV. Wait until the morning and if he's TV would be still running, please contact the nearest police department.
+call.gen18.dialog.nosendfam	{NOT URGENT} I don't think what you've got here is urgent enough for 911. Just call your local police department talk to them they will help you out.
+call.gen18.dialog.susp	{ANYBODY SUSPICIOUS?} Have you seen anybody suspicious in your neighborhood lately?
+call.gen18.dialog.susp1	Well... maybe. Few hours ago, my intercom was ringing, but when I answered nobody said anything.
+call.gen18.dialog.home	Are you sure that your neighbors are home?
+call.gen18.dialog.weekends	Oh my God, do you think somebody else might be there?! They sometimes leave the city during weekends, as far as I know.
+call.gen18.dialog.stay	Oh my God, do you think somebody else might be there?! They don't get out a lot, because of their little children.
+call.gen18.dialog.reminder	Can you do something about that noise?
+call.gen18.dialog.reminder2	Are you there?
+call.gen18.aar.story	Caller's neighbors were behaving very loudly.
+call.gen18.aar.partycalm	The party was not very loud and there was no ground for police intervention.
+call.gen18.aar.partycalmneg	The music was not very loud and there was no ground for police intervention. The police was sent unnecessarily.
+call.gen18.aar.partyhardch	Police officers calmed down the party.
+call.gen18.aar.partyhardn	The operator should send police officer to calm down the party.
+call.gen18.aar.drugsn	The caller suspects that drugs could be found in neighboring apartment. The police should have check that place.
+call.gen18.aar.drugsch	The police found the drug dealer in neighboring apartment.
+call.gen18.aar.gunch	The argument ends with shooting in the neighboring flat. The shooter was arrested and the victim with gunshot wound was taken to hospital.
+call.gen18.aar.fightch	When police arrived two men were fighting in the neighboring flat.
+call.gen18.aar.shouldsend	The operator should have send the police to investigate the case.
+call.gen18.aar.familyout	During absence of flat's owners, the burglars have entered the place. They have been caught in the act by the police.
+call.gen18.aar.familyinv	Neighboring flat was invaded by two burglars. The householder was heavily beaten and the rest of his family was imprisoned in one of the rooms.
+call.gen18.aar.path	The police officers, who came to the scene, found unconscious drunken man with two scared, neglected children.
+call.gen18.aar.deadold	The police found dead old man. His TV was still running, but he probably had died several hours before police's arrival.
+call.gen18.aar.aliveold	The old man was surprised by police's arrival. He didn't hear how loudly his TV was playing, because of dead battery in his hearing aid.
+call.ks300.title	Drone attack
+call.ks300.scene.caller	Nellie Watson (caller)
+call.ks300.scene.dronepilot	Drone pilot
+call.ks300.scene.drone1	Drone
+call.ks300.dialog.1	911, what's your emergency?
+call.ks300.dialog.2	Uh, hi, umm ... I need to report something a little strange.
+call.ks300.dialog.name	Ok, what's your name?
+call.ks300.dialog.namea	I'm Nellie Watson.
+call.ks300.dialog.3	So Nelly, why did you call 911?
+call.ks300.dialog.4	There's this… drone that's buzzing around the neighborhood.
+call.ks300.dialog.5	{IT ISN'T STRANGE} Well, that's not uncommon. They are pretty much everywhere nowadays.
+call.ks300.dialog.5b	Maybe but it shouldn't attack people!
+call.ks300.dialog.6	Attack people?! Is this an emergency situation?
+call.ks300.dialog.7	Well, I don't know if it's an emergency, but it's… swooping on things! Like next door's cat!
+call.ks300.dialog.8	{IS IT AGGRESSIVE?} Swooping'. I see. So someone is flying this drone aggressively then?
+call.ks300.dialog.9	Yeah, I guess so. I dunno who though? Maybe that damned Henderson kid… AAAH!
+call.ks300.dialog.10	Hello? Ma'am what happened?
+call.ks300.dialog.12	It snuck up from behind me. It's right above my head now. This is spooky, this is wrong. I don't like this.
+call.ks300.dialog.13	Sounds like someone is playing a prank.
+call.ks300.dialog.14	Well I don't find it funny. This thing has blades. It can hurt. What about the children? Think of the children!
+call.ks300.dialog.15	{SEND POLICE} Alright I'm sending the police there will be there shortly.
+call.ks300.dialog.address	What's your address?
+call.ks300.dialog.addressa0	I'm in [[ADDRESS]].
+call.ks300.dialog.addressa1	I' am at 35 Pine Street
+call.ks300.dialog.addressa2	I' am at 255 Oak Street
+call.ks300.dialog.addressa3	I' am at 54 1st Street
+call.ks300.dialog.18	Ok, thank you, be quick please.
+call.ks300.dialog.reminder	So? Can you help me get rid of this thing? Please?
+call.ks300.dialog.reminder2	Are you there? It's still flying around.
+call.ks300.dialog.19	{DID DRONE ATTACK YOU?} Ma'am did the drone attack you or anyone around you?
+call.ks300.dialog.19a	No bu.. EEEP! It's chasing me! NO! Go AWAY!
+call.ks300.dialog.20	Please try to stay calm.
+call.ks300.dialog.21	Wwaah arrgh I don't like this.
+call.ks300.dialog.22	{HIDE} Ma'am can you inside somewhere take shelter from the somewhere?
+call.ks300.dialog.23	Ok – a shed, I'll hide in there.
+call.ks300.dialog.24	{DON'T SEND HELP} Ma'am your matter is not life threatening and doesn't require emergency assistance. Please deal with the drone yourself.
+call.ks300.dialog.25	I do need help! But you don't want to help me! Goodbye!
+call.ks300.aar.drone	Caller reported dangerous drone flying in proximity.
+call.ks300.aar.dronedanger	Machine endangered locals, the police unit was dispatched to take care of the situation.
+call.ks300.aar.droneprank	Operator ignored the drone situation. No unit was dispatched.
+call.ks300.aar.hide	The operator provided caller with instructions to hide from dangerous situation. Police unit was dispatched.
+call.ch4.title	Bat in a room
+call.ch4.scene.caller	Caller
+call.ch4.scene.bat	Bat
+call.ch4.dialog.1	911, what's your emergency?
+call.ch4.dialog.2	HELP! AAAAAA! . . . . There's a bat in my apartment!!!
+call.ch4.dialog.name	What is your name?
+call.ch4.dialog.namea0	[[NAME]]
+call.ch4.dialog.namea1	Selina Kyle!
+call.ch4.dialog.namea2	Talia al Ghul!
+call.ch4.dialog.namea3	Julie Madison!
+call.ch4.dialog.address	What's your address?
+call.ch4.dialog.addressa0	[[ADDRESS]]!!!
+call.ch4.dialog.addressa1	345 Oxygen Road, apartment 52!
+call.ch4.dialog.addressa2	124 2nd Alley!
+call.ch4.dialog.addressa3	504 Basic Square!
+call.ch4.dialog.batman	So what do you want me to do... send... batman?
+call.ch4.dialog.batmana	I don't care who you send, just send someone please!!!
+call.ch4.dialog.calm	{HIDE YOURSELF} The bat isn't gonna hurt you. It's more afraid of you than you are of it. Just close the door and stay calm.
+call.ch4.dialog.calma	I did, I'm in the toilet, but I can hear it flying around the whole apartment! I'm locked here, please help me!
+call.ch4.dialog.sendh	Ok, I will send you some help, just stay there please.
+call.ch4.dialog.deal	{OPEN A WINDOW} Ma'am, you can help yourself, just open the window wide and turn off the lights, before you know it the bat will be gone.
+call.ch4.dialog.deala	No way I'm going out of here!
+call.ch4.dialog.haveto	{YOU HAVE TO} You have to, I am not gonna send an officer over there, your life is not in danger. It's not even an emergency, it's a bat in your house.
+call.ch4.dialog.havetoa	But oh... please! . . . . . . . . . [crying]
+call.ch4.dialog.candoit	You can do it ma'am. Just be careful, ok?
+call.ch4.dialog.hangup	{HANGUP} ....
+call.ch4.dialog.candoita	No I can't.... I really can't....
+call.ch4.dialog.end	Hurry!
+call.ch4.dialog.reminder	Hello?
+call.ch4.dialog.reminder2	Are you there?
+call.ch4.aar.story	The woman was extremely scared by a bat that flew into her apartment
+call.ch4.aar.dealit	The operator tried to convince the woman to handle situation by herself.
+call.ch4.aar.ignored	The operator decided to end the conversation.
+call.gen16.title	Stolen car
+call.gen16.scene.caller	Car owner (caller)
+call.gen16.scene.thief1	Thief
+call.gen16.scene.thief2	Thief
+call.gen16.scene.thief3	Thief
+call.gen16.dialog.1	911, what's your emergency?
+call.gen16.dialog.2	My car was stolen!
+call.gen16.dialog.2b	They stole my car!
+call.gen16.dialog.2c	Hey! My car is gone!
+call.gen16.dialog.address	{ADDRESS} What's the address of where this happened, sir?
+call.gen16.dialog.addressa0	It happened at [[ADDRESS]]
+call.gen16.dialog.addressa1	345 Oxygen Road
+call.gen16.dialog.addressa2	124 2nd Alley
+call.gen16.dialog.addressa3	504 Basic Square
+call.gen16.dialog.name	What's your name, sir?
+call.gen16.dialog.name1	My name is John Belloic.
+call.gen16.dialog.name2	I'm Richard Swenty.
+call.gen16.dialog.name3	My name's Robert Fortier.
+call.gen16.dialog.when	{WHEN?} When was your car stolen?
+call.gen16.dialog.now	Just now! I've saw the thieves driving away in my car! Send somebody to catch them!
+call.gen16.dialog.idk	I just saw that my car is gone, but I've no idea when it happened.
+call.gen16.dialog.hour	I don't know. I've left my car about hour ago.
+call.gen16.dialog.toolate	{NOT AN EMERGENCY} Sir, it isn't emergency case, please report the theft to the nearest police station.
+call.gen16.dialog.ok	Of course... Thank you for the help and sorry for blocking the line. Goodbye.
+call.gen16.dialog.ok2	Awww, come on.....
+call.gen16.dialog.asshole	This is the number to the police, isn't it? Just send somebody, ok? I haven't got time to go looking for cops.
+call.gen16.dialog.warn	{DON'T BLOCK THE LINE} Sir, please do not block the line. Your case is not urgent enough to call 911.
+call.gen16.dialog.complain	Oh, really? Somebody stole my car and this is nothing for you? You're responsible for sending police here! I'll file a complaint. Maybe that will be urgent enough for you!
+call.gen16.dialog.notafraid	{TRY TO EXPLAIN} Excuse me, sir, but we've limited number of police vehicles available. Because of that, I can only send units to cases, which requires immediate response. Yours is not one of them.
+call.gen16.dialog.notafraid1	Eh.... what a bullshit. I want to talk with your supervisor right now.
+call.gen16.dialog.angryop	{END CONVERSATION} Let me decide, what I'm responsible for, okay? You're wasting time of 911 operator and tying up emergency lines. Goodbye.
+call.gen16.dialog.sendass	Ok, I will send police patrol.
+call.gen16.dialog.send	{POLICE WILL COME} Ok, I will send an officer when I have one available.
+call.gen16.dialog.thanks	Thank you. I'll wait for them.
+call.gen16.dialog.where	{WHERE?} Where did it happen?
+call.gen16.dialog.shop	In front of the shopping mall.
+call.gen16.dialog.gta	In the middle of a street! While I was waiting at the red light, he just dragged me out of my car and drove away!
+call.gen16.dialog.parking	The car was in the parking lot of my apartment building.
+call.gen16.dialog.else	Maybe you left your car somewhere else?
+call.gen16.dialog.noelse	No, I always park here.
+call.gen16.dialog.notsure	No, rather not.
+call.gen16.dialog.yesforgot	Hmmm... I don't think so... No, wait! How could I forget that?! It is a wrong row. Sorry!
+call.gen16.dialog.yesforgot1	No problem, sir. Everyone makes mistakes. But next time before calling 911, please check twice if it's really necessary.
+call.gen16.dialog.sure	{ARE YOU SURE?} Sir, are you completely sure that your car is not at another parking space?
+call.gen16.dialog.noidiot	Please, don't treat me like an idiot. I just said I'm sure.
+call.gen16.dialog.yesyes	Yes, yes, I'm 100% sure.
+call.gen16.dialog.sorrytl	{NOT AN EMERGENCY} I'm sorry to hear that your car was stolen, but I can't do anything about that. This is not emergency an case and you should contact your local police station. They will help you out.
+call.gen16.dialog.legal	{ILLEGAL PARKING} Sir, are you sure you didn't park your car in no parking zone, a driveway or a bus stop?
+call.gen16.dialog.yeslegal	I'm sure I didn't. It was a normal parking place.
+call.gen16.dialog.nolegal	Emm . . . . . . . . . I was . . . . . . . . . Damn it . . . . . . . . . There is a 'No Parking' sign... I just realized that. Sorry. How can I get my car back?
+call.gen16.dialog.nolegal1	Your car was towed to the police impound yard. Just contact the police on their non emergency number, they will help you out.
+call.gen16.dialog.end	Thank you. Goodbye.
+call.gen16.dialog.sendchase	{SEND POLICE} We're notifying the officers in the area now. They will see if they can find your car.
+call.gen16.dialog.many	{HOW MANY?} So how many suspects did you see?
+call.gen16.dialog.two	There were two of them.
+call.gen16.dialog.three	Three... I guess.
+call.gen16.dialog.whathapp	It's hard to say, it all happened really fast. I didn't even know what was going on.
+call.gen16.dialog.aboutc	{PLATES?} I am gonna need you license plate, can you give that to me please?
+call.gen16.dialog.plates0	It's [[PLATES]].
+call.gen16.dialog.plates1	It's [[PLATES]].
+call.gen16.dialog.plates2	It's [[PLATES]].
+call.gen16.dialog.plates3	It's [[PLATES]].
+call.gen16.dialog.color	{COLOR?} What is the color of your car?
+call.gen16.dialog.color1	Red.
+call.gen16.dialog.color2	Blue.
+call.gen16.dialog.color3	Purple.
+call.gen16.dialog.type	{CAR TYPE?} What is the type of your car?
+call.gen16.dialog.type1	It was a van.
+call.gen16.dialog.type2	Just a 4 door family sedan.
+call.gen16.dialog.type3	Muscle car. Expensive one!
+call.gen16.dialog.reminder	Do you know where my car is?
+call.gen16.dialog.reminder2	Hey, are you still talking with me?
+call.gen16.dialog.reminder3	Hello?
+call.gen16.aar.story	Caller's car has gone missing.
+call.gen16.aar.noturgent	The operator decided that the case is not urgent enough to send emergency unit.
+call.gen16.aar.complain	The caller disagreed with operator's decision and filed a claim.
+call.gen16.aar.calm	Despite aggressive caller, the operator remained calm and thanks to that supervisor finds the complaint unfounded.
+call.gen16.aar.provoked	The operator was provoked by the caller and ended the call.
+call.gen16.aar.pressure	Under the caller's pressure, the operator agreed to send the police for non-emergency situation.
+call.gen16.aar.policesend	The operator decided to send the police to the place, where the car was stolen.
+call.gen16.aar.ignore	During the conversation the operator discovered that the car was not stolen and help is unnecessary.
+call.gen16.aar.chase	The operator send the police unit to chase thieves.
+call.ks301.title	Bear in a bush
+call.ks301.scene.caller	Caller
+call.ks301.scene.aftera	Injured man
+call.ks301.scene.bear	Bear
+call.ks301.dialog.1	911, what's your emergency?
+call.ks301.dialog.2	Hi. I know it sounds silly, but I think there might be a bear in my backyard.
+call.ks301.dialog.name	What is your name, sir?
+call.ks301.dialog.namea	Amos Hayes
+call.ks301.dialog.nameb	Frank Woolen
+call.ks301.dialog.namec	Anthony Roswell
+call.ks301.dialog.serious	{ARE YOU SERIOUS?} Sir, are you sure you have an emergency? Joking 911 line is strictly prohibited.
+call.ks301.dialog.4	I'm not joking! I hear the bear right now!
+call.ks301.dialog.5	Do you see the bear?
+call.ks301.dialog.6	No. I haven't seen it. It is just making a really loud and scary growling noise.
+call.ks301.dialog.address	Could I have your address please?
+call.ks301.dialog.addressa0	It is [[ADDRESS]]
+call.ks301.dialog.addressa1	It is 56 Oak Street
+call.ks301.dialog.addressa2	It is 81 Washington Street
+call.ks301.dialog.addressa3	It is 21 Main Avenue
+call.ks301.dialog.10	{ARE YOU SURE?} Sir, you perfectly sure the bear is there, even though you have not actually seen it. Am I right?
+call.ks301.dialog.11	Well... I wouldn't say that I'm perfectly sure, but... it's-it's dark and there is a big bush in our yard and it is sha-shaking and there is a crazy growling sound coming out of it and I…
+call.ks301.dialog.12	Anything else?
+call.ks301.dialog.13	Well… I'm hearing he-heavy breathing. And the leaves are rustling.
+call.ks301.dialog.14	Could you describe the sound to me?
+call.ks301.dialog.15	Hmm... it sounds like AARRRRGHGHGHLGLGLGLGGL…
+call.ks301.dialog.16	… Thank you sir.
+call.ks301.dialog.send	{SEND HELP} I will send a firefighters unit as one is available. They will take care of it.
+call.ks301.dialog.send1	Thank you so much! I'm waiting.
+call.ks301.dialog.dontsend	{DON'T SEND HELP} Sir, if it was a bear, you would recognize it easily. It's probably just a common harmless animal like stray cat or raccoon.
+call.ks301.dialog.19	But.. But.. What if it's not?!
+call.ks301.dialog.food	{DID YOU LEFT ANY FOOD THERE?} Sir, did you have any food left in your backyard? Even in trash bin?
+call.ks301.dialog.food1	Yes. yesterday, I made barbecue for a few friends. There was too much leftovers, so I put them the trash bin.
+call.ks301.dialog.hide	{HIDE IN THE HOUSE} If you are outside the house, please come into and lock the door, sir.
+call.ks301.dialog.hide1	Yes, that's a great idea. Wait a second.
+call.ks301.dialog.dontsendwait	{DON'T SEND HELP} Now, just wait and observe the bush. Try not to left the house without need. I guess that it's just a cat, but if the bear comes out please call us again and I'll send the emergency unit immediately.
+call.ks301.dialog.eh	I was hoping that you send somebody now. But okay. I'll wait.
+call.ks301.dialog.check	{CHECK THE BUSH} Sir, do you have any pot, pan or something else which can be use to make a noise?
+call.ks301.dialog.21	Umm.. Yeah.. Why?
+call.ks301.dialog.22	I'd like you to make some noise in front of the bush.
+call.ks301.dialog.23	What? Why?
+call.ks301.dialog.24	If there is actually a bear, it should come out and run away.
+call.ks301.dialog.25	Is that wise?
+call.ks301.dialog.26	{YOU SHOULD CHECK IT} Sir, we need to confirm that there is a threat before we can dispatch emergency unit.
+call.ks301.dialog.maybenot	{SEND HELP} If you afraid to do it alone, I will send the firefighters to check it.
+call.ks301.dialog.27	So, it's only way. Okay . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+call.ks301.dialog.28	Ohh, there is a bear actually! But it didn't go away! Fuck!
+call.ks301.dialog.29	Sir? Sir, are you there?
+call.ks301.dialog.30	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+call.ks301.dialog.dontsendend	{DON'T BLOCK THE LINE} As I said there's no sign of emergency situation. Please don't block the line, sir.
+call.ks301.dialog.end1	Eh... I thought you would treat my problem seriously.... Bye
+call.ks301.dialog.reminder	I could swear I heard a roar. Did you hear it?
+call.ks301.dialog.reminder2	Are you still there?
+call.ks301.aar.bear	Caller reported a wild animal in his backyard.
+call.ks301.aar.hide	Operator told the man to lock himself inside the house.
+call.ks301.aar.attack	Instructions given by operator caused that caller was attacked by the bear.
+call.ks301.aar.nosend	The operator decided to not send any unit, because the signs of bear's presence was unclear.
+call.ks301.aar.sended	The operator decided to send a unit to investigate the case. The bear was founded in the bush and was transported to the nearest veterinary institution.
+call.gen21.title	Street fight
+call.gen21.scene.caller	Caller
+call.gen21.scene.fighter1	Fighting man
+call.gen21.scene.fighter2	Fighting man
+call.gen21.scene.fighter3	Fighting man
+call.gen21.scene.fighter4	Fighting man
+call.gen21.scene.injuredf	Injured man
+call.gen21.dialog.1	911, what's your emergency?
+call.gen21.dialog.2	Hello, there is a fight out in the street! Please, send the police quickly!
+call.gen21.dialog.2a	Hello? There some guys here fighting... can you do something about it?
+call.gen21.dialog.address	{ADDRESS?} Could you give me precise address of the incident?
+call.gen21.dialog.addressa0	Yes, of course. It's at [[ADDRESS]]
+call.gen21.dialog.addressa1	345 Fordon Road
+call.gen21.dialog.addressa2	124 5nd Alley
+call.gen21.dialog.addressa3	504 Roderick Square
+call.gen21.dialog.name	What's your name, ma'am?
+call.gen21.dialog.namemale	What's your name, sir?
+call.gen21.dialog.name1	My name is Anna Godder.
+call.gen21.dialog.name2	I'm Marla Sanger.
+call.gen21.dialog.name3	My name's Rita Scoof.
+call.gen21.dialog.who	How many of them there are?
+call.gen21.dialog.two	There are two of them!
+call.gen21.dialog.three	There are three of them!
+call.gen21.dialog.four	Four men are fighting!
+call.gen21.dialog.running	Two men are... oh wait... they're not fighting anymore... one of them is lying in the street now. I think the second man left...
+call.gen21.dialog.checkq	{CHECK HIM} Could you check his medical condition?
+call.gen21.dialog.check	I'll do that. What should I do?
+call.gen21.dialog.notgo	I'd prefer to not go there it might be dangerous!
+call.gen21.dialog.pers	{CONVINCE HER} Ma'am, those people who are fighting went away and in these kind of cases they usually never come back to the crime scene. Your life isn't in danger in contrast to life of that guy lying there on the street. He might die without your intervention.
+call.gen21.dialog.notgosend	{SEND AMBULANCE} Of course, ma'am. Your own safety is the most important. I'll send the ambulance immediately.
+call.gen21.dialog.breath	Is he breathing?
+call.gen21.dialog.breath1	One second.... Yes.
+call.gen21.dialog.wounds	{ANY INJURIES?} Does he have any injuries that you can see?
+call.gen21.dialog.lightw	His face doesn't look good, but apart from bruises and bleeding lip, I don't see any serious wounds.
+call.gen21.dialog.knifew	Just let me look... God. He has a knife in the stomach. There is a lot of blood around it. Should I pull the knife out?
+call.gen21.dialog.55	{YES} Yes, pull the knife out.
+call.gen21.dialog.66	{NO} No, leave it, don't pull the knife out.
+call.gen21.dialog.bleeding	Oh my God, the bleeding is even worse than before. What should I do?
+call.gen21.dialog.nok1	Okay, so what should I do?
+call.gen21.dialog.waitamb	{WAIT FOR AN AMBULANCE} Just wait with him until the ambulance arrives. It's on the way.
+call.gen21.dialog.stopb	{STOP THE BLEEDING} Do you have anything what you can use to stop the bleeding? You know, something to wrap around the knife. You should dress the wound around the knife as best you can. Be careful though, don't move the knife.
+call.gen21.dialog.stopa	{STOP THE BLEEDING} Do you have anything what you can use to stop the bleeding?
+call.gen21.dialog.scarf	I can use a scarf. Wait a second . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Okay, it's done.
+call.gen21.dialog.okwait	Okay, I'll wait.
+call.gen21.dialog.where	{OTHER GUYS?} So these other guys who were fighting, did you see where they went?
+call.gen21.dialog.where1	I've no idea...
+call.gen21.dialog.weapons	{WEAPONS?} Do you see if they have any weapons?
+call.gen21.dialog.noweapons	No, I don't see any.
+call.gen21.dialog.bottle	One of them picked up some kind of a club.
+call.gen21.dialog.knife	Yes, they have knives.
+call.gen21.dialog.injured	Is anybody injured?
+call.gen21.dialog.started	I don't think so. They've just started and they're mostly shouting and pushing each other.
+call.gen21.dialog.light	It's hard to tell, but one of them has taken a lot of punches. I can't believe he's still standing after that!
+call.gen21.dialog.heavy	Oh my... one of them just fell down... he's not moving...
+call.gen21.dialog.calm	{CALM THEM DOWN} Maybe it is possible to calm them down? Do you think you could do it, ma'am?
+call.gen21.dialog.calmno	Me?... No, I'd rather not... Can't you just send the police here?
+call.gen21.dialog.calmyes	Hmm... I could try. What should I do?
+call.gen21.dialog.police	{POLICE IS ON WAY} You could tell them that the police are on the way and if they don't stop they will get arressted.
+call.gen21.dialog.separate	Try to separate them.
+call.gen21.dialog.police1n	Hey! You! Stop fighting! The police are on their way! . . . . . . . I don't know if they didn't hear me or they don't care about the police, but they're still fighting.
+call.gen21.dialog.police1y	Hey! You! Stop fighting! The police are on their way! . . . . . . . Oh! It worked! They've stopped fighting and look like they're just talking now.
+call.gen21.dialog.goodj	Good job, ma'am.
+call.gen21.dialog.goodj1	Thank you! Bye.
+call.gen21.dialog.separate1	And what if they attack me? No...I'm going to stay here. It's a job for the police.
+call.gen21.dialog.oksend	{SEND HELP} Of course, your own safety is the most important. I'm sending an emergency services right now.
+call.gen21.dialog.send	{SEND HELP} I'm sending an emergency services right now.
+call.gen21.dialog.dontsend	{DON'T SEND} Ma'am according to your description that isn't life threatening situation, I don't have any police units available.
+call.gen21.dialog.thanks	Thank you. Bye.
+call.gen21.dialog.nothanks	Really? I thought the police were supposed to protect and serve.... apparently I was wrong!
+call.gen21.dialog.reminder	Are you there, sir?
+call.gen21.dialog.reminder2	Hello?
+call.gen21.aar.story	Men were fighting on a street.
+call.gen21.aar.talking	The caller broke up a fight thanks to operator's instructions.
+call.gen21.aar.injured	In the result of the fight one man was injured.
+call.gen21.aar.nosend	The operator decided that sending the emergency units is not necessary.
+call.gen21.aar.knifeout	The operator gave the caller wrong medical instruction.
+call.gen20.title	Fire
+call.gen20.scene.caller	Caller
+call.gen20.scene.inside1	Tenant
+call.gen20.scene.inside3	Tenant
+call.gen20.scene.fire	Fire
+call.gen20.scene.car	Car on fire
+call.gen20.dialog.1	911, what's your emergency?
+call.gen20.dialog.2	I want to report a fire.
+call.gen20.dialog.2b	There's a fire here!
+call.gen20.dialog.address	{ADDRESS?} Where are you, sir?
+call.gen20.dialog.addressa0	In front of [[ADDRESS]].
+call.gen20.dialog.addressa1	In front of 345 Fordon Road
+call.gen20.dialog.addressa2	At 124 5nd Alley
+call.gen20.dialog.addressa3	Behind 504 Roderick Square
+call.gen20.dialog.name	What's your name, sir?
+call.gen20.dialog.name1	My name is Tom Hilder.
+call.gen20.dialog.name2	I'm Chris Hoover.
+call.gen20.dialog.name3	My name's Oliver Forterson.
+call.gen20.dialog.what	So what's on fire?
+call.gen20.dialog.garbage	Some garbage...
+call.gen20.dialog.room	I guess it's a living room...
+call.gen20.dialog.garage	It's a garage.
+call.gen20.dialog.garbage1	{IS IT SECURED?} Is that garbage placed in some sort of container or a trash bin?
+call.gen20.dialog.dumpster	A large dumpster is burning.
+call.gen20.dialog.trashcan	It's in the trash can.
+call.gen20.dialog.pile	No, it's just a pile of rubbish.
+call.gen20.dialog.around	{FLAMABLES AROUND?} Are there any inflammable materials near the fire?
+call.gen20.dialog.aroundy	Yes.
+call.gen20.dialog.aroundn	No, I don't see any.
+call.gen20.dialog.howbig	How big is the fire?
+call.gen20.dialog.vbig	Pretty big! The flames are shooting up 10, maybe 15 feet!
+call.gen20.dialog.mbig	It's kind of big, like the size of a bonfire.
+call.gen20.dialog.sbig	It's hard to tell. There's a lot of smoke...
+call.gen20.dialog.spread	Is the fire spreading anywhere?
+call.gen20.dialog.spreadyes	Yes.
+call.gen20.dialog.spreadno	I don't think so.
+call.gen20.dialog.burnout	Hm, actually, it looks like it's burning out.
+call.gen20.dialog.room1	{MORE DETAILS} I need you to be more specific, sir? Is the room in a house or an apartment?
+call.gen20.dialog.house	It's part of the house.
+call.gen20.dialog.apartment	It's situated in apartment building.
+call.gen20.dialog.inside	You're not inside, are you?
+call.gen20.dialog.no	No, I saw the fire through a window.
+call.gen20.dialog.own	Is it your place?
+call.gen20.dialog.own1	No, I was just passing by.
+call.gen20.dialog.somebody	{ANYONE INSIDE?} Do you know if there's anyone inside?
+call.gen20.dialog.nobody	I'm not sure, but I don't see or hear anyone.
+call.gen20.dialog.light	Maybe...somebody might be there, I see lights on in other rooms.
+call.gen20.dialog.scream	Yes! I think so! I heard a scream just before I called...
+call.gen20.dialog.gkind	{WHAT KIND?} What kind of a garage is it?
+call.gen20.dialog.resgar	It's the garage, next to the house.
+call.gen20.dialog.parking	It's a parking garage.
+call.gen20.dialog.underground	It's an underground garage.
+call.gen20.dialog.car	{ANY CARS?} Are there any cars near the fire?
+call.gen20.dialog.nocar	No, there isn't.
+call.gen20.dialog.closecar	Yes, obviously, there are quite a few of them
+call.gen20.dialog.burncar	Actually, a car is already on fire.
+call.gen20.dialog.noneed	{NOT URGENT} Sir, I don't think the help of firefighters is really necessary. If the fire doesn't burn out, just call 911 again.
+call.gen20.dialog.send	{SEND FIREFIGHTERS} The fire department is on the way.
+call.gen20.dialog.send1	Okay. Goodbye.
+call.gen20.dialog.noneed1	If you think so... Bye.
+call.gen20.dialog.reminder	Hello?
+call.gen20.dialog.reminder2	Is that everything you need to know?
+call.gen20.aar.story	The caller reported a fire.
+call.gen20.aar.inside	People were inside the burning building.
+call.gen20.aar.nosend	The operator decided that there is no need to send emergency services.
+call.gen20.aar.nobody	Nobody was inside burning building.
+call.wa_b1.title	Blown up car
+call.wa_b1.scene.blown	Blown up car
+call.wa_b1.scene.fire	Car fire
+call.wa_b1.dialog.1	911, what's your emergency?
+call.wa_b1.dialog.2	Oh, you're gonna have an emergency real soon
+call.wa_b1.dialog.3	What do you mean?
+call.wa_b1.dialog.4	I mean that you should look out your window... cya!
+call.wa_b1.dialog.address	Where?
+call.wa_b1.dialog.addressa0	Oh right outside of your window
+call.wa_b1.dialog.reminder	10...... 9...... 8...... 7....... 6......
+call.wa_b1.dialog.reminder2	5...... 4....... 3...... 2....... 1......
+call.wa_b1.aar.story	The caller has mentioned the bomb explosion that happened few seconds later.
+call.wa_b2.title	Possible bomb
+call.wa_b2.scene.bomb	The bomb
+call.wa_b2.scene.bombt	Time to blow up: {1}s
+call.wa_b2.scene.w1	Resident
+call.wa_b2.scene.w2	Resident
+call.wa_b2.scene.w3	Resident
+call.wa_b2.scene.rubble	Rubble
+call.wa_b2.scene.fireb	Fire
+call.wa_b2.scene.evacuation	Evacuation
+call.wa_b2.dialog.1	911, what's your emergency?
+call.wa_b2.dialog.2	Now you know I'm not joking... The next bomb will blow up at [[ADDRESS]]. You have 5 minutes to evacuate.
+call.wa_b2.dialog.why	Why are you doing this?!
+call.wa_b2.dialog.whya	You will learn soon enough.
+call.wa_b2.dialog.where	Where you calling from?
+call.wa_b2.dialog.wherea	HAHAHA! That was really lame and disrespectful! You have 3 minutes instead.
+call.wa_b2.dialog.what	What are your terms?
+call.wa_b2.dialog.whata	Do as I say when I call you next time.
+call.wa_b2.dialog.reminder	Tic-tock-tik-tock
+call.wa_b2.dialog.reminder2	It's not gonna work man, I know the drill.
+call.wa_b2.aar.evac	The residents were evacuated.
+call.wa_b2.aar.story	The caller has given a warning about an incoming explosion.
+call.wa_b2.aar.explode	The bomb blew up.
+call.wa_b4.title	Bomber
+call.wa_b4.scene.bomber	The bomber
+call.wa_b4.scene.car	Abandoned car
+call.wa_b4.dialog.1	911, what's your emergency?
+call.wa_b4.dialog.2	You should listen to my demands, or you will have much bigger problems than you already have...
+call.wa_b4.dialog.opnot	We do not negotiate with terrorists!
+call.wa_b4.dialog.opcons	{STOP IT!} Stop it right now or you will face serious consequences!
+call.wa_b4.dialog.opdem	Ok, what are your demands?
+call.wa_b4.dialog.shame	That is too bad. You will have some blood on your hands very soon...
+call.wa_b4.dialog.opconsa	Oh, I know the consequences and you should also know the consequences of NOT LISTENING TO ME!
+call.wa_b4.dialog.opdema	I want my demands presented to the media: All the deportations of the so called 'illegal immigrants' must stop now, or more bombs will follow. If you want to send us back to the warzone, I will bring the warzone to you. I want to see my demands on every TV station in the city in 5 minutes.
+call.wa_b4.dialog.forthem	So you're doing this for political reasons?
+call.wa_b4.dialog.forthema	Yes, I do it for all the refugees that are not welcome here, for all those that have no voice. I am the one that you have to reckon with!
+call.wa_b4.dialog.onlyworse	{YOU MAKE IT WORSE!} You will only make the things worse this way - far, far worse. You have to stop it now for the sake of your cause
+call.wa_b4.dialog.onlyworsea	I WILL TAKE THE BLAME...Don't you get it??? SOMETHING has to be done...something radical... only RADICAL actions can bring RADICAL CHANGE
+call.wa_b4.dialog.onlyworsea2	I WILL TAKE THE BLAME...Don't you get it??? SOMETHING has to be done... something radical... only RADICAL actions can bring RADICAL CHANGE in this country!
+call.wa_b4.dialog.opok	{OK I WILL} Ok, I'll do what I can to arrange what you asking for.
+call.wa_b4.dialog.opgoon	{I CANT!} But I can't do that, I don't have the authority to make that decision!
+call.wa_b4.dialog.opoka	Good boy. Then, I want a public declaration from the president that not a single person will be departed from the country.
+call.wa_b4.dialog.repeat	{REPEAT PLEASE} I am sorry, could you repeat that?
+call.wa_b4.dialog.repeata	I said, I want THE PRESIDENT to say that NO ONE will be DEPORTED!!!
+call.wa_b4.dialog.opgoona	Of course you can. Just pass it on to your supervisor.
+call.wa_b4.dialog.insane	That's insane, it's impossible!
+call.wa_b4.dialog.insanea	Just DO AS I SAY!!!
+call.wa_b4.dialog.noboms	{IT MAKE NO SENSE} Really, a few bombs aren't gonna force the government to do what you want.
+call.wa_b4.dialog.oktoo	Ok, I will pass that on too
+call.wa_b4.dialog.goodwait	You have 5 minutes. I will talk to you later.
+call.wa_b4.dialog.iknow	We already know where the bomb is!
+call.wa_b4.dialog.iknowa	. . . . . . . . .
+call.wa_b4.dialog.reminder	Play for time again and you won't get a warning for the next bomb.
+call.wa_b4.dialog.reminder2	I mean it!
+call.wa_b4.aar.story	The bomber has called again to make his demands.
+call.wa_b4.aar.explode	The bomb blew up.
+call.wa_b4.aar.deton	The caller has detonated the bomb, probably in panic.
+call.wa_b4.aar.fail	The operator has failed to persuade nor talk the bomber out.
+call.wa_b4.aar.check	A cell phone was found in the car. Both were found out to be stolen.
+call.gen19.title	Stomach ache
+call.gen19.scene.caller	Caller
+call.gen19.dialog.1	911, what's your emergency?
+call.gen19.dialog.2	Hello, my stomach hurts really bad...
+call.gen19.dialog.address	What is your address, sir?
+call.gen19.dialog.addressa0	It's [[ADDRESS]]
+call.gen19.dialog.addressa1	13 Raspberry Road
+call.gen19.dialog.addressa2	104 8th Alley
+call.gen19.dialog.addressa3	64 Frotemond Plaza
+call.gen19.dialog.name	And your name?
+call.gen19.dialog.name1	My name is Kevin Rogerson.
+call.gen19.dialog.name2	I'm Steve Walters.
+call.gen19.dialog.name3	My name's Seth Dorts.
+call.gen19.dialog.howlong	{HOW LONG?} So how long have you had this stomach pain?
+call.gen19.dialog.now	About an hour ago....it started suddenly.
+call.gen19.dialog.hours	I've been feeling awful since morning, but it feels like it's getting worse by the hour.
+call.gen19.dialog.weeks	Hmm... it's about two weeks, I guess.
+call.gen19.dialog.symp	Does anything else hurt?
+call.gen19.dialog.nosymp	No... I can't feel anything except the pain in my belly.
+call.gen19.dialog.headache	I have a terrible headache.
+call.gen19.dialog.vomits	I vomited half an hour ago.
+call.gen19.dialog.alco	Sir, have you drunk alcohol lately?
+call.gen19.dialog.noalco	What? No! It's not a hangover!
+call.gen19.dialog.party	Well... I went to a party last night and... maybe I drink a bit too much...
+call.gen19.dialog.vine	Only a glass of wine during a dinner.
+call.gen19.dialog.nosendalko	{NOT AN EMERGENCY} Sir, probably result of too much alcohol last night, I think that's the reason. I can't send ambulance in such a situation. So here is my advice: Wait a couple of hours, if the pain is still there or it increases get yourselfe to the emergency room at the hospital, OK?
+call.gen19.dialog.nosendresp1	What?! Is this a joke to you? I can barely make it to the toilet and you tell me to wait?
+call.gen19.dialog.nosendresp1a	Sir...
+call.gen19.dialog.nosendresp1b	I heard enough. Bye.
+call.gen19.dialog.nosendresp2	Okay, I guess you're right. Bye.
+call.gen19.dialog.eat	{WHAT DID YOU EAT?} Have you eaten anything unusual lately, sir?
+call.gen19.dialog.noeat	No, just what I always eat.
+call.gen19.dialog.burritoeat	Hm, I don't know.... I ate a burrito, but I don't know if it counts as unusual.
+call.gen19.dialog.musheat	Well... maybe it's because of those mushrooms...
+call.gen19.dialog.doctor	So why haven't you gone to a doctor, sir?
+call.gen19.dialog.doctime	I was busy. There were so many things to do...
+call.gen19.dialog.docserious	I didn't think it would get so bad. But the pain didn't go away and now it's even worse!
+call.gen19.dialog.docpain	I wasn't able to do it. I took a few days off at work, but the pain was so overwhelming... I literally haven't got out of my bed since Tuesday.
+call.gen19.dialog.godoc	{GO TO A DOCTOR} You should go visit a doctor as soon as possible. 911 is for emergencies I hope you understand that, so I can't send an ambulance in this kind of case.
+call.gen19.dialog.othersym	Do you have any other symptoms?
+call.gen19.dialog.diar	Umm...I also have diarrhea.
+call.gen19.dialog.pale	I looked in the mirror and my skin's very pale, I have the chills and I can't stop sweating
+call.gen19.dialog.noother	No, I don't think so.
+call.gen19.dialog.nosendfood	{FOOD MIGHT BE THE REASON} Are you sure about quality of that food that you had? Maybe you might have an indigestion.
+call.gen19.dialog.nosendfoodok	I haven't been to that restaurant before... and, now that I think about it, the burrito didn't taste right...but I ate it anyway.
+call.gen19.dialog.nosendfooddis	It's not about the food...
+call.gen19.dialog.endfood	{GO TO A DOCTOR} Probably there's nothing to worry about. Although, I think you should contact your doctor if the pain doesn't go away.
+call.gen19.dialog.endfood1	Sure. Thank you! Bye.
+call.gen19.dialog.endfood2	Seriously? I knew I could go to the doctor before I called you. Thanks for nothing!
+call.gen19.dialog.send	Okay, I'll send an ambulance to you.
+call.gen19.dialog.sendmush	{SEND AMBULANCE} Sir, there is a possibility that you ate a poisonous mushrooms. I gonna send an ambulance immediately.
+call.gen19.dialog.endmush	Oh, God... what have I done?!?... Please... get the ambulance here fast!
+call.gen19.dialog.sendsymp	{SEND AMBULANCE} Your symptoms could be a signs of something really serious. I gonna get a medical help as soon as possible.
+call.gen19.dialog.waitsick	Thank you... thank you very much. I'll wait for them to get here. Bye.
+call.gen19.dialog.reminder	Ohhhh, my stomach!
+call.gen19.dialog.reminder2	Oh... can you help me?
+call.gen19.aar.story	The caller had severe stomach ache.
+call.gen19.aar.sympserious	Caller had symptoms which could be a signs of serious disease.
+call.gen19.aar.mushrooms	Caller ate toxic mushrooms.
+call.gen19.aar.food	Caller had an indigestion. Medical help was not necessary.
+call.gen19.aar.noemergency	Stomach ache did not appear suddenly and caller should visit a doctor. The help of ambulance was not necessary.
+call.gen19.aar.alco	Stomach ache was caused by the alcohol and medical help wasn't needed.
+call.gen19.aar.sended	The operator decided to send an ambulance.
+call.gen19.aar.ignore	The operator decided that the case was not urgent enough to send emergency medical services. 
+call.wa_b3.title	Possible bomb
+call.wa_b3.scene.caller	Security officer (caller)
+call.wa_b3.scene.bomb	Car bomb
+call.wa_b3.scene.bombt	Time to blow up: {1}s
+call.wa_b3.scene.w1	Resident
+call.wa_b3.scene.w2	Resident
+call.wa_b3.scene.w3	Resident
+call.wa_b3.scene.w4	Resident
+call.wa_b3.scene.w5	Resident
+call.wa_b3.scene.evacuation	Evacuation
+call.wa_b3.scene.w6	Roughed up man
+call.wa_b3.scene.blown	Blown up car
+call.wa_b3.dialog.1	911, what's your emergency?
+call.wa_b3.dialog.2	Hello? Umm... there's a strange car at the back of our building...
+call.wa_b3.dialog.address	Could you give me the address, sir?
+call.wa_b3.dialog.addressa0	Yes, we're at [[ADDRESS]]
+call.wa_b3.dialog.addressa1	its 345 Oxygen Road
+call.wa_b3.dialog.addressa2	its 124 2nd Avenue
+call.wa_b3.dialog.addressa3	its 504 Basic Square
+call.wa_b3.dialog.whatp	Is this a residence or a business?
+call.wa_b3.dialog.whatpa1	It's an insurance company office building.
+call.wa_b3.dialog.whatpa2	It's an office of a mining company.
+call.wa_b3.dialog.whatpa3	It's a labor union office.
+call.wa_b3.dialog.legal	Is that car parked in prohibited area?
+call.wa_b3.dialog.resarea	It's private property.
+call.wa_b3.dialog.name	Who am I speaking to?
+call.wa_b3.dialog.name1	I'm Jason Sobers, security guard.
+call.wa_b3.dialog.who	Did you see who parked it there?
+call.wa_b3.dialog.whoa	That's the thing, nobody saw it being parked and it's not supposed to be there, it's a restricted area.
+call.wa_b3.dialog.cams	{ANY CAMERAS?} Are there any surveillance cameras in the area?
+call.wa_b3.dialog.camsfail	Yeah, we do, but the car is parked exactly in the blind spot!
+call.wa_b3.dialog.dontcome	{STAY AWAY FROM THE CAR} Sir, tell everyone stay away from the area.
+call.wa_b3.dialog.dontcomea	Well, ok... do you think it's that important?
+call.wa_b3.dialog.evacuate	{EVACUATE THE BUILDING} You should start to evacuate the building immediately! Sound the fire alarm now!
+call.wa_b3.dialog.remain	{NOT SURE} No sir, maybe not. Please keep calm, situation is under control.
+call.wa_b3.dialog.evacuatea	Oh my god... do you think it's one of those bombs?! Should I tell people?
+call.wa_b3.dialog.tellyes	{YES} Yes, tell everyone and evacuate as fast as possible!
+call.wa_b3.dialog.tellno	{NO} No, just pull the fire alarm and make sure everyone gets to a safe place.
+call.wa_b3.dialog.tellyesa	OH MY GOD!!! Of course! . . . . . . . . . . . . . . EVERYONE, GET OUT OF HERE NOW, THERE'S A BOMB!..... RUN!.....
+call.wa_b3.dialog.tellnoa	Oh my.... of course.... the alarm . . . . . . . . . . . . . . . . . . . what now?
+call.wa_b3.dialog.waits	{GO TO SAFE ZONE AND WAIT} There is nothing more for you to do right now, just get out of the building, wait in the safe zone for the emergency services to arrive. They will be there shortly.
+call.wa_b3.dialog.whattodo	What should I do then?
+call.wa_b3.dialog.whattodoa	{JUST WAIT} Just wait for the services to arrive.
+call.wa_b3.dialog.endwait	Ok, I will wait...
+call.wa_b3.dialog.check1	Did you check that car?
+call.wa_b3.dialog.nocheck	Not yet. I thought it might be dangerous. There's all kinds of stories about bombs going off in the news. I thought I'd call 911 first.
+call.wa_b3.dialog.check2	{CHECK THE CAR} Go out and check the car closely.
+call.wa_b3.dialog.check3	Ok, I'm going . . . . . . . . . . . . . . . . . . . What should I check?
+call.wa_b3.dialog.check4	Just look through the windows and under the car.
+call.wa_b3.dialog.tellmorea	Ok... Hmmm . . . . . I don't see anything under the car . . . . . . . . I'm looking in the windows . . . . . . Oh, sweet Jesus . . . Is that a bomb?
+call.wa_b3.dialog.describe	What do you see?
+call.wa_b3.dialog.describe1	There is... there's a device with a lot of cables and wires. It's attached to... some kind of a container. God, what should I do?!
+call.wa_b3.dialog.goback	Go back to the building immediately!
+call.wa_b3.dialog.goback1	Yes... I'm going back . . . . . . . . . . . . . . . . . . . . . . . . I'm inside!
+call.wa_b3.dialog.notime	{IT'S NOT IMPORTANT} We have no time for that now, sir. Please contact the security of the building.
+call.wa_b3.dialog.notimea	But I am security!
+call.wa_b3.dialog.ignore	{IT'S YOUR JOB} So... aren't you paid to deal with such problems?
+call.wa_b3.dialog.ignored	Well... yes, but I-I... Nevermind. I'll find somebody who will treat me seriously. Bye.
+call.wa_b3.dialog.end	Ok, I'm going! Thank you!
+call.wa_b3.dialog.reminder	Hello?
+call.wa_b3.dialog.reminder2	I really think that might be dangerous!
+call.wa_b3.aar.story	The caller reported an unknown car in a restricted area.
+call.wa_b3.aar.panic	The caller notified the people about a bomb, causing panic, which resulted in a person being injured.
+call.wa_b3.aar.noevac	The operator told the security guard to wait for emergency services.
+call.wa_b3.aar.nopanic	The operator instructed to start building evacuation.
+call.wa_b3.aar.risk	Operator's instructions put the caller in danger. Checking the car could cause detonation of the bomb.
+call.wa_b3.aar.ignorefail	Operator ignored serious terrorist threat.
+call.wa_b3.aar.explode	The bomb blew up.
+call.gen22.title	Parking violation
+call.gen22.scene.caller	Caller
+call.gen22.scene.car	Parked car
+call.gen22.scene.suspcar	Suspicious car
+call.gen22.dialog.1	911, what's your emergency?
+call.gen22.dialog.2	Hello, I want to report an illegally parked car.
+call.gen22.dialog.2b	Um... there's a strange car parked here.
+call.gen22.dialog.2c	Hi, there is a strange car parked here. Could you check it?
+call.gen22.dialog.place	{WHERE?} Where the car is parked?
+call.gen22.dialog.side	On the sidewalk.
+call.gen22.dialog.mall	In the shopping mall parking.
+call.gen22.dialog.hospital	It's a restricted area.
+call.gen22.dialog.legal	{PROHIBITED AREA?} Is the car parked in a prohibited area?
+call.gen22.dialog.illegal	Yes, there's a sign here saying 'NO PARKING'
+call.gen22.dialog.feeling	No... but I don't think it should be parked here.
+call.gen22.dialog.blocking	The car is blocking the traffic!
+call.gen22.dialog.address	{ADDRESS?} Can you give me the address of where this car is parked, sir?
+call.gen22.dialog.addressa0	It's [[ADDRESS]]
+call.gen22.dialog.addressa1	20 Frideric Street
+call.gen22.dialog.addressa2	402 Vortens Plaza
+call.gen22.dialog.addressa3	154 49th Alley
+call.gen22.dialog.why	{WHAT'S CONCERNING?} Sir, what is it about the parked car that has you concerned?
+call.gen22.dialog.myspot	This is my spot!
+call.gen22.dialog.nospace	There is not enough space to walk through.
+call.gen22.dialog.private	Private cars are not allowed to park here.
+call.gen22.dialog.dontsend2	{NO EMERGENCY} Sir, this isn't an emergency call. You will need to contact proper city services to make a complain. 
+call.gen22.dialog.why2	Why is that, sir?
+call.gen22.dialog.privat	It's private property.
+call.gen22.dialog.safe	It's for safety reasons. Maybe I'm overreacting, but could you send the police to check it?
+call.gen22.dialog.y	{YES} Yes, of course. I'll send the police to check the car.
+call.gen22.dialog.n	{NO} Sir, honestly I don't know why you would feel threatened by this vehicle.
+call.gen22.dialog.send	{POLICE WILL CHECK} I'll have an officer check it out and they'll decide if the car should be towed.
+call.gen22.dialog.thanks	Thank you! Bye.
+call.gen22.dialog.end	I hope you will not regret that decision. Bye.
+call.gen22.dialog.end2	Ok, I'll do it. Bye.
+call.gen22.dialog.end3	Oh, really? I though you have to at least try to help me. Eh...
+call.gen22.dialog.reminder	Hello..? Are you still there?
+call.gen22.dialog.reminder2	Hey! I'm waiting!
+call.gen22.aar.story	The caller reported a car parked in a wrong area.
+call.gen22.aar.shouldcheck	The operator didn't check the possible bomb threat.
+call.gen22.aar.check	The operator decided to check the suspicious car, but the police didn't find anything dangerous.
+call.gen22.aar.blocked	The car was blocking traffic.
+call.gen22.aar.illegal	The car was parked on a handicapped parking space. Owner of the car had broken the law, but the intervention of emergency services wasn't necessary.
+call.gen22.aar.noneed	The intervention of emergency services wasn't necessary.
+call.gen22.aar.moved	The car was removed.
+call.go90.title	Childbirth in a traffic jam
+call.go90.scene.father	Father (caller)
+call.go90.scene.mother	Mother
+call.go90.scene.child	Newborn
+call.go90.dialog.1	911, what's your emergency?
+call.go90.dialog.2	My wife is giving birth!
+call.go90.dialog.where	{WHERE?} Sir, keep calm. Where are you?
+call.go90.dialog.freq	{ANY CONTRACTIONS?} Does your wife have contractions?
+call.go90.dialog.jam	We were heading to hospital, but we get stuck in a traffic jam! There is no way we can get out of here! Please help us!
+call.go90.dialog.freq1	Yes... wait a second . . do you have contractions? . . . . . . . . . . . . Contractions are getting stronger and occurs very often. Send an ambulance quickly!
+call.go90.dialog.month	{MONTH?} How far along is your wife's pregnancy?
+call.go90.dialog.month1	She's in her ninth month, sir! We need help!
+call.go90.dialog.address	{WHERE ARE YOU?} What is your exact location, sir?
+call.go90.dialog.addressa0	We're stuck near [[ADDRESS]].
+call.go90.dialog.addressa1	We're stuck near 20 Frote Road
+call.go90.dialog.addressa2	We're stuck near 104 9th Alley
+call.go90.dialog.addressa3	We're stuck near 154 Downtown Street
+call.go90.dialog.toolate	{YOU HAVE TO ACT} I'll send an ambulance, but it may not arrive before the baby!
+call.go90.dialog.panic	What?! What does it mean?! That's our baby!!! I don't know what to do!!! Oh my God, I'm gonna... I can't...
+call.go90.dialog.hardcalm	{BE A MAN} Hey, be a man! Stay strong for your wife, she has far more difficult task than you.
+call.go90.dialog.namecalm	{CALM HIM} Everything will be fine, sir. Do you have a name for the baby already?
+call.go90.dialog.namecalm1	Em... yes. We're expecting a girl, so we'll name her Lucy, after my grandma.
+call.go90.dialog.namecalm2	It's a beautiful name. So, please be calm, listen my instructions and together we will take care of your wife and Lucy, okay?
+call.go90.dialog.namecalm3	. . . . . okay... let's do it...
+call.go90.dialog.trycalm	I-I'll try...
+call.go90.dialog.first	What should I do first?
+call.go90.dialog.clothes	{TAKE OFF WIFE'S CLOTHES} Help your wife to take off her clothes. She shouldn't have anything below the waist.
+call.go90.dialog.flat	{LIE DOWN YOUR WIFE} Make sure your wife lies down on steady, flat surface.
+call.go90.dialog.left	{FIND SOMEONE TO HELP} Left your car and try to find somebody who has ever assisted in childbirth.
+call.go90.dialog.left1	Should I leave my wife alone?!
+call.go90.dialog.leftno	{NO} No, that's a bad idea.
+call.go90.dialog.thenwhat	Then what should I do???
+call.go90.dialog.leftyes	{YES} Yes. Try to do it quickly.
+call.go90.dialog.leftend	Okay... So... I'm going. Thanks for the help... I guess...
+call.go90.dialog.backseat	Okay, wait. I'll make some space on the backseat . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . .
+call.go90.dialog.backseat1	Thank God I bought a big car. . . . . . . . .
+call.go90.dialog.backseat2	Lay down, honey. You need to lay down. . . . . . . . . . . . .
+call.go90.dialog.backseat3	Okay, what's next?
+call.go90.dialog.clothes1	Sure.
+call.go90.dialog.clothes2	Honey, you need to take off your pants... Let me help you . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+call.go90.dialog.clothes3	Done.
+call.go90.dialog.relax	{RELAX AND WAIT} Now, your wife should try to relax and breath deeply. She'll probably have an urge to push very soon.
+call.go90.dialog.water	Has her water broken yet?
+call.go90.dialog.water1	My wife says so... she's all wet
+call.go90.dialog.push	{PUSH} Now, you should tell your wife to push.
+call.go90.dialog.okstart	Okay.
+call.go90.dialog.forcepush	Push, honey! Push! Come on!
+call.go90.dialog.relaxpush	Relax, sweetheart. Take a deep breaths. Yes, like that. Everything will be okay.
+call.go90.dialog.screams	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+call.go90.dialog.babysee	I see the baby!
+call.go90.dialog.head	Can you see the head?
+call.go90.dialog.legs	I can't! I don't see the head! Oh God, those are legs. Christ, what I'm supposed to do?!
+call.go90.dialog.stoplab	Your wife needs to stop pushing or at least delay her labor. The ambulance is on the way.
+call.go90.dialog.pull	{PULL OUT THE BABY} You should pull the baby in your direction.
+call.go90.dialog.head1	Yes, it's the head!
+call.go90.dialog.pull1	What? I can't do that! The head is slippery and I don't want to hurt the baby.
+call.go90.dialog.inprogress	Okay, wait until the baby is out. You'll need to catch her and protect her from falling.
+call.go90.dialog.inprogress1	Okay, okay. Darling, you can do this!
+call.go90.dialog.inprogress2	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+call.go90.dialog.inprogress3	Oh, my God...... she's here. It's a girl! Our baby...
+call.go90.dialog.congrats	Congratulations! You did it!
+call.go90.dialog.congrats2	Thank you!
+call.go90.dialog.breathing	{IS THE BABY BREATHING?} Is she breathing? Is she crying?
+call.go90.dialog.breathing1	Yes, she is... she looks healthy and beautiful. My sweet Lucy...
+call.go90.dialog.nocry	She isn't crying! I don't know... I don't know if she's breathing!
+call.go90.dialog.rub	{RUB HER BACK} Don't panic, sir. If she's not crying you may need to clear her airway. Use your little finger to remove any mucous from her mouth then turn her over face down and pat her back.
+call.go90.dialog.badwait	{WAIT FOR HELP} Don't do anything, just wait for an ambulance. It's on the way.
+call.go90.dialog.rubworked	Okay. . . . . It worked! Oh, Jesus, I'm so happy, Lucy is alive!
+call.go90.dialog.givetoma	You can give Lucy to your wife.
+call.go90.dialog.stomach	You should put the child on mother's stomach.
+call.go90.dialog.cordblock	Sure...... Oh, I can't do it, because of umbilical cord. Sweet God, I almost disrupt it.
+call.go90.dialog.tie	{TIE THE CORD} Find something to tie the umbilical cord. It could be anything: ribbon, string or even a clean shoelace.
+call.go90.dialog.pulsate	Check if the umbilical cord is still pulsating.
+call.go90.dialog.pulsate1	No, it isn't!
+call.go90.dialog.tie1	Okay, I got a ribbon.
+call.go90.dialog.tie2	Now, you should make a knot about 1,5 inches from the newborn's belly.
+call.go90.dialog.tie3	. . . . . . . . . . . . . . . . . . . . It's done. Should I cut it?
+call.go90.dialog.necess	Yes, do it immediately.
+call.go90.dialog.nonecess	{NOT NECESSARY} It isn't necessary. You can wait with that until you get to the hospital.
+call.go90.dialog.stayordrive	Okay... The traffic jam looks a bit smaller. Should I drive to the hospital or an ambulance will arrive here?
+call.go90.dialog.stay	{WAIT} Just wait, the ambulance is almost there.
+call.go90.dialog.drive	{GO ON YOUR OWN} The hardest part is behind you. Just drive to the hospital.
+call.go90.dialog.end	Okay, thank you very much sir.
+call.go90.dialog.end2	Oh God, we'll try. Please, hurry!
+call.go90.dialog.reminder	. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+call.go90.dialog.reminder2	So what should I do now?
+call.go90.aar.story	Pregnant woman has started giving a birth in a traffic jam.
+call.go90.aar.badinst	The operator gave wrong medical instruction.
+call.go90.aar.keepcalm	The operator efficiently calm down the man.
+call.go90.aar.nocalm	The operator didn't manage to calm down the man.
+call.go90.aar.badidea	The operator put the woman in danger. Her husband left her alone, because of the operator's instruction.
+call.go90.aar.badwait	The operator didn't give important medical instruction, which put newborn's life in danger.
+call.go90.aar.itsalive	The child was born.
+call.gen20_2.title	Fire
+call.gen20_2.scene.caller	Caller
+call.gen20_2.scene.arson	Arsonist
+call.gen20_2.scene.arson2	Caller
+call.gen20_2.scene.inside1	Tenant
+call.gen20_2.scene.inside3	Tenant
+call.gen20_2.scene.fire	Fire
+call.gen20_2.scene.car	Car on fire
+call.gen20_2.dialog.1	911, what's your emergency?
+call.gen20_2.dialog.2	Hello, I've seen a fire. Can you do something with it?
+call.gen20_2.dialog.2b	It's burning here! Please, send help!
+call.gen20_2.dialog.address	What's the address you'r calling from, ma'am?
+call.gen20_2.dialog.addressa0	In front of [[ADDRESS]].
+call.gen20_2.dialog.addressa1	In front of 345 Fordon Road
+call.gen20_2.dialog.addressa2	At 124 5nd Alley
+call.gen20_2.dialog.addressa3	Behind 504 Roderick Square
+call.gen20_2.dialog.name	What's your name?
+call.gen20_2.dialog.name1	My name is Charlene Gee.
+call.gen20_2.dialog.name2	I'm Jessica Domaters.
+call.gen20_2.dialog.name3	My name's Olivia Brightow.
+call.gen20_2.dialog.what	What is burning?
+call.gen20_2.dialog.garbage	Just garbage...
+call.gen20_2.dialog.room	I don't know, it's probably a living room...
+call.gen20_2.dialog.garage	A garage!
+call.gen20_2.dialog.garbage1	Is the garbage in some sort of container or dumpster?
+call.gen20_2.dialog.dumpster	It's placed in a dumpster. Pretty big one!
+call.gen20_2.dialog.trashcan	Emm.. it's just a trash can.
+call.gen20_2.dialog.pile	No, it's a pile of rubbish lying on the ground.
+call.gen20_2.dialog.around	Are there any inflammable materials around the fire?
+call.gen20_2.dialog.aroundy	Yes, there is!
+call.gen20_2.dialog.aroundn	Emm... no, I don't see any.
+call.gen20_2.dialog.howbig	How big is this fire?
+call.gen20_2.dialog.vbig	The flames are huge! They're shooting into the sky! It's looks really scary.
+call.gen20_2.dialog.mbig	Big enough to be worried about! Send help!
+call.gen20_2.dialog.sbig	I don't know... There's a lot of thick smoke... I can barely see the fire.
+call.gen20_2.dialog.spread	Is the fire spreading?
+call.gen20_2.dialog.spreadyes	Yes, it is.
+call.gen20_2.dialog.spreadno	I don't think so.
+call.gen20_2.dialog.burnout	No... Hmm.. Now, it looks like it's burning out.
+call.gen20_2.dialog.room1	{MORE DETAILS} Could you be more specific, ma'am? Is the room in a house or in a apartment?
+call.gen20_2.dialog.house	Yes, the house is burning.
+call.gen20_2.dialog.apartment	The fire is in a apartment building.
+call.gen20_2.dialog.inside	Are you inside?
+call.gen20_2.dialog.no	No, I'm on the street.
+call.gen20_2.dialog.cause	Do you know what caused the fire?
+call.gen20_2.dialog.cause1	I have no idea.
+call.gen20_2.dialog.cause2	Somebody set it on fire.
+call.gen20_2.dialog.who	Did you see who did it?
+call.gen20_2.dialog.idid	I did...
+call.gen20_2.dialog.ididi	I did...
+call.gen20_2.dialog.idid1	What?! Did you set the fire?
+call.gen20_2.dialog.idid2	. . . . . .
+call.gen20_2.dialog.teens	It was a bunch of kids. Those teenagers...they behave like animals nowadays!
+call.gen20_2.dialog.somebody	Do you know if there's anybody inside?
+call.gen20_2.dialog.nobody	I don't know. I haven't been inside.
+call.gen20_2.dialog.light	There are lights on inside, so... somebody might be there...
+call.gen20_2.dialog.scream	I think there is! I heard a scream a moment ago!
+call.gen20_2.dialog.gkind	What kind of garage is that?
+call.gen20_2.dialog.resgar	Just a small garage near to the house.
+call.gen20_2.dialog.parking	It's a parking garage.
+call.gen20_2.dialog.underground	It's an underground garage.
+call.gen20_2.dialog.car	Are there any cars near the fire?
+call.gen20_2.dialog.nocar	I don't see any.
+call.gen20_2.dialog.closecar	Of course, there are plenty of cars around the fire!
+call.gen20_2.dialog.burncar	Oh, didn't I say that a car is already on fire?
+call.gen20_2.dialog.noneed	{DON'T SEND} I don't think the help of firefighters is really necessary. If the fire doesn't burn out, please call 911 again.
+call.gen20_2.dialog.send	{SEND FIREFIGHTERS} I am sending fire department now.
+call.gen20_2.dialog.send1	Good. Bye!
+call.gen20_2.dialog.noneed1	If you think so... Bye.
+call.gen20_2.dialog.reminder	So...? That's all?
+call.gen20_2.dialog.reminder2	The fire won't wait for you!
+call.gen20_2.aar.inside	People were inside the burning building.
+call.gen20_2.aar.nosend	The operator decided that there is no need of sending emergency services.
+call.gen20_2.aar.nobody	Nobody was inside burning building.
+call.gen20_2.aar.firestarter	The caller admitted that she raised the fire.
+call.gen20_2.aar.story	The caller reported a fire.
+call.ksold3.title	Murdered wife
+call.ksold3.scene.caller	Caller
+call.ksold3.scene.wife	Murdered wife
+call.ksold3.scene.deadcaller	Dead caller
+call.ksold3.dialog.1	911, what's your emergency?
+call.ksold3.dialog.2	I.... I committed a murder...
+call.ksold3.dialog.address	Where did it happen?
+call.ksold3.dialog.addressa0	At [[ADDRESS]].
+call.ksold3.dialog.addressa1	23 Rosemary Road
+call.ksold3.dialog.addressa2	425 Downtown Alley
+call.ksold3.dialog.addressa3	235 Rotten Street
+call.ksold3.dialog.name	What's your name, sir?
+call.ksold3.dialog.name1	Arthur Marton.
+call.ksold3.dialog.name2	Adam Weasy.
+call.ksold3.dialog.name3	Robert Novak.
+call.ksold3.dialog.who	Who is a murderer?
+call.ksold3.dialog.iam	I am...
+call.ksold3.dialog.how	How did it happen?
+call.ksold3.dialog.how1	It was a.... we had an argument... It was self-defense.
+call.ksold3.dialog.sd	What do you mean by a self-defense?
+call.ksold3.dialog.knife	She had a knife...
+call.ksold3.dialog.victim	Who is a victim?
+call.ksold3.dialog.wife	It's my wife. Could you send a police here?
+call.ksold3.dialog.weapon	Have you got any weapon?
+call.ksold3.dialog.weapon1	Yes, I have a gun.
+call.ksold3.dialog.gunaway	{PUT IT AWAY} Make sure to put it away.
+call.ksold3.dialog.gunaway1	Yes... I'll... I'll put it on the table... I'm nowhere near the gun.
+call.ksold3.dialog.sure	Are you sure your wife is dead?
+call.ksold3.dialog.sure1	Yes... yes, I'm sure.
+call.ksold3.dialog.breathing	Can you check if she breathing?
+call.ksold3.dialog.nocalm	I told you. She is dead! I shot her in a head...
+call.ksold3.dialog.sendp	{WAIT FOR THE POLICE} Sir, stay where you are and wait for the police, okay? They'll handle this.
+call.ksold3.dialog.end	Okay, I'll wait. Thank you.
+call.ksold3.dialog.unfair	{IT'S NOT SELF-DEFENCE} She had a knife and you used a gun? That clearly wasn't a self-defense.
+call.ksold3.dialog.unfair1	She came at me with a knife. I didn't have a choice... I just did it... I wasn't thinking..
+call.ksold3.dialog.always	There is always a choice.
+call.ksold3.dialog.always1	. . . . . . .
+call.ksold3.dialog.reminder	What now?
+call.ksold3.dialog.reminder2	Send the police, please.
+call.ksold3.aar.story	The caller has admitted to murder his wife.
+call.ksold3.aar.suicide	The caller committed a suicide after a conversation with 911 operator. Some of operator's questions may provoke him to do it.
