@@ -1,0 +1,16 @@
+{
+    "publisherName": "GAMES OPERATORS",
+    "publisherWebsite": "http://www.gameops.pl/",
+	"timeToLoad": "5",
+	"steamAppsIds": [
+			{"id": "1185810", "link": ""},				
+			{"id": "871530", "link": ""},
+			{"id": "936490", "link": ""},
+			{"id": "863460", "link": ""},
+			{"id": "793460", "link": ""},
+			{"id": "936500", "link": "https://www.kickstarter.com/projects/gameops/transport-inc-real-world-map-data-in-a-transport-game"},
+			{"id": "844260", "link": ""},
+			{"id": "852220", "link": ""},
+			{"id": "1168610", "link": ""}
+	]
+}
